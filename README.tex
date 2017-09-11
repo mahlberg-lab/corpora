@@ -93,21 +93,24 @@
 The sources were the Gutenberg plain text UTF-8 files.
 
 \begin{enumerate}
+    \item \label{lst:line_endings} Convert to unix line endings.
     \item \label{lst:non_auth} Remove non-authorial text.
     \item \label{lst:title} Reformat the book title and author to make consistent across all texts. 
     \item \label{lst:chapters} Reformat chapter headings to make consistent across all texts. 
-    \item \label{lst:line_endings} Convert to unix line endings.
     \item \label{lst:ascii_7} Convert to 7-bit ASCII.
-    \item \label{lst:underscores} Delete all underscores. Generally used to typeset emphasis.
 \end{enumerate}
 
 Steps \ref{lst:non_auth}, \ref{lst:title} and \ref{lst:chapters} were done manually.
 Step \ref{lst:ascii_7} unifies the use of hyphens, apostrophes and quotes across the texts; 7-bit ASCII\footnote{\url{https://tools.ietf.org/html/rfc20}} is a subset of UTF-8\footnote{\url{https://tools.ietf.org/html/rfc3629}} and so the files may be treated as UTF-8.
-Texts were converted to ASCII using Version 1.30 of the Perl module \texttt{Text::Unidecode}\footnote{\url{http://search.cpan.org/perldoc?Text::Unidecode}}.
 
-Steps \ref{lst:line_endings}, \ref{lst:ascii_7} and \ref{lst:underscores} can be automated using the simple shell script \texttt{clean.sh}
-\lstinputlisting[language=bash]{./clean.sh}
-
+Step \ref{lst:line_endings} can be achieved using the following command
+\begin{verbatim}
+    dos2unix *.txt
+\end{verbatim}
+Step \ref{lst:ascii_7} was achieved using Version 1.30 of the Perl module \texttt{Text::Unidecode}\footnote{\url{http://search.cpan.org/perldoc?Text::Unidecode}} with the following command
+\begin{verbatim}
+    perl -C -MText::Unidecode -n -i -e'print unidecode($_)' *.txt
+\end{verbatim}
 
 \section{Corpora}
 
