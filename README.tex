@@ -1,0 +1,120 @@
+\documentclass[a4paper,10pt]{paper}
+
+\usepackage[utf8]{inputenc}
+\setlength{\parindent}{0pt}
+%% say no to serif
+\renewcommand*\familydefault{\sfdefault}
+\usepackage{amsmath}
+\usepackage[inner=2.5cm,outer=2.5cm,bottom=2.5cm,top=2.5cm]{geometry}
+
+%% allow referencing of enumerated lists
+\usepackage{enumitem}
+
+%% bibliography
+\usepackage{nameref}
+\usepackage[british]{babel}
+\usepackage[
+    style=apa,
+    backend=biber,
+    url=true, 
+    doi=false,
+    eprint=false,
+    bibencoding=utf8
+]{biblatex}
+\DeclareLanguageMapping{british}{british-apa}
+\DeclareFieldFormat{apacase}{#1}  % otherwise apa sentence cases
+\addbibresource{corpora.bib}
+
+% ==========
+% non-R code
+% ==========
+
+\RequirePackage{listings}
+\lstset{
+    basicstyle=\footnotesize,
+    xleftmargin=1.4em,
+    framextopmargin=10pt,
+    framexbottommargin=10pt,
+    frame=tb, framerule=0pt,
+}
+
+\date{}
+
+\author{
+    \scriptsize
+    \parbox{0.25\textwidth}{
+       \small
+       Viola Wiegand \\
+       \scriptsize
+       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham \\
+       \texttt{v.wiegand@bham.ac.uk}
+    }
+    \parbox{0.25\textwidth}{
+       \small
+       Anna Čermáková \\
+       \scriptsize
+       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham
+%       \texttt{@bham.ac.uk}
+    }
+    \parbox{0.25\textwidth}{
+       \small
+       Michaela Mahlberg \\
+       \scriptsize
+       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham \\
+       \texttt{m.a.mahlberg@bham.ac.uk}
+    }
+    \\ \\
+    \parbox{0.30\textwidth}{
+       \small
+       Jamie Lentin \\
+       \scriptsize
+       Shuttle Thread\\ Manchester \\
+       \texttt{jamie.lentin@shuttlethread.com}
+    }
+    \parbox{0.30\textwidth}{
+        \small Anthony Hennessey \\
+        \scriptsize
+        Statistics and Probability\\ School of Mathematical Sciences\\ University of Nottingham \\
+        \texttt{anthony.hennessey@nottingham.ac.uk}
+    }
+}
+
+\title{README}
+
+\begin{document}
+
+\nocite{*}
+
+\maketitle
+
+\tableofcontents
+
+\section{Cleaning}
+The sources were the Gutenberg plain text UTF-8 files.
+
+\begin{enumerate}
+    \item \label{lst:non_auth} Remove non-authorial text.
+    \item \label{lst:title} Reformat the book title and author to make consistent across all texts. 
+    \item \label{lst:chapters} Reformat chapter headings to make consistent across all texts. 
+    \item \label{lst:line_endings} Convert to unix line endings.
+    \item \label{lst:ascii_7} Convert to 7-bit ASCII.
+    \item \label{lst:underscores} Delete all underscores. Generally used to typeset emphasis.
+\end{enumerate}
+
+Steps \ref{lst:non_auth}, \ref{lst:title} and \ref{lst:chapters} were done manually.
+Step \ref{lst:ascii_7} unifies the use of hyphens, apostrophes and quotes across the texts; 7-bit ASCII\footnote{\url{https://tools.ietf.org/html/rfc20}} is a subset of UTF-8\footnote{\url{https://tools.ietf.org/html/rfc3629}} and so the files may be treated as UTF-8.
+Texts were converted to ASCII using Version 1.30 of the Perl module \texttt{Text::Unidecode}\footnote{\url{http://search.cpan.org/perldoc?Text::Unidecode}}.
+
+Steps \ref{lst:line_endings}, \ref{lst:ascii_7} and \ref{lst:underscores} can be automated using the simple shell script \texttt{clean.sh}
+\lstinputlisting[language=bash]{./clean.sh}
+
+
+\section{Corpora}
+
+\subsection{ChiLit - Children's Literature}
+From work by Anna Čermáková.
+
+\subsubsection{Included texts}
+\printbibliography[heading=none,keyword=ChiLit]
+
+\end{document}
