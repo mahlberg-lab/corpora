@@ -7,12 +7,12 @@ Anna Sewell
      this little book is affectionately dedicated.
 
 
-Part I
+PART I.
 
 
 
 
-01 My Early Home
+CHAPTER 1. My Early Home
 
 
 The first place that I can well remember was a large pleasant meadow
@@ -87,7 +87,7 @@ as gentle as our master, so we were well off.
 
 
 
-02 The Hunt
+CHAPTER 2. The Hunt
 
 
 Before I was two years old a circumstance happened which I have never
@@ -189,7 +189,7 @@ knew; but ‘twas all for one little hare.
 
 
 
-03 My Breaking In
+CHAPTER 3. My Breaking In
 
 
 I was now beginning to grow handsome; my coat had grown fine and soft,
@@ -313,7 +313,7 @@ still I say, do your best wherever it is, and keep up your good name.”
 
 
 
-04 Birtwick Park
+CHAPTER 4. Birtwick Park
 
 
 At this time I used to stand in the stable and my coat was brushed every
@@ -414,7 +414,7 @@ she did not stay in that box.”
 
 
 
-05 A Fair Start
+CHAPTER 5. A Fair Start
 
 
 The name of the coachman was John Manly; he had a wife and one little
@@ -544,7 +544,7 @@ with him as with Ginger, who stood in the same stable.
 
 
 
-06 Liberty
+CHAPTER 6. Liberty
 
 
 I was quite happy in my new place, and if there was one thing that I
@@ -594,7 +594,7 @@ shade of the large chestnut tree.
 
 
 
-07 Ginger
+CHAPTER 7. Ginger
 
 
 One day when Ginger and I were standing alone in the shade, we had a
@@ -721,7 +721,7 @@ and thoughtful, and I soon learned what he wanted.”
 
 
 
-08 Ginger’s Story Continued
+CHAPTER 8. Ginger’s Story Continued
 
 
 The next time that Ginger and I were together in the paddock she told me
@@ -841,7 +841,7 @@ sense, and given to the horse every day.
 
 
 
-09 Merrylegs
+CHAPTER 9. Merrylegs
 
 
 Mr. Blomefield, the vicar, had a large family of boys and girls;
@@ -932,7 +932,7 @@ to that.”
 
 
 
-10 A Talk in the Orchard
+CHAPTER 10. A Talk in the Orchard
 
 
 Ginger and I were not of the regular tall carriage horse breed, we had
@@ -1113,7 +1113,7 @@ scattered on the grass.
 
 
 
-11 Plain Speaking
+CHAPTER 11. Plain Speaking
 
 
 The longer I lived at Birtwick the more proud and happy I felt at having
@@ -1218,7 +1218,7 @@ they parted.
 
 
 
-12 A Stormy Day
+CHAPTER 12. A Stormy Day
 
 
 One day late in the autumn my master had a long journey to go on
@@ -1332,7 +1332,7 @@ I was glad of it, for I was tired.
 
 
 
-13 The Devil’s Trade Mark
+CHAPTER 13. The Devil’s Trade Mark
 
 
 One day when John and I had been out on some business of our master’s,
@@ -1424,7 +1424,7 @@ things come to be turned inside out.”
 
 
 
-14 James Howard
+CHAPTER 14. James Howard
 
 
 Early one morning in December John had just led me into my box after my
@@ -1527,7 +1527,7 @@ and keep their wits about them.
 
 
 
-15 The Old Hostler
+CHAPTER 15. The Old Hostler
 
 
 After this it was decided by my master and mistress to pay a visit to
@@ -1626,7 +1626,7 @@ corn, and James and the old man left the stable together.
 
 
 
-16 The Fire
+CHAPTER 16. The Fire
 
 
 Later on in the evening a traveler’s horse was brought in by the second
@@ -1762,7 +1762,7 @@ buried under the burnt rafters and tiles.
 
 
 
-17 John Manly’s Talk
+CHAPTER 17. John Manly’s Talk
 
 
 The rest of our journey was very easy, and a little after sunset we
@@ -1891,7 +1891,7 @@ John was quite encouraged about him.
 
 
 
-18 Going for the Doctor
+CHAPTER 18. Going for the Doctor
 
 
 One night, a few days after James had left, I had eaten my hay and was
@@ -2010,7 +2010,7 @@ and that it was for the sake of the mistress.
 
 
 
-19 Only Ignorance
+CHAPTER 19. Only Ignorance
 
 
 I do not know how long I was ill. Mr. Bond, the horse-doctor, came every
@@ -2087,7 +2087,7 @@ of John’s words when I came to know more of the world.
 
 
 
-20 Joe Green
+CHAPTER 20. Joe Green
 
 
 Joe Green went on very well; he learned quickly, and was so attentive
@@ -2188,7 +2188,7 @@ into a man.
 
 
 
-21 The Parting
+CHAPTER 21. The Parting
 
 
 Now I had lived in this happy place three years, but sad changes were
@@ -2283,12 +2283,12 @@ now.
 
 
 
-Part II
+PART II.
 
 
 
 
-22 Earlshall
+CHAPTER 22. Earlshall
 
 
 The next morning after breakfast Joe put Merrylegs into the mistress’
@@ -2420,7 +2420,7 @@ pleasure; but the worst was not come.
 
 
 
-23 A Strike for Liberty
+CHAPTER 23. A Strike for Liberty
 
 
 One day my lady came down later than usual, and the silk rustled more
@@ -2523,7 +2523,7 @@ helped; at any rate, nothing was done to relieve me.
 
 
 
-24 The Lady Anne, or a Runaway Horse
+CHAPTER 24. The Lady Anne, or a Runaway Horse
 
 
 Early in the spring, Lord W---- and part of his family went up to
@@ -2720,7 +2720,7 @@ forward to a happy life.
 
 
 
-25 Reuben Smith
+CHAPTER 25. Reuben Smith
 
 
 Now I must say a little about Reuben Smith, who was left in charge of
@@ -2825,7 +2825,7 @@ Farmer Grey’s.
 
 
 
-26 How it Ended
+CHAPTER 26. How it Ended
 
 
 It must have been nearly midnight when I heard at a great distance the
@@ -2917,7 +2917,7 @@ gloomy Union House.
 
 
 
-27 Ruined and Going Downhill
+CHAPTER 27. Ruined and Going Downhill
 
 
 As soon as my knees were sufficiently healed I was turned into a small
@@ -3005,7 +3005,7 @@ themselves.
 
 
 
-28 A Job Horse and His Drivers
+CHAPTER 28. A Job Horse and His Drivers
 
 
 Hitherto I had always been driven by people who at least knew how to
@@ -3126,7 +3126,7 @@ This was the sort of experience we job horses often came in for.
 
 
 
-29 Cockneys
+CHAPTER 29. Cockneys
 
 
 Then there is the steam-engine style of driving; these drivers were
@@ -3324,7 +3324,7 @@ pass that in the summer I was sold to Mr. Barry.
 
 
 
-30 A Thief
+CHAPTER 30. A Thief
 
 
 My new master was an unmarried man. He lived at Bath, and was much
@@ -3411,7 +3411,7 @@ guilty, but the man was sentenced to prison for two months.
 
 
 
-31 A Humbug
+CHAPTER 31. A Humbug
 
 
 My master was not immediately suited, but in a few days my new groom
@@ -3510,12 +3510,12 @@ kept till my feet were quite sound, and was then sold again.
 
 
 
-Part III
+PART III.
 
 
 
 
-32 A Horse Fair
+CHAPTER 32. A Horse Fair
 
 
 No doubt a horse fair is a very amusing place to those who have nothing
@@ -3640,7 +3640,7 @@ was going to be happy.
 
 
 
-33 A London Cab Horse
+CHAPTER 33. A London Cab Horse
 
 
 Jeremiah Barker was my new master’s name, but as every one called him
@@ -3763,7 +3763,7 @@ history.
 
 
 
-34 An Old War Horse
+CHAPTER 34. An Old War Horse
 
 
 Captain had been broken in and trained for an army horse; his first
@@ -3925,7 +3925,7 @@ over the sea on purpose to kill them.”
 
 
 
-35 Jerry Barker
+CHAPTER 35. Jerry Barker
 
 
 I never knew a better man than my new master. He was kind and good, and
@@ -4132,7 +4132,7 @@ went to their cabs.
 
 
 
-36 The Sunday Cab
+CHAPTER 36. The Sunday Cab
 
 
 One morning, as Jerry had just put me into the shafts and was fastening
@@ -4297,7 +4297,7 @@ cabmen as it is for the church-goers.”
 
 
 
-37 The Golden Rule
+CHAPTER 37. The Golden Rule
 
 
 Two or three weeks after this, as we came into the yard rather late in
@@ -4418,7 +4418,7 @@ When he handed Dolly the flowers she jumped about for joy.
 
 
 
-38 Dolly and a Real Gentleman
+CHAPTER 38. Dolly and a Real Gentleman
 
 
 Winter came in early, with a great deal of cold and wet. There was snow,
@@ -4547,7 +4547,7 @@ sharers in the guilt.”
 
 
 
-39 Seedy Sam
+CHAPTER 39. Seedy Sam
 
 
 I should say that for a cab-horse I was very well off indeed; my driver
@@ -4667,7 +4667,7 @@ what, mates, this is a warning for us.”
 
 
 
-40 Poor Ginger
+CHAPTER 40. Poor Ginger
 
 
 One day, while our cab and many others were waiting outside one of the
@@ -4736,7 +4736,7 @@ were more merciful they would shoot us before we came to such misery.
 
 
 
-41 The Butcher
+CHAPTER 41. The Butcher
 
 
 I saw a great deal of trouble among the horses in London, and much of
@@ -4827,7 +4827,7 @@ think how happy an old horse might be in a poor place.
 
 
 
-42 The Election
+CHAPTER 42. The Election
 
 
 As we came into the yard one afternoon Polly came out. “Jerry! I’ve had
@@ -4898,7 +4898,7 @@ and let his neighbor do the same.”
 
 
 
-43 A Friend in Need
+CHAPTER 43. A Friend in Need
 
 
 The election day came at last; there was no lack of work for Jerry and
@@ -5041,7 +5041,7 @@ station we at last reached home, and I, at least, was tired.
 
 
 
-44 Old Captain and His Successor
+CHAPTER 44. Old Captain and His Successor
 
 
 Captain and I were great friends. He was a noble old fellow, and he was
@@ -5179,7 +5179,7 @@ and Jerry liked him very much.
 
 
 
-45 Jerry’s New Year
+CHAPTER 45. Jerry’s New Year
 
 
 For some people Christmas and the New Year are very merry times; but for
@@ -5388,12 +5388,12 @@ very sad, and so I was led away to my new place.
 
 
 
-Part IV
+PART IV.
 
 
 
 
-46 Jakes and the Lady
+CHAPTER 46. Jakes and the Lady
 
 
 I was sold to a corn dealer and baker, whom Jerry knew, and with him he
@@ -5518,7 +5518,7 @@ any permanent injury to my sight, and was sold to a large cab owner.
 
 
 
-47 Hard Times
+CHAPTER 47. Hard Times
 
 
 My new master I shall never forget; he had black eyes and a hooked nose,
@@ -5657,7 +5657,7 @@ hoped for the best.
 
 
 
-48 Farmer Thoroughgood and His Grandson Willie
+CHAPTER 48. Farmer Thoroughgood and His Grandson Willie
 
 
 At this sale, of course I found myself in company with the old
@@ -5795,7 +5795,7 @@ valued.”
 
 
 
-49 My Last Home
+CHAPTER 49. My Last Home
 
 
 One day during this summer the groom cleaned and dressed me with such

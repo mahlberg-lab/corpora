@@ -6,6 +6,7 @@ Beatrix Potter
     FROM
     OLD MR. BUNNY
 
+BOOK 1.
 
 [Illustration]
 

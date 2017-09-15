@@ -22,7 +22,7 @@ The Book of DRAGONS
 
 
 
-I. The Book of Beasts
+CHAPTER I. The Book of Beasts
 
 
 He happened to be building a Palace when the news came, and he left all
@@ -552,7 +552,7 @@ lilies and roses of the Palace garden to this very day.
 
 
 
-II. Uncle James, or The Purple Stranger
+CHAPTER II. Uncle James, or The Purple Stranger
 
 
 The Princess and the gardener's boy were playing in the backyard.
@@ -1107,7 +1107,7 @@ which neither Tom nor Mary Ann ever did.
 
 
 
-III. The Deliverers of Their Country
+CHAPTER III. The Deliverers of Their Country
 
 
 It all began with Effie's getting something in her eye. It hurt very
@@ -1634,7 +1634,7 @@ You must get him to show it to you!
 
 
 
-IV. The Ice Dragon, or Do as You Are Told
+CHAPTER IV. The Ice Dragon, or Do as You Are Told
 
 
 This is the tale of the wonders that befell on the evening of the
@@ -2336,7 +2336,7 @@ use, even to light fires!
 
 
 
-V. The Island of the Nine Whirlpools
+CHAPTER V. The Island of the Nine Whirlpools
 
 
 The dark arch that led to the witch's cave was hung with a
@@ -2931,7 +2931,7 @@ THE DRAGON TAMERS]
 
 
 
-VI. The Dragon Tamers
+CHAPTER VI. The Dragon Tamers
 
 
 There was once an old, old castle--it was so old that its walls and
@@ -3554,7 +3554,7 @@ THE FIERY DRAGON]
 
 
 
-VII. The Fiery Dragon,
+CHAPTER VII. The Fiery Dragon,
 
 or The Heart of Stone and the Heart of Gold
 
@@ -4160,7 +4160,7 @@ KIND LITTLE EDMUND]
 
 
 
-VIII. Kind Little Edmund, or The Caves and the Cockatrice
+CHAPTER VIII. Kind Little Edmund, or The Caves and the Cockatrice
 
 
 Edmund was a boy. The people who did not like him said that he was the

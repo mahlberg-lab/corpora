@@ -5,7 +5,7 @@ E. Nesbit
                behind whose knowledge of railways
                my ignorance confidently shelters.
 
-Chapter I. The beginning of things.
+CHAPTER I. The beginning of things.
 
 
 They were not railway children to begin with. I don’t suppose they had
@@ -561,7 +561,7 @@ chair over.
 
 
 
-Chapter II. Peter’s coal-mine.
+CHAPTER II. Peter’s coal-mine.
 
 
 “What fun!” said Mother, in the dark, feeling for the matches on the
@@ -1243,7 +1243,7 @@ quite sure, however little he cared to own it.
 
 
 
-Chapter III. The old gentleman.
+CHAPTER III. The old gentleman.
 
 
 After the adventure of Peter’s Coal-mine, it seemed well to the children
@@ -1833,7 +1833,7 @@ a thick hedge of it at her mother’s house when she was a little girl.”
 
 
 
-Chapter IV. The engine-burglar.
+CHAPTER IV. The engine-burglar.
 
 
 What was left of the second sheet and the Brunswick black came in very
@@ -2471,7 +2471,7 @@ the heart, the story of how she had been an Engine-burglar.
 
 
 
-Chapter V. Prisoners and captives.
+CHAPTER V. Prisoners and captives.
 
 
 It was one day when Mother had gone to Maidbridge. She had gone alone,
@@ -2928,7 +2928,7 @@ captives.”
 
 
 
-Chapter VI. Saviours of the train.
+CHAPTER VI. Saviours of the train.
 
 
 The Russian gentleman was better the next day, and the day after that
@@ -3432,7 +3432,7 @@ The others thought her rather heartless.
 
 
 
-Chapter VII. For valour.
+CHAPTER VII. For valour.
 
 
 I hope you don’t mind my telling you a good deal about Roberta. The fact
@@ -4016,7 +4016,7 @@ always understand.
 
 
 
-Chapter VIII. The amateur firemen.
+CHAPTER VIII. The amateur firemen.
 
 
 “That’s a likely little brooch you’ve got on, Miss,” said Perks the
@@ -4550,7 +4550,7 @@ safe!”
 
 
 
-Chapter IX. The pride of Perks.
+CHAPTER IX. The pride of Perks.
 
 
 It was breakfast-time. Mother’s face was very bright as she poured the
@@ -5115,7 +5115,7 @@ do, as what you mean.
 
 
 
-Chapter X. The terrible secret.
+CHAPTER X. The terrible secret.
 
 
 When they first went to live at Three Chimneys, the children had talked
@@ -5626,7 +5626,7 @@ And Bobbie had to.
 
 
 
-Chapter XI. The hound in the red jersey.
+CHAPTER XI. The hound in the red jersey.
 
 
 Bobbie knew the secret now. A sheet of old newspaper wrapped round a
@@ -6267,7 +6267,7 @@ fast and as earnestly as they could:--
 
 
 
-Chapter XII. What Bobbie brought home.
+CHAPTER XII. What Bobbie brought home.
 
 
 “Oh, look up! Speak to me! For MY sake, speak!” The children said the
@@ -6795,7 +6795,7 @@ been to bring home the wounded hound in the red jersey.
 
 
 
-Chapter XIII. The hound’s grandfather.
+CHAPTER XIII. The hound’s grandfather.
 
 
 Mother did not get back to her writing all that day, for the
@@ -7374,7 +7374,7 @@ little face as a Japanese lantern is lighted by the candle within.
 
 
 
-Chapter XIV. The End.
+CHAPTER XIV. The End.
 
 
 Life at the Three Chimneys was never quite the same again after the old

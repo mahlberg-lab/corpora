@@ -1,7 +1,7 @@
 Kidnapped
 Robert Louis Stevenson
 
-PREFACE TO THE BIOGRAPHICAL EDITION
+PREFACE. PREFACE TO THE BIOGRAPHICAL EDITION
 
 While my husband and Mr. Henley were engaged in writing plays in
 Bournemouth they made a number of titles, hoping to use them in the
@@ -164,9 +164,7 @@ Let it not echo often without some kind thoughts of your friend,
 
 R.L.S. SKERRYVORE, BOURNEMOUTH.
 
-CHAPTER I
-
-I SET OFF UPON MY JOURNEY TO THE HOUSE OF SHAWS
+CHAPTER I. I SET OFF UPON MY JOURNEY TO THE HOUSE OF SHAWS
 
 I will begin the story of my adventures with a certain morning early in
 the month of June, the year of grace 1751, when I took the key for the
@@ -335,9 +333,7 @@ kirkyard where my father and my mother lay.
 
 
 
-CHAPTER II
-
-I COME TO MY JOURNEY’S END
+CHAPTER II. I COME TO MY JOURNEY’S END
 
 On the forenoon of the second day, coming to the top of a hill, I saw
 all the country fall away before me down to the sea; and in the midst
@@ -546,9 +542,7 @@ window.
 
 
 
-CHAPTER III
-
-I MAKE ACQUAINTANCE OF MY UNCLE
+CHAPTER III. I MAKE ACQUAINTANCE OF MY UNCLE
 
 Presently there came a great rattling of chains and bolts, and the
 door was cautiously opened and shut to again behind me as soon as I had
@@ -836,9 +830,7 @@ through no fault of mine.”
 
 
 
-CHAPTER IV
-
-I RUN A GREAT DANGER IN THE HOUSE OF SHAWS
+CHAPTER IV. I RUN A GREAT DANGER IN THE HOUSE OF SHAWS
 
 For a day that was begun so ill, the day passed fairly well. We had the
 porridge cold again at noon, and hot porridge at night; porridge and
@@ -1132,9 +1124,7 @@ asleep.
 
 
 
-CHAPTER V
-
-I GO TO THE QUEEN’S FERRY
+CHAPTER V. I GO TO THE QUEEN’S FERRY
 
 Much rain fell in the night; and the next morning there blew a bitter
 wintry wind out of the north-west, driving scattered clouds. For all
@@ -1375,9 +1365,7 @@ they’re busking the Covenant for sea.”
 
 
 
-CHAPTER VI
-
-WHAT BEFELL AT THE QUEEN’S FERRY
+CHAPTER VI. WHAT BEFELL AT THE QUEEN’S FERRY
 
 As soon as we came to the inn, Ransome led us up the stair to a small
 room, with a bed in it, and heated like an oven by a great fire of coal.
@@ -1577,9 +1565,7 @@ great flash of fire, and fell senseless.
 
 
 
-CHAPTER VII
-
-I GO TO SEA IN THE BRIG “COVENANT” OF DYSART
+CHAPTER VII. I GO TO SEA IN THE BRIG “COVENANT” OF DYSART
 
 I came to myself in darkness, in great pain, bound hand and foot, and
 deafened by many unfamiliar noises. There sounded in my ears a roaring
@@ -1844,9 +1830,7 @@ of the forecastle.
 
 
 
-CHAPTER VIII
-
-THE ROUND-HOUSE
+CHAPTER VIII. THE ROUND-HOUSE
 
 One night, about eleven o’clock, a man of Mr. Riach’s watch (which was
 on deck) came below for his jacket; and instantly there began to go
@@ -2032,10 +2016,7 @@ from thinking.
 
 
 
-CHAPTER IX
-
-
-THE MAN WITH THE BELT OF GOLD
+CHAPTER IX. THE MAN WITH THE BELT OF GOLD
 
 More than a week went by, in which the ill-luck that had hitherto
 pursued the Covenant upon this voyage grew yet more strongly marked.
@@ -2410,9 +2391,7 @@ is at the one, my back is to the other.”
 
 
 
-CHAPTER X
-
-THE SIEGE OF THE ROUND-HOUSE
+CHAPTER X. THE SIEGE OF THE ROUND-HOUSE
 
 But now our time of truce was come to an end. Those on deck had waited
 for my coming till they grew impatient; and scarce had Alan spoken, when
@@ -2668,9 +2647,7 @@ a little more astern, the strange isle of Rum.
 
 
 
-CHAPTER XI
-
-THE CAPTAIN KNUCKLES UNDER
+CHAPTER XI. THE CAPTAIN KNUCKLES UNDER
 
 Alan and I sat down to breakfast about six of the clock. The floor was
 covered with broken glass and in a horrid mess of blood, which took away
@@ -2848,9 +2825,7 @@ drink.
 
 
 
-CHAPTER XII
-
-I HEAR OF THE “RED FOX”
+CHAPTER XII. I HEAR OF THE “RED FOX”
 
 Before we had done cleaning out the round-house, a breeze sprang up from
 a little to the east of north. This blew off the rain and brought out
@@ -3178,9 +3153,7 @@ men, yet he admired it most in Alan Breck.
 
 
 
-CHAPTER XIII
-
-THE LOSS OF THE BRIG
+CHAPTER XIII. THE LOSS OF THE BRIG
 
 It was already late at night, and as dark as it ever would be at that
 season of the year (and that is to say, it was still pretty bright),
@@ -3407,9 +3380,7 @@ have been often, though never with more cause.
 
 
 
-CHAPTER XIV
-
-THE ISLET
+CHAPTER XIV. THE ISLET
 
 With my stepping ashore I began the most unhappy part of my adventures.
 It was half-past twelve in the morning, and though the wind was broken
@@ -3728,9 +3699,7 @@ they both get paid in the end; but the fools first.
 
 
 
-CHAPTER XV
-
-THE LAD WITH THE SILVER BUTTON: THROUGH THE ISLE OF MULL
+CHAPTER XV. THE LAD WITH THE SILVER BUTTON: THROUGH THE ISLE OF MULL
 
 The Ross of Mull, which I had now got upon, was rugged and trackless,
 like the isle I had just left; being all bog, and brier, and big stone.
@@ -4027,9 +3996,7 @@ at the beginning.
 
 
 
-CHAPTER XVI
-
-THE LAD WITH THE SILVER BUTTON: ACROSS MORVEN
+CHAPTER XVI. THE LAD WITH THE SILVER BUTTON: ACROSS MORVEN
 
 There is a regular ferry from Torosay to Kinlochaline on the mainland.
 Both shores of the Sound are in the country of the strong clan of the
@@ -4304,9 +4271,7 @@ left him poorer than myself.
 
 
 
-CHAPTER XVII
-
-THE DEATH OF THE RED FOX
+CHAPTER XVII. THE DEATH OF THE RED FOX
 
 The next day Mr. Henderland found for me a man who had a boat of his own
 and was to cross the Linnhe Loch that afternoon into Appin, fishing. Him
@@ -4531,9 +4496,7 @@ mouth with heat and dryness, that I lay beside him like one dead.
 
 
 
-CHAPTER XVIII
-
-I TALK WITH ALAN IN THE WOOD OF LETTERMORE
+CHAPTER XVIII. I TALK WITH ALAN IN THE WOOD OF LETTERMORE
 
 Alan was the first to come round. He rose, went to the border of the
 wood, peered out a little, and then returned and sat down.
@@ -4844,9 +4807,7 @@ have hunted high and low, and would soon have found ye.”
 
 
 
-CHAPTER XIX
-
-THE HOUSE OF FEAR
+CHAPTER XIX. THE HOUSE OF FEAR
 
 Night fell as we were walking, and the clouds, which had broken up in
 the afternoon, settled in and thickened, so that it fell, for the
@@ -5099,9 +5060,7 @@ country as before.
 
 
 
-CHAPTER XX
-
-THE FLIGHT IN THE HEATHER: THE ROCKS
+CHAPTER XX. THE FLIGHT IN THE HEATHER: THE ROCKS
 
 Sometimes we walked, sometimes ran; and as it drew on to morning, walked
 ever the less and ran the more. Though, upon its face, that country
@@ -5422,9 +5381,7 @@ way.
 
 
 
-CHAPTER XXI
-
-THE FLIGHT IN THE HEATHER: THE HEUGH OF CORRYNAKIEGH
+CHAPTER XXI. THE FLIGHT IN THE HEATHER: THE HEUGH OF CORRYNAKIEGH
 
 Early as day comes in the beginning of July, it was still dark when we
 reached our destination, a cleft in the head of a great mountain, with a
@@ -5699,9 +5656,7 @@ chattels together) struck into another to resume our flight.
 
 
 
-CHAPTER XXII
-
-THE FLIGHT IN THE HEATHER: THE MOOR
+CHAPTER XXII. THE FLIGHT IN THE HEATHER: THE MOOR
 
 Some seven hours’ incessant, hard travelling brought us early in the
 morning to the end of a range of mountains. In front of us there lay a
@@ -5984,9 +5939,7 @@ hollows and into the heart of that dismal mountain of Ben Alder.
 
 
 
-CHAPTER XXIII
-
-CLUNY’S CAGE
+CHAPTER XXIII. CLUNY’S CAGE
 
 We came at last to the foot of an exceeding steep wood, which scrambled
 up a craggy hillside, and was crowned by a naked precipice.
@@ -6307,9 +6260,7 @@ here’s my hand along with it!”
 
 
 
-CHAPTER XXIV
-
-THE FLIGHT IN THE HEATHER: THE QUARREL
+CHAPTER XXIV. THE FLIGHT IN THE HEATHER: THE QUARREL
 
 Alan and I were put across Loch Errocht under cloud of night, and went
 down its eastern shore to another hiding-place near the head of Loch
@@ -6701,9 +6652,7 @@ better!”
 
 
 
-CHAPTER XXV
-
-IN BALQUHIDDER
+CHAPTER XXV. IN BALQUHIDDER
 
 At the door of the first house we came to, Alan knocked, which was of
 no very safe enterprise in such a part of the Highlands as the Braes of
@@ -6965,9 +6914,7 @@ Robin as much as thought upon the road.
 
 
 
-CHAPTER XXVI
-
-END OF THE FLIGHT: WE PASS THE FORTH
+CHAPTER XXVI. END OF THE FLIGHT: WE PASS THE FORTH
 
 The month, as I have said, was not yet out, but it was already far
 through August, and beautiful warm weather, with every sign of an early
@@ -7390,9 +7337,7 @@ should have anyway involved her in the dangers of our situation.
 
 
 
-CHAPTER XXVII
-
-I COME TO MR. RANKEILLOR
+CHAPTER XXVII. I COME TO MR. RANKEILLOR
 
 The next day it was agreed that Alan should fend for himself till
 sunset; but as soon as it began to grow dark, he should lie in the
@@ -7680,9 +7625,7 @@ another apposite tag, he left me to my toilet.
 
 
 
-CHAPTER XXVIII
-
-I GO IN QUEST OF MY INHERITANCE
+CHAPTER XXVIII. I GO IN QUEST OF MY INHERITANCE
 
 I made what change I could in my appearance; and blithe was I to look in
 the glass and find the beggarman a thing of the past, and David Balfour
@@ -7945,9 +7888,7 @@ knock.
 
 
 
-CHAPTER XXIX
-
-I COME INTO MY KINGDOM
+CHAPTER XXIX. I COME INTO MY KINGDOM
 
 For some time Alan volleyed upon the door, and his knocking only roused
 the echoes of the house and neighbourhood. At last, however, I could
@@ -8226,9 +8167,7 @@ and planning the future.
 
 
 
-CHAPTER XXX
-
-GOOD-BYE
+CHAPTER XXX. GOOD-BYE
 
 So far as I was concerned myself, I had come to port; but I had still
 Alan, to whom I was so much beholden, on my hands; and I felt besides a

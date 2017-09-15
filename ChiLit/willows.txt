@@ -1,7 +1,7 @@
 The Wind in the Willows
 Kenneth Grahame
 
-I. THE RIVER BANK
+CHAPTER I. THE RIVER BANK
 
 The Mole had been working very hard all the morning, spring-cleaning his
 little home. First with brooms, then with dusters; then on ladders and
@@ -478,7 +478,7 @@ among them.
 
 
 
-II. THE OPEN ROAD
+CHAPTER II. THE OPEN ROAD
 
 
 ‘Ratty,’ said the Mole suddenly, one bright summer morning, ‘if you
@@ -934,7 +934,7 @@ this morning. And he has ordered a large and very expensive motor-car.’
 
 
 
-III. THE WILD WOOD
+CHAPTER III. THE WILD WOOD
 
 The Mole had long wanted to make the acquaintance of the Badger. He
 seemed, by all accounts, to be such an important personage and, though
@@ -1396,7 +1396,7 @@ deep-toned bell respond.
 
 
 
-IV. MR. BADGER
+CHAPTER IV. MR. BADGER
 
 THEY waited patiently for what seemed a very long time, stamping in
 the snow to keep their feet warm. At last they heard the sound of slow
@@ -1857,7 +1857,7 @@ for a lifetime.
 
 
 
-V. DULCE DOMUM
+CHAPTER V. DULCE DOMUM
 
 The sheep ran huddling together against the hurdles, blowing out thin
 nostrils and stamping with delicate fore-feet, their heads thrown back
@@ -2392,7 +2392,7 @@ simple welcome.
 
 
 
-VI. MR. TOAD
+CHAPTER VI. MR. TOAD
 
 It was a bright morning in the early part of summer; the river had
 resumed its wonted banks and its accustomed pace, and a hot sun seemed
@@ -2876,7 +2876,7 @@ length and breadth of Merry England.
 
 
 
-VII. THE PIPER AT THE GATES OF DAWN
+CHAPTER VII. THE PIPER AT THE GATES OF DAWN
 
 The Willow-Wren was twittering his thin little song, hidden himself in
 the dark selvedge of the river bank. Though it was past ten o’clock
@@ -3257,7 +3257,7 @@ lingering there, the weary Rat was fast asleep.
 
 
 
-VIII. TOAD’S ADVENTURES
+CHAPTER VIII. TOAD’S ADVENTURES
 
 When Toad found himself immured in a dank and noisome dungeon, and knew
 that all the grim darkness of a medieval fortress lay between him and
@@ -3727,7 +3727,7 @@ a bed as he could, and slept soundly till the morning.
 
 
 
-IX. WAYFARERS ALL
+CHAPTER IX. WAYFARERS ALL
 
 The Water Rat was restless, and he did not exactly know why. To all
 appearance the summer’s pomp was still at fullest height, and although
@@ -4305,7 +4305,7 @@ that the cure had at least begun.
 
 
 
-X. THE FURTHER ADVENTURES OF TOAD
+CHAPTER X. THE FURTHER ADVENTURES OF TOAD
 
 The front door of the hollow tree faced eastwards, so Toad was called at
 an early hour; partly by the bright sunlight streaming in on him, partly
@@ -4918,7 +4918,7 @@ It was the Water Rat!
 
 
 
-XI. ‘LIKE SUMMER TEMPESTS CAME HIS TEARS’
+CHAPTER XI. ‘LIKE SUMMER TEMPESTS CAME HIS TEARS’
 
 The Rat put out a neat little brown paw, gripped Toad firmly by
 the scruff of the neck, and gave a great hoist and a pull; and the
@@ -5553,7 +5553,7 @@ somewhat inadequate things that really come off?
 
 
 
-XII. THE RETURN OF ULYSSES
+CHAPTER XII. THE RETURN OF ULYSSES
 
 When it began to grow dark, the Rat, with an air of excitement and
 mystery, summoned them back into the parlour, stood each of them up

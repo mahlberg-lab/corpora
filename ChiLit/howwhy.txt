@@ -1,16 +1,13 @@
 Madam How and Lady Why
 Charles Kingsley
 
-DEDICATION
-
-
 To my son Grenville Arthur, and to his school-fellows at Winton House
 This little book is dedicated.
 
 
 
 
-PREFACE
+PREFACE.
 
 
 My dear boys,--When I was your age, there were no such children's books
@@ -162,7 +159,7 @@ C. KINGSLEY.
 
 
 
-CHAPTER I--THE GLEN
+CHAPTER I. THE GLEN
 
 
 You find it dull walking up here upon Hartford Bridge Flat this sad
@@ -764,7 +761,7 @@ created."'
 
 
 
-CHAPTER II--EARTHQUAKES
+CHAPTER II. EARTHQUAKES
 
 
 So?  You have been looking at that beautiful drawing of the ruin of Arica
@@ -1228,7 +1225,7 @@ earthquake.  True.  I will tell you another time.
 
 
 
-CHAPTER III--VOLCANOS
+CHAPTER III. VOLCANOS
 
 
 You want to know why the Spaniards in Peru and Ecuador should have
@@ -1724,7 +1721,7 @@ Something like this is the inside of a volcano.
 
 
 
-CHAPTER IV--THE TRANSFORMATIONS OF A GRAIN OF SOIL
+CHAPTER IV. THE TRANSFORMATIONS OF A GRAIN OF SOIL
 
 
 Why, you ask, are there such terrible things as volcanos?  Of what use
@@ -2131,7 +2128,7 @@ can give you another body, even as seems good to Him.
 
 
 
-CHAPTER V--THE ICE-PLOUGH
+CHAPTER V. THE ICE-PLOUGH
 
 
 You want to know why I am so fond of that little bit of limestone, no
@@ -2486,7 +2483,7 @@ story, and a dark one too; we will talk of it next time.
 
 
 
-CHAPTER VI--THE TRUE FAIRY TALE
+CHAPTER VI. THE TRUE FAIRY TALE
 
 
 You asked if there were men in England when the country was covered with
@@ -2860,7 +2857,7 @@ night was the fairy land of man; but this is the fairy land of God."
 
 
 
-CHAPTER VII--THE CHALK-CARTS
+CHAPTER VII. THE CHALK-CARTS
 
 
 What do you want to know about next?  More about the caves in which the
@@ -3320,7 +3317,7 @@ talk about--we don't know what.
 
 
 
-CHAPTER VIII--MADAM HOW'S TWO GRANDSONS
+CHAPTER VIII. MADAM HOW'S TWO GRANDSONS
 
 
 You want to know, then, what chalk is?  I suppose you mean what chalk is
@@ -3832,7 +3829,7 @@ child, will be scattered on those white plains:--
 
 
 
-CHAPTER IX--THE CORAL-REEF
+CHAPTER IX. THE CORAL-REEF
 
 
 Now you want to know what I meant when I talked of a bit of lime going
@@ -4417,7 +4414,7 @@ His pleasure they are, and were created.
 
 
 
-CHAPTER X--FIELD AND WILD
+CHAPTER X. FIELD AND WILD
 
 
 Where were we to go next?  Into the far west, to see how all the way
@@ -5268,7 +5265,7 @@ haycocks.  When you grow old, you will have other and sadder dreams.
 
 
 
-CHAPTER XI--THE WORLD'S END
+CHAPTER XI. THE WORLD'S END
 
 
 Hullo! hi! wake up.  Jump out of bed, and come to the window, and see
@@ -6059,7 +6056,7 @@ shall believe also that the fiddler is his fiddle.
 
 
 
-CHAPTER XII--HOMEWARD BOUND
+CHAPTER XII. HOMEWARD BOUND
 
 
 Come: I suppose you consider yourself quite a good sailor by now?

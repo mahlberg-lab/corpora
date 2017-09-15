@@ -131,7 +131,7 @@ _Voyage à la Lune_ of M. Cyrano de Bergérac.
 
 
 
-CHAPTER I.--_How the Fairies were not Invited to Court_
+CHAPTER I. _How the Fairies were not Invited to Court_
 
 ONCE upon a time there reigned in Pantouflia a king and a queen. With
 almost everything else to make them happy, they wanted one thing: they
@@ -241,7 +241,7 @@ old rubbish out of books, or pantomime “properties.”
 
 
 
-CHAPTER II.--_Prince Prigio and his family_
+CHAPTER II. _Prince Prigio and his family_
 
 WELL, the little prince grew up. I think I’ve told you that his name was
 Prigio--did I not? Well, that _was_ his name.
@@ -302,7 +302,7 @@ unpleasant, and did not make people love Prince Prigio any better.
 
 
 
-CHAPTER III.--_About the Firedrake._
+CHAPTER III. _About the Firedrake._
 
 OF all the people who did not like Prigio, his own dear papa, King
 Grognio, disliked him most. For the king knew he was not clever himself.
@@ -477,7 +477,7 @@ express himself with freedom, and give rein to his passions.
 
 
 
-CHAPTER IV.--_How Prince Prigio was deserted by Everybody_
+CHAPTER IV. _How Prince Prigio was deserted by Everybody_
 
 MEANWHILE, Prince Prigio had to suffer many unpleasant things. Though
 he was the crown prince (and though his arguments were unanswerable),
@@ -571,7 +571,7 @@ bell.
 
 
 
-CHAPTER V.--_What Prince Prigio found in the garret._
+CHAPTER V. _What Prince Prigio found in the garret._
 
 THE prince walked from room to room of the palace; but, unless he
 wrapped himself up in a curtain, there was nothing for him to wear when
@@ -601,7 +601,7 @@ door.
 
 
 
-CHAPTER VI.--_What Happened to Prince Prigio in Town_
+CHAPTER VI. _What Happened to Prince Prigio in Town_
 
 BY this time the prince was very hungry. The town was just three miles
 off; but he had such a royal appetite, that he did not like to waste it
@@ -771,7 +771,7 @@ he believed in them.
 
 
 
-CHAPTER VII.--_The Prince Falls in Love_
+CHAPTER VII. _The Prince Falls in Love_
 
 HE understood all this, and burst out laughing, which nearly frightened
 an old lady near him out of her wits. Ah! how he wished he was only in
@@ -890,7 +890,7 @@ back to his lonely castle.
 
 
 
-CHAPTER VIII.--_The Prince is Puzzled_
+CHAPTER VIII. _The Prince is Puzzled_
 
 PRINCE PRIGIO did not go to bed. It was bright daylight, and he had
 promised to bring the horns and tail of a Firedrake as a present to a
@@ -973,7 +973,7 @@ the Firedrake.
 
 
 
-CHAPTER IX.--_The Prince and the Firedrake_
+CHAPTER IX. _The Prince and the Firedrake_
 
 IT was dreadfully hot, even high up in the air, where the prince hung
 invisible. Great burning stones were tossed up by the volcano, and
@@ -1041,7 +1041,7 @@ strides he was over the frozen mountain of the Remora.
 
 
 
-CHAPTER X.--_The Prince and the Remora_
+CHAPTER X. _The Prince and the Remora_
 
 If he had been too warm before, the prince was too cold now. The hill of
 the Remora was one solid mass of frozen steel, and the cold rushed out
@@ -1110,7 +1110,7 @@ on at what followed.
 
 
 
-CHAPTER XI.--_The Battle_
+CHAPTER XI. _The Battle_
 
 IT was an awful sight to behold! When the Remora heard the name of the
 Firedrake, his hated enemy, he slipped with wonderful speed from the
@@ -1229,7 +1229,7 @@ had _never_ been at such a pleasant dinner!
 
 
 
-CHAPTER XII.--_A Terrible Misfortune_
+CHAPTER XII. _A Terrible Misfortune_
 
 WHEN the ladies left, and the prince and the other gentlemen were alone,
 the ambassador appeared more gloomy than ever. At last he took the
@@ -1389,7 +1389,7 @@ the present.”
 
 
 
-CHAPTER XIII.--_Surprises_
+CHAPTER XIII. _Surprises_
 
 THE prince said nothing, the ambassador said nothing, Lady Rosalind said
 never a word till they were in the drawing-room. It was a lovely warm
@@ -1456,7 +1456,7 @@ room!
 
 
 
-CHAPTER XIV.--_The King Explains._
+CHAPTER XIV. _The King Explains._
 
 THE first who recovered his voice and presence of mind was Benson.
 
@@ -1590,7 +1590,7 @@ Rosalind.
 
 
 
-CHAPTER XV.--_The King’s Cheque_
+CHAPTER XV. _The King’s Cheque_
 
 WHEN they all awakened next morning, their first ideas were confused.
 It is often confusing to wake in a strange bed, much more so when you
@@ -1733,7 +1733,7 @@ when his majesty yelled:
 
 
 
-CHAPTER XVI.--_A Melancholy Chapter_
+CHAPTER XVI. _A Melancholy Chapter_
 
 THE prince had gone some way, when the king called after him. How he
 wished he had the seven-league boots on, or that he had the cap of
@@ -1866,7 +1866,7 @@ flying carpet, he was back at the ambassador’s house in Gluckstein.
 
 
 
-CHAPTER XVII.--_The Black Cat and the brethren_
+CHAPTER XVII. _The Black Cat and the brethren_
 
 WHO was glad to see the prince, if it was not Lady Rosalind? The white
 roses of her cheeks turned to red roses in a moment, and then back to
@@ -2065,7 +2065,7 @@ notion of hanging Prigio.
 
 
 
-CHAPTER XVIII.--_The Very Last_
+CHAPTER XVIII. _The Very Last_
 
 THE princes returned to Gluckstein on the carpet, and went to the best
 inn, where they dined together and slept. Next morning they, and the

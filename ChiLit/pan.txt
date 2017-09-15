@@ -1,7 +1,7 @@
 Peter Pan
 James M. Barrie
 
-Chapter 1 PETER BREAKS THROUGH
+CHAPTER 1. PETER BREAKS THROUGH
 
 All children, except one, grow up. They soon know that they will grow
 up, and the way Wendy knew was this. One day when she was two years old
@@ -315,7 +315,7 @@ When he saw she was a grown-up, he gnashed the little pearls at her.
 
 
 
-Chapter 2 THE SHADOW
+CHAPTER 2. THE SHADOW
 
 Mrs. Darling screamed, and, as if in answer to a bell, the door opened,
 and Nana entered, returned from her evening out. She growled and sprang
@@ -696,7 +696,7 @@ out:
 
 
 
-Chapter 3 COME AWAY, COME AWAY!
+CHAPTER 3. COME AWAY, COME AWAY!
 
 For a moment after Mr. and Mrs. Darling left the house the night-lights
 by the beds of the three children continued to burn clearly. They were
@@ -1309,7 +1309,7 @@ birds were flown.
 
 
 
-Chapter 4 THE FLIGHT
+CHAPTER 4. THE FLIGHT
 
 “Second to the right, and straight on till morning.”
 
@@ -1728,7 +1728,7 @@ and now staggering in her flight, she followed Tink to her doom.
 
 
 
-Chapter 5 THE ISLAND COME TRUE
+CHAPTER 5. THE ISLAND COME TRUE
 
 Feeling that Peter was on his way back, the Neverland had again woke
 into life. We ought to use the pluperfect and say wakened, but woke is
@@ -2143,7 +2143,7 @@ arrow in her breast.
 
 
 
-Chapter 6 THE LITTLE HOUSE
+CHAPTER 6. THE LITTLE HOUSE
 
 Foolish Tootles was standing like a conqueror over Wendy’s body when the
 other boys sprang, armed, from their trees.
@@ -2545,7 +2545,7 @@ would have mischiefed, but they just tweaked Peter’s nose and passed on.
 
 
 
-Chapter 7 THE HOME UNDER THE GROUND
+CHAPTER 7. THE HOME UNDER THE GROUND
 
 One of the first things Peter did next day was to measure Wendy and John
 and Michael for hollow trees. Hook, you remember, had sneered at the
@@ -2765,7 +2765,7 @@ to the lagoon.
 
 
 
-Chapter 8 THE MERMAIDS’ LAGOON
+CHAPTER 8. THE MERMAIDS’ LAGOON
 
 If you shut your eyes and are a lucky one, you may see at times a
 shapeless pool of lovely pale colours suspended in the darkness; then
@@ -3312,7 +3312,7 @@ saying, “To die will be an awfully big adventure.”
 
 
 
-Chapter 9 THE NEVER BIRD
+CHAPTER 9. THE NEVER BIRD
 
 The last sound Peter heard before he was quite alone were the mermaids
 retiring one by one to their bedchambers under the sea. He was too far
@@ -3436,7 +3436,7 @@ their arms in slings.
 
 
 
-Chapter 10 THE HAPPY HOME
+CHAPTER 10. THE HAPPY HOME
 
 One important result of the brush [with the pirates] on the lagoon was
 that it made the redskins their friends. Peter had saved Tiger Lily from
@@ -3737,7 +3737,7 @@ happened.
 
 
 
-Chapter 11 WENDY’S STORY
+CHAPTER 11. WENDY’S STORY
 
 “Listen, then,” said Wendy, settling down to her story, with Michael at
 her feet and seven boys in the bed. “There was once a gentleman--”
@@ -4115,7 +4115,7 @@ slain Barbecue with, and the lust of battle was in his eye.
 
 
 
-Chapter 12 THE CHILDREN ARE CARRIED OFF
+CHAPTER 12. THE CHILDREN ARE CARRIED OFF
 
 The pirate attack had been a complete surprise: a sure proof that the
 unscrupulous Hook had conducted it improperly, for to surprise redskins
@@ -4278,7 +4278,7 @@ arrange themselves in a line two yards apart.
 
 
 
-Chapter 13 DO YOU BELIEVE IN FAIRIES?
+CHAPTER 13. DO YOU BELIEVE IN FAIRIES?
 
 The more quickly this horror is disposed of the better. The first to
 emerge from his tree was Curly. He rose out of it into the arms of
@@ -4606,7 +4606,7 @@ dagger at the ready. He was frightfully happy.
 
 
 
-Chapter 14 THE PIRATE SHIP
+CHAPTER 14. THE PIRATE SHIP
 
 One green light squinting over Kidd’s Creek, which is near the mouth of
 the pirate river, marked where the brig, the JOLLY ROGER, lay, low in
@@ -4902,7 +4902,7 @@ rouse suspicion. Then he went on ticking.
 
 
 
-Chapter 15 “HOOK OR ME THIS TIME”
+CHAPTER 15. “HOOK OR ME THIS TIME”
 
 Odd things happen to all of us on our way through life without our
 noticing for a time that they have happened. Thus, to take an instance,
@@ -5297,7 +5297,7 @@ cried in his sleep for a long time, and Wendy held him tightly.
 
 
 
-Chapter 16 THE RETURN HOME
+CHAPTER 16. THE RETURN HOME
 
 By three bells that morning they were all stirring their stumps [legs];
 for there was a big sea running; and Tootles, the bo’sun, was among
@@ -5644,7 +5644,7 @@ the one joy from which he must be for ever barred.
 
 
 
-Chapter 17 WHEN WENDY GREW UP
+CHAPTER 17. WHEN WENDY GREW UP
 
 I hope you want to know what became of the other boys. They were waiting
 below to give Wendy time to explain about them; and when they had

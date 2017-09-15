@@ -9,7 +9,7 @@ Kenneth Grahame
 
      SIR THOMAS BROWNE
 
-PROLOGUE: THE OLYMPIANS
+PROLOGUE. THE OLYMPIANS
 
 Looking back to those days of old, ere the gate shut behind me, I can
 see now that to children with a proper equipment of parents these things
@@ -121,7 +121,7 @@ inhabit Arcady. Can it be I too have become an Olympian?
 
 
 
-A HOLIDAY.
+CHAPTER 1. A HOLIDAY.
 
 The masterful wind was up and out, shouting and chasing, the lord of
 the morning. Poplars swayed and tossed with a roaring swish; dead leaves
@@ -380,7 +380,7 @@ heartily that I had done it.
 
 
 
-A WHITE-WASHED UNCLE
+CHAPTER 2. A WHITE-WASHED UNCLE
 
 In our small lives that day was eventful when another uncle was to come
 down from town, and submit his character and qualifications (albeit
@@ -505,7 +505,7 @@ Committee of Supply.
 
 
 
-ALARUMS AND EXCURSIONS
+CHAPTER 3. ALARUMS AND EXCURSIONS
 
 “Let’s pretend,” suggested Harold, “that we’re Cavaliers and Roundheads;
 and YOU be a Roundhead!”
@@ -718,7 +718,7 @@ postponed.
 
 
 
-THE FINDING OF THE PRINCESS.
+CHAPTER 4. THE FINDING OF THE PRINCESS.
 
 It was the day I was promoted to a tooth-brush. The girls, irrespective
 of age, had been thus distinguished some time before; why, we boys could
@@ -931,7 +931,7 @@ through water-lily leaves to be kissed by a rose-flushed Princess.
 
 
 
-SAWDUST AND SIN
+CHAPTER 5. SAWDUST AND SIN
 
 A belt of rhododendrons grew close down to one side of our pond; and
 along the edge of it many things flourished rankly. If you crept through
@@ -1101,7 +1101,7 @@ the eye, no one who really knew him could deny the justice of his fate.
 
 
 
-“YOUNG ADAM CUPID”
+CHAPTER 6. “YOUNG ADAM CUPID”
 
 NO one would have suspected Edward of being in love, but that after
 breakfast, with an over-acted carelessness, “Anybody who likes,” he
@@ -1282,7 +1282,7 @@ contrary...!
 
 
 
-THE BURGLARS
+CHAPTER 7. THE BURGLARS
 
 It was much too fine a night to think of going to bed at once, and so,
 although the witching hour of nine P.M. had struck, Edward and I were
@@ -1528,7 +1528,7 @@ open.
 
 
 
-A HARVESTING
+CHAPTER 8. A HARVESTING
 
 The year was in its yellowing time, and the face of Nature a study in
 old gold. “A field or, semee, with garbs of the same:” it may be false
@@ -1742,7 +1742,7 @@ infinitely heartening, somehow, in his valorous isolation.
 
 
 
-SNOWBOUND
+CHAPTER 9. SNOWBOUND
 
 Twelfth-night had come and gone, and life next morning seemed a trifle
 flat and purposeless. But yester-eve and the mummers were here! They had
@@ -1891,7 +1891,7 @@ a riot of warring passions into sweet and quiet accord.
 
 
 
-WHAT THEY TALKED ABOUT
+CHAPTER 10. WHAT THEY TALKED ABOUT
 
 Edward was standing ginger-beer like a gentleman, happening, as the one
 that had last passed under the dentist’s hands, to be the capitalist
@@ -2026,7 +2026,7 @@ her friends talked about.
 
 
 
-THE ARGONAUTS
+CHAPTER 11. THE ARGONAUTS
 
 The advent of strangers, of whatever sort, into our circle, had always
 been a matter of grave dubiety and suspicion; indeed, it was generally
@@ -2312,7 +2312,7 @@ a very solid respect for Ulysses.
 
 
 
-THE ROMAN ROAD
+CHAPTER 12. THE ROMAN ROAD
 
 ALL the roads of our neighbourhood were cheerful and friendly, having
 each of them pleasant qualities of their own; but this one seemed
@@ -2607,7 +2607,7 @@ Meantime, there only remained the finding it,--an easy matter.
 
 
 
-THE SECRET DRAWER
+CHAPTER 13. THE SECRET DRAWER
 
 IT must surely have served as a boudoir for the ladies of old time,
 this little used, rarely entered chamber where the neglected old bureau
@@ -2796,7 +2796,7 @@ yet lingering on the threshold of that old-world chamber!
 
 
 
-“EXIT TYRANNUS”
+CHAPTER 14. “EXIT TYRANNUS”
 
 The eventful day had arrived at last, the day which, when first named,
 had seemed--like all golden dates that promise anything definite--so
@@ -2974,7 +2974,7 @@ both have died rather than have admitted the real reason.
 
 
 
-THE BLUE ROOM
+CHAPTER 15. THE BLUE ROOM
 
 That nature has her moments of sympathy with man has been noted often
 enough,--and generally as a new discovery; to us, who had never known
@@ -3290,7 +3290,7 @@ other, at the bottom of it.
 
 
 
-A FALLING OUT
+CHAPTER 16. A FALLING OUT
 
 Harold told me the main facts of this episode some time later,--in bits,
 and with reluctance. It was not a recollection he cared to talk about.
@@ -3502,7 +3502,7 @@ sprang from possession of the long-coveted tea-service.
 
 
 
-“LUSISTI SATIS”
+CHAPTER 17. “LUSISTI SATIS”
 
 Among the many fatuous ideas that possessed the Olympian noddle, this
 one was pre-eminent; that, being Olympians, they could talk quite freely

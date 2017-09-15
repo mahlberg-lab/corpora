@@ -1,7 +1,7 @@
 With Clive in India
 G. A. Henty
 
-Preface.
+PREFACE.
 
 
 In the following pages I have endeavoured to give a vivid picture of
@@ -42,7 +42,7 @@ G. A. Henty.
 
 
 
-Chapter 1: Leaving Home.
+CHAPTER 1. Leaving Home.
 
 
 A lady in deep mourning was sitting, crying bitterly, by a fire in
@@ -464,7 +464,7 @@ another word on the subject."
 
 
 
-Chapter 2: The Young Writer.
+CHAPTER 2. The Young Writer.
 
 
 For the next four days, Charlie followed his uncle's instructions and
@@ -922,7 +922,7 @@ them a mark for their fire, should they approach in the darkness.
 
 
 
-Chapter 3: A Brush With Privateers.
+CHAPTER 3. A Brush With Privateers.
 
 
 The night passed quietly. Once or twice lights were seen, as the
@@ -1342,7 +1342,7 @@ took up their temporary abode there.
 
 
 
-Chapter 4: The Pirates Of The Pacific.
+CHAPTER 4. The Pirates Of The Pacific.
 
 
 A regular watch was set, both on the plateau and on board ship.
@@ -1720,7 +1720,7 @@ they would see a very different state of things.
 
 
 
-Chapter 5: Madras.
+CHAPTER 5. Madras.
 
 
 After the young writers had seen the native town, they returned to the
@@ -2161,7 +2161,7 @@ remain permanently at his capital."
 
 
 
-Chapter 6: The Arrival Of Clive.
+CHAPTER 6. The Arrival Of Clive.
 
 
 "I have nearly brought down the story to the present time," Mr.
@@ -2586,7 +2586,7 @@ their coming he marched forward against Arcot.
 
 
 
-Chapter 7: The Siege Of Arcot.
+CHAPTER 7. The Siege Of Arcot.
 
 
 From Conjeveram to Arcot is twenty-seven miles, and the troops, in
@@ -3054,7 +3054,7 @@ again, I'll niver lend a hand at rabbiting, to my dying day."
 
 
 
-Chapter 8: The Grand Assault.
+CHAPTER 8. The Grand Assault.
 
 
 The 14th of November was a Mohammedan festival, and Riza Sahib
@@ -3466,7 +3466,7 @@ to hold the fort, had moved down to meet him.
 
 
 
-Chapter 9: The Battle Of Kavaripak.
+CHAPTER 9. The Battle Of Kavaripak.
 
 
 The troops from Arcot had already moved some distance on their way to
@@ -3898,7 +3898,7 @@ Clive together, we are not likely to stop here long, inactive."
 
 
 
-Chapter 10: The Fall Of Seringam.
+CHAPTER 10. The Fall Of Seringam.
 
 
 Although called an island, Seringam is in fact a long narrow tongue of
@@ -4321,7 +4321,7 @@ genius of Clive, himself.
 
 
 
-Chapter 11: An Important Mission.
+CHAPTER 11. An Important Mission.
 
 
 A few days after the return of the expedition against Covelong and
@@ -4809,7 +4809,7 @@ them, and to aggrandize himself at their expense.
 
 
 
-Chapter 12: A Murderous Attempt.
+CHAPTER 12. A Murderous Attempt.
 
 
 Handsome rooms, with a suite of attendants, were assigned to Charlie
@@ -5249,7 +5249,7 @@ nights were not unpleasant here.
 
 
 
-Chapter 13: An Attempt At Murder.
+CHAPTER 13. An Attempt At Murder.
 
 
 The house, of which the bedroom occupied by Charlie formed part, was
@@ -5707,7 +5707,7 @@ crushed beneath the rain of rocks showered down upon them from above.
 
 
 
-Chapter 14: The Siege Of Ambur.
+CHAPTER 14. The Siege Of Ambur.
 
 
 The victory was a complete and decisive one. A thousand of the best
@@ -6134,7 +6134,7 @@ The name that they uttered fully accounted for their terror.
 
 
 
-Chapter 15: The Pirates' Hold.
+CHAPTER 15. The Pirates' Hold.
 
 
 Sivagi, the founder of the Mahratta Empire, had, in 1662, seized and
@@ -6613,7 +6613,7 @@ crossfire to which they were subjected, at once laid down their arms.
 
 
 
-Chapter 16: A Tiger Hunt.
+CHAPTER 16. A Tiger Hunt.
 
 
 Commodore James was greatly astonished at the easy success which he
@@ -7079,7 +7079,7 @@ and look for his body.
 
 
 
-Chapter 17: The Capture Of Gheriah.
+CHAPTER 17. The Capture Of Gheriah.
 
 
 After having sat for an hour under the shade of some trees, and
@@ -7649,7 +7649,7 @@ seen, not a ship weighed anchor.
 
 
 
-Chapter 18: The "Black Hole" Of Calcutta.
+CHAPTER 18. The "Black Hole" Of Calcutta.
 
 
 When the fire of the enemy slackened, Charlie went to Mr. Holwell.
@@ -8112,7 +8112,7 @@ that it was Hossein.
 
 
 
-Chapter 19: A Daring Escape.
+CHAPTER 19. A Daring Escape.
 
 
 "And what's to be done next, Mister Charles? That's Hossein, sure
@@ -8592,7 +8592,7 @@ pavilions, as he knew, were the ladies of the rajah's zenana.
 
 
 
-Chapter 20: The Rescue Of The White Captive.
+CHAPTER 20. The Rescue Of The White Captive.
 
 
 After the cavalcade had passed, Hossein rose to his feet and followed
@@ -9018,7 +9018,7 @@ disorder, to Calcutta.
 
 
 
-Chapter 21: The Battle Outside Calcutta.
+CHAPTER 21. The Battle Outside Calcutta.
 
 
 After the defeat of the enemy, who had surprised and so nearly
@@ -9421,7 +9421,7 @@ enemy further time to complete their operations.
 
 
 
-Chapter 22: Plassey.
+CHAPTER 22. Plassey.
 
 
 As the English troops advanced, they were met on the outskirts of the
@@ -9832,7 +9832,7 @@ mango grove, a short distance beyond.
 
 
 
-Chapter 23: Plassey.
+CHAPTER 23. Plassey.
 
 
 Scarcely had the soldiers taken off their packs, when the sound of
@@ -10199,7 +10199,7 @@ one of the blackest in the annals of English history.
 
 
 
-Chapter 24: Mounted Infantry.
+CHAPTER 24. Mounted Infantry.
 
 
 A few days after Plassey, Colonel Clive sent for Charlie.
@@ -10614,7 +10614,7 @@ were all killed by the troops.
 
 
 
-Chapter 25: Besieged In A Pagoda.
+CHAPTER 25. Besieged In A Pagoda.
 
 
 A few days later Charlie received a message from the Rajah of
@@ -11009,7 +11009,7 @@ position of the other was too strong to be attacked.
 
 
 
-Chapter 26: The Siege Of Madras.
+CHAPTER 26. The Siege Of Madras.
 
 
 At last, weary of inactivity, the Marquis de Conflans and Colonel
@@ -11385,7 +11385,7 @@ narrow causeway, more than a mile long, to the fort.
 
 
 
-Chapter 27: Masulipatam.
+CHAPTER 27. Masulipatam.
 
 
 "I am heartily glad that you have come, Marryat," Colonel Forde said,
@@ -11812,7 +11812,7 @@ performed by British arms.
 
 
 
-Chapter 28: The Defeat Of Lally.
+CHAPTER 28. The Defeat Of Lally.
 
 
 A large quantity of plunder was obtained at Masulipatam. Half was at
@@ -12224,7 +12224,7 @@ they will fight to the death when led by us."
 
 
 
-Chapter 29: The Siege Of Pondicherry.
+CHAPTER 29. The Siege Of Pondicherry.
 
 
 As the health of the two officers was shaken by their long and arduous
@@ -12604,7 +12604,7 @@ dismasted.
 
 
 
-Chapter 30: Home.
+CHAPTER 30. Home.
 
 
 The fire of the batteries increased, and by the 13th of January the

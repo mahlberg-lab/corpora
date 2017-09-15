@@ -94,7 +94,7 @@ Rudyard Kipling
 
 
 
-“IN AMBUSH.”
+CHAPTER 1. “IN AMBUSH.”
 
 
 In summer all right-minded boys built huts in the furze-hill behind the
@@ -1175,7 +1175,7 @@ That afternoon there was joy in Aves.
 
 
 
-SLAVES OF THE LAMP
+CHAPTER 2. SLAVES OF THE LAMP
 
 
 The music-room on the top floor of Number Five was filled with the
@@ -1946,7 +1946,7 @@ prayers, singing with most innocent intention:
 
 
 
-AN UNSAVORY INTERLUDE.
+CHAPTER 3. AN UNSAVORY INTERLUDE.
 
 
 It was a maiden aunt of Stalky who sent him both books, with the
@@ -3039,7 +3039,7 @@ Richards spat on a fresh boot and fell to his work, chuckling.
 
 
 
-THE IMPRESSIONISTS.
+CHAPTER 4. THE IMPRESSIONISTS.
 
 
 They had dropped into the chaplain’s study for a Saturday night
@@ -3985,7 +3985,7 @@ It was Stalky who laughed till he had to hold on by the edge of a basin.
 
 
 
-THE MORAL REFORMERS.
+CHAPTER 5. THE MORAL REFORMERS.
 
 
 There was no disguising the defeat. The victory was to Prout, but they
@@ -4931,7 +4931,7 @@ and _nous sommes avec vous_!”
 
 
 
-A LITTLE PREP.
+CHAPTER 6. A LITTLE PREP.
 
 
 Easter term was but a month old when Stettson major, a day-boy,
@@ -5804,7 +5804,7 @@ time from your Uncle Stalky:
 
 
 
-THE FLAG OF THEIR COUNTRY.
+CHAPTER 7. THE FLAG OF THEIR COUNTRY.
 
 
 It was winter and bitter cold of mornings. Consequently Stalky and
@@ -6695,7 +6695,7 @@ reported to the Head for swearin’.”
 
 
 
-THE LAST TERM.
+CHAPTER 8. THE LAST TERM.
 
 
 It was within a few days of the holidays, the term-end examinations,
@@ -7583,9 +7583,7 @@ _Mister_ Corkran will now oblige with the story of Tulke an’ Mary Yeo!”
 
 
 
-SLAVES OF THE LAMP.
-
-Part II.
+CHAPTER 9. SLAVES OF THE LAMP. Part II.
 
 
 That very Infant who told the story of the capture of Boh Na Ghee
