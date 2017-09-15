@@ -101,16 +101,32 @@ The sources were the Gutenberg plain text UTF-8 files.
 \end{enumerate}
 
 Steps \ref{lst:non_auth}, \ref{lst:title} and \ref{lst:chapters} were done manually.
+
+Step \ref{lst:line_endings} was achieved using the following command
+\begin{verbatim} for f in ChiLit/*.txt; do dos2unix -m $f; done \end{verbatim}
+
+Some specifics of step \ref{lst:non_auth}:
+\begin{itemize}
+    \item Tables of content are removed.
+    \item Lists of illustrations are removed.
+    \item Any preface text attributed to a person other than the author is removed. When attribution is unclear the text is left.
+    \item Transcriber notes are removed.
+    \item In the texts illustrations are usually indicated by text enclosed in square brackets.
+          Where this text includes a caption the caption is kept, for example
+        \begin{verbatim} [Illustration: THE WONDERSTONE.] \end{verbatim}
+          becomes
+        \begin{verbatim} [THE WONDERSTONE.] \end{verbatim}
+          Where there is no authorial caption the construct is deleted.
+          All the following example would be deleted
+        \begin{verbatim} [Illustration] \end{verbatim}
+        \begin{verbatim} [Illustration: Chapter Seventeen] \end{verbatim}
+        \begin{verbatim} [Illustration: Page 91] \end{verbatim}
+\end{itemize}
+
 Step \ref{lst:ascii_7} unifies the use of hyphens, apostrophes and quotes across the texts; 7-bit ASCII\footnote{\url{https://tools.ietf.org/html/rfc20}} is a subset of UTF-8\footnote{\url{https://tools.ietf.org/html/rfc3629}} and so the files may be treated as UTF-8.
 
-Step \ref{lst:line_endings} can be achieved using the following command
-\begin{verbatim}
-    dos2unix *.txt
-\end{verbatim}
 Step \ref{lst:ascii_7} was achieved using Version 1.30 of the Perl module \texttt{Text::Unidecode}\footnote{\url{http://search.cpan.org/perldoc?Text::Unidecode}} with the following command
-\begin{verbatim}
-    perl -C -MText::Unidecode -n -i -e'print unidecode($_)' *.txt
-\end{verbatim}
+\begin{verbatim} perl -C -MText::Unidecode -n -i -e'print unidecode($_)' *.txt \end{verbatim}
 
 \section{Corpora}
 
