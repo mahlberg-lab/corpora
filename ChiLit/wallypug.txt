@@ -1,68 +1,11 @@
-﻿The Project Gutenberg EBook of Adventures in Wallypug-Land, by G. E. Farrow
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Adventures in Wallypug-Land
-
-Author: G. E. Farrow
-
-Illustrator: Alan Wright
-
-Release Date: June 22, 2016 [EBook #52393]
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK ADVENTURES IN WALLYPUG-LAND ***
-
-
-
-
-Produced by Giovanni Fini, David Edwards and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-book was produced from scanned images of public domain
-material from the Google Books project.)
-
-
-
-
-
-
-
-                         TRANSCRIBER’S NOTES:
-
-—Obvious print and punctuation errors were corrected.
-
-—Bold text has been rendered ad =bold text=.
-
-
-[Illustration: So soon as we got into the street, we met the Turtle and
-the Pelican, walking arm-in-arm, and each smoking a cigarette.—Page
-151.
-  _Wallypugland._]
-
-
-
-
-                             ADVENTURES IN
+﻿                             ADVENTURES IN
 
                              WALLYPUG-LAND
 
                             BY G. E. FARROW
 
-           AUTHOR OF “THE WALLYPUG OF WHY,” “THE WALLYPUG IN
-                             LONDON,” ETC.
 
              _WITH FIFTY-SIX ILLUSTRATIONS BY ALAN WRIGHT_
-
-                    A. L. BURT COMPANY, PUBLISHERS,
-                     52-58 DUANE STREET, NEW YORK.
 
 
 
@@ -77,7 +20,6 @@ the Pelican, walking arm-in-arm, and each smoking a cigarette.—Page
                      ADVENTURES IN WALLYPUG-LAND.
 
 
-[Illustration]
 
 PREFACE.
 
@@ -131,53 +73,12 @@ during the coming year.
 
 
 
-CONTENTS.
 
 
-                      ADVENTURES IN WALLYPUGLAND.
-
-            CHAP.                                     PAGE
-
-               I. How I Went to Why                     13
-
-              II. A Strange Welcome                     29
-
-             III. A Terrible Night                      40
-
-              IV. Late for Breakfast                    50
-
-               V. The Trial                             62
-
-              VI. His Majesty is Deposed                74
-
-             VII. Foiled                                83
-
-            VIII. The Little Blue People                94
-
-              IX. The Wallypug Recovers his Crown      103
-
-               X. The Home of Ho-Lor                   116
-
-              XI. The Why and Wer-Har-Wei Railway      131
-
-             XII. Back Again at Why                    145
-
-            XIII. A New State of Affairs               155
-
-             XIV. “Good for the Complexion”            165
-
-              XV. “Wallypug’s Blush Limited”           175
-
-             XVI. “Au Revoir”                          187
+[Adventures in Wallypug-Land]
 
 
-            THE BLUE DWARFS                            197
-
-
-[Illustration: Adventures in Wallypug-Land]
-
-
-[Illustration: MR. NOBODY.]
+[MR. NOBODY.]
 
 
 
@@ -240,7 +141,7 @@ I certainly don’t want to go there,” I thought; the other one was
 inscribed, “To Somewhere,” which was decidedly a little better, but the
 third one said, “To Everywhere Else.”
 
-[Illustration: “THAT’S NOT MUCH USE.”]
+[“THAT’S NOT MUCH USE.”]
 
 “And, good gracious me,” I thought, “that’s not much use, for I don’t
 know in the least now which of the last two roads to take.” I was
@@ -341,7 +242,7 @@ further conversation with the insolent bird, and walked away in the
 direction of “Somewhere,” pursued by the sound of mocking laughter from
 the crow.
 
-[Illustration: “WHERE’S YOUR HAT?”]
+[“WHERE’S YOUR HAT?”]
 
 I had not gone far, however, before I perceived a curious kind of
 carriage coming towards me. It was a sort of rickshaw, and was drawn
@@ -389,7 +290,7 @@ my signature; none other is genuine without it. The Wallypug, when he
 returned from England and heard that I had invented it, declared that I
 must be a literary genius.”
 
-[Illustration: “There,” continued Oom Hi, taking out the bottle, “is
+[“There,” continued Oom Hi, taking out the bottle, “is
 the article; it is called ‘Broncho.’”—Page 24.
   _Wallypugland._]
 
@@ -472,7 +373,7 @@ CHAPTER II.
 A STRANGE WELCOME.
 
 
-[Illustration: GOOD BYE!]
+[GOOD BYE!]
 
 WE soon reached the Wallypug’s palace, which stood in a large park in
 the center of the city of Why. I had been very interested in noticing
@@ -490,7 +391,7 @@ very large label on it marked “Strawberry Jam,” while above it were
 the words, “When is a door not a door?” “When is a door not a door?” I
 repeated, vaguely conscious of having heard the question before.
 
-[Illustration: “SOLD AGAIN! SERVE YOU RIGHT!”]
+[“SOLD AGAIN! SERVE YOU RIGHT!”]
 
 “Ha—ha—ha,” laughed a mocking voice at the bottom of the steps, and
 looking down I saw an enormous Cockatoo with a Paisley shawl over her
@@ -542,13 +443,13 @@ say ‘How do you do?’ considering that it is some months since we met.”
 “Oh, do you indeed?” said the Doctor-in-Law, contemptuously. “Well,
 supposing I don’t care one way or another. Where’s your hat?”
 
-[Illustration: “DOWN WITH THE DOCTOR-IN-LAW.”]
+[“DOWN WITH THE DOCTOR-IN-LAW.”]
 
 Before I could answer the Cockatoo had screamed out “Down with the
 Doctor-in-Law!” and the irate little man had replied by throwing a book
 at her head out of the palace window.
 
-[Illustration: “I saw his Majesty, the Wallypug himself, running across
+[“I saw his Majesty, the Wallypug himself, running across
 the lawn towards me, with both hands stretched out in welcome.”—Page
 35.
   _Wallypugland._]
@@ -612,7 +513,7 @@ like the look of him at all.”
 interposed, feeling rather nettled; “perhaps under the circumstances I
 had better——”
 
-[Illustration: “I DON’T APPROVE OF YOU IN THE LEAST,” SAID THE
+[“I DON’T APPROVE OF YOU IN THE LEAST,” SAID THE
 SISTER-IN-LAW.]
 
 “You had better do as you are bid and speak when you are spoken to,”
@@ -684,7 +585,7 @@ interfere.
 
 “Here! I say, what are you up to?” I called out in a stern voice.
 
-[Illustration: “He turned back the bedclothes with his enormous beak,
+[“He turned back the bedclothes with his enormous beak,
 and was just about to hop into bed.”—Page 42.
   _Wallypugland._]
 
@@ -745,7 +646,7 @@ jump from my bed in alarm. I could hear a most unearthly yelling going
 on, a babel of voices, and occasionally a resounding crash as though
 something hollow had been violently struck.
 
-[Illustration: HE WAS INTERRUPTED BY A SHOWER OF MISSILES.]
+[HE WAS INTERRUPTED BY A SHOWER OF MISSILES.]
 
 Pushing open the latticed windows I saw in the moonlight a little man
 dressed in a complete suit of armor with an enormous shield, like a
@@ -758,7 +659,7 @@ of articles which had evidently been thrown at him, and some of them,
 had it not been for his suit of armor and the erection over his head,
 would have caused him considerable injury.
 
-[Illustration: THE MUSICIAN TOOK TO HIS HEELS AND FLED.]
+[THE MUSICIAN TOOK TO HIS HEELS AND FLED.]
 
 He did not seem to mind them in the least, though, and continued
 singing amid a perfect storm of boots, brushes, and bottles, as though
@@ -809,7 +710,7 @@ head tucked under his wing; but was lying stretched out on a rug in the
 hall, with his head resting on a cushion. His enormous beak was wide
 open, and he was snoring violently, and muttering uneasily in his sleep.
 
-[Illustration: THE PELICAN WAS SNORING VIOLENTLY.]
+[THE PELICAN WAS SNORING VIOLENTLY.]
 
 I did not disturb him for fear lest he should make a noise; but
 hurrying past him I made my way to the hall door, which after a little
@@ -873,7 +774,7 @@ on, please!”
 then—good-by,” and he flopped down on his knees and resumed his
 scrubbing.
 
-[Illustration: THE TURTLE FLOPPED DOWN ON HIS KNEES AND RESUMED HIS
+[THE TURTLE FLOPPED DOWN ON HIS KNEES AND RESUMED HIS
 SCRUBBING.]
 
 There was nothing for me to do but to walk on, and seeing a
@@ -900,7 +801,7 @@ near the Palace.”
 “Why! I’ve never heard of such a thing as a rosebush walking about,” I
 exclaimed in surprise.
 
-[Illustration: “IN YOU GO!”]
+[“IN YOU GO!”]
 
 “Never heard of a——. Absurd!” declared the Troubadour, incredulously.
 “Of course they do. That’s what you have hedges and fences around
@@ -951,7 +852,7 @@ ad ‘our every bordig before breakfast, ad he’s geddig on spledidly.”
 “I’m sure his Majesty is to be congratulated on having so admirable an
 instructor,” I remarked, politely, if not very truthfully.
 
-[Illustration: “His Majesty was walking down the path, attended by
+[“His Majesty was walking down the path, attended by
 A. Fish, Esq., who was wearing a cap and gown and carrying a huge
 book.”—Page 58.
   _Wallypugland._]
@@ -1020,7 +921,7 @@ angry voice:
 
 “Just stop that noise, will you? I can’t hear myself speak.”
 
-[Illustration: “STOP THAT NOISE!”]
+[“STOP THAT NOISE!”]
 
 The musicians immediately left off playing with the exception of an
 old hippopotamus, playing a brass instrument, who being deaf, and
@@ -1118,7 +1019,7 @@ bench when we entered. The Sister-in-Law wore a judge’s red robe, and a
 long, flowing wig under her usual head-dress, and the Doctor-in-Law was
 provided with a slate, pencil, and sponge.
 
-[Illustration: “SILENCE IN COURT!” SCREAMED THE OSTRICH.]
+[“SILENCE IN COURT!” SCREAMED THE OSTRICH.]
 
 We were conducted to a kind of dock on one side of the bench, and on
 the other side appeared what afterwards transpired to be the witness
@@ -1309,7 +1210,7 @@ The poor Wallypug threw himself on his knees and called out
 imploringly, “It’s all a mistake,” and I tried in vain to make myself
 heard above the uproar.
 
-[Illustration: “TRAITOR! MONSTER!” “OFF WITH HIS HEAD!”]
+[“TRAITOR! MONSTER!” “OFF WITH HIS HEAD!”]
 
 The whole assembly seemed to have taken leave of their senses, and for
 a few moments the utmost confusion prevailed. The creatures nearest to
@@ -1338,7 +1239,7 @@ could do positively nothing, while all of my protests were drowned in
 the babel of sounds made by the furious creatures in the body of the
 court.
 
-[Illustration: THE WALLYPUG WAS LOADED WITH CHAINS AND MARCHED OFF BY
+[THE WALLYPUG WAS LOADED WITH CHAINS AND MARCHED OFF BY
 THE CROCODILES.]
 
 After being taken from the dock I was marched off in one direction
@@ -1360,7 +1261,7 @@ of him, and excited groups of animals were standing about eagerly
 discussing what was evidently the cause of a tremendous sensation in
 the kingdom of Why.
 
-[Illustration: “I saw the Doctor-in-Law rushing about with a packet
+[“I saw the Doctor-in-Law rushing about with a packet
 of newspapers under one arm, calling out in a loud voice, ‘Special
 edition! Arrest of the Wallypug!’”—Page 82.
   _Wallypugland._]
@@ -1432,7 +1333,7 @@ contemptuously, turning up his beak. “And then, the first morning
 after your arrival you must needs go prowling about the grounds before
 any one else was up.”
 
-[Illustration: “WHAT ARE YOU GOING TO LEAVE ME IN YOUR WILL?”]
+[“WHAT ARE YOU GOING TO LEAVE ME IN YOUR WILL?”]
 
 “What are you going to leave me in your will?” he continued
 insinuatingly.
@@ -1483,7 +1384,7 @@ at last.”
 
 “What?” I shouted.
 
-[Illustration: “Are you there?” cried A. Fish, Esq. “Yes; what is it?”
+[“Are you there?” cried A. Fish, Esq. “Yes; what is it?”
 I asked.—Page 89.
   _Wallypugland._]
 
@@ -1545,7 +1446,7 @@ appeared in the wall. His Majesty gave me a sudden push, which sent
 me sprawling on to a smooth and very steep incline, and jumping down
 himself, we slid rapidly away into the unknown.
 
-[Illustration: WE SLID RAPIDLY DOWN THE SHUTE.]
+[WE SLID RAPIDLY DOWN THE SHUTE.]
 
 That we were only just in time was evidenced by the cries of rage and
 disappointment which pursued us from the dungeon, as the Doctor-in-Law
@@ -1592,7 +1493,7 @@ sandwiches came whizzing past my head. I managed to catch it as it fell
 upon the highly-polished boards by stretching out one leg just in time
 to prevent it from slipping too far.
 
-[Illustration: I COULD SEE HE WAS STRUGGLING TO GET SOMETHING OUT OF
+[I COULD SEE HE WAS STRUGGLING TO GET SOMETHING OUT OF
 THE CARPET-BAG.]
 
 The sandwiches were very good, and I enjoyed them immensely, and for
@@ -1631,7 +1532,7 @@ into our clothes, and the hook, or whatever it was, just touched my
 shoulder. It did not hurt very much, but just enough to make me feel
 uncomfortable.
 
-[Illustration: “I wonder where we are,” said the Wallypug, looking
+[“I wonder where we are,” said the Wallypug, looking
 about him. “What a funny colour everything is, to be sure.”—Page 98.
   _Wallypugland._]
 
@@ -1684,7 +1585,7 @@ please?”
 “Not yet,” said both of the little blue creatures, shaking their heads
 simultaneously. “What are your names?”
 
-[Illustration: “OH!” THEY EXCLAIMED, “WHAT ARE THEY?”]
+[“OH!” THEY EXCLAIMED, “WHAT ARE THEY?”]
 
 “I’m the Wallypug,” explained his Majesty graciously, “and this
 gentleman is——”
@@ -1736,7 +1637,7 @@ believe.”
 His Majesty did so, and we soon had the satisfaction of seeing the
 birds squabbling over it on the bank at the side of the shute.
 
-[Illustration: “GO AWAY!” SHOUTED HIS MAJESTY.]
+[“GO AWAY!” SHOUTED HIS MAJESTY.]
 
 “Fortunate I tied my bag to the string of my cloak, wasn’t it?”
 remarked the Wallypug, when they had gone. “I should have lost it else.
@@ -1761,7 +1662,7 @@ Why on his royal head once more.
 to have it on again. I’m afraid that I should soon have caught a cold
 in my head, like A. Fish, Esq., if I had gone without it much longer.”
 
-[Illustration: A LONG LINE OF CREATURES WAS COMING DOWN THE SHUTE.]
+[A LONG LINE OF CREATURES WAS COMING DOWN THE SHUTE.]
 
 “Gracious!” he cried, pointing excitedly towards the top of the shute,
 “there’s something else coming down! Why it’s the Doctor-in-Law and
@@ -1872,7 +1773,7 @@ puzzled expression.
 “His Majesty the Wallypug of Why,” I explained, “wishes to say, that he
 hopes you are quite well.”
 
-[Illustration: His Majesty swaggered across the bridge to where the
+[His Majesty swaggered across the bridge to where the
 three little blue people stood in a line to receive us.—Page 112.
   _Wallypugland._]
 
@@ -1900,7 +1801,7 @@ out before them. “Pray forgive us, Majestuous Wallypug, we thought you
 were only an ordinary person. You see we’ve never caught a king before.
 Oh! don’t chop our heads off, will you?”
 
-[Illustration: “PRAY FORGIVE US,” EXCLAIMED THE BLUE PEOPLE.]
+[“PRAY FORGIVE US,” EXCLAIMED THE BLUE PEOPLE.]
 
 “Of course not,” said his Majesty, kindly.
 
@@ -1982,7 +1883,7 @@ bandy-legged, and its hinder legs were much longer than the front ones.
 Added to this, the skin on its haunches was wrinkled up into curious
 kind of rosettes, while its tail was really all sorts of shapes.
 
-[Illustration: “Come along, good dog! come and speak to the pretty
+[“Come along, good dog! come and speak to the pretty
 Wallypugs.”—Page 119.
   _Wallypugland._]
 
@@ -2027,7 +1928,7 @@ nevertheless. “He is of a very rare breed, though.”
 
 “Mivlets?” asked Ho-Lor.
 
-[Illustration: “HE IS A BEAUTIFUL CREATURE,” SAID HIS MAJESTY.]
+[“HE IS A BEAUTIFUL CREATURE,” SAID HIS MAJESTY.]
 
 His Majesty nodded.
 
@@ -2081,7 +1982,7 @@ Somehow or another Kis-Smee was left behind, and although the Wallypug
 suggested putting back for him, it was finally decided, however, not to
 do so.
 
-[Illustration: WE WENT FOR A ROW ON THE ORNAMENTAL LAKE.]
+[WE WENT FOR A ROW ON THE ORNAMENTAL LAKE.]
 
 “Perhaps he will smirkle a mivlet while we are away,” said Ho-Lor.
 
@@ -2167,7 +2068,7 @@ upon a remarkable sight.
 Kis-Smee was prancing madly round a gombobble tree to the lower
 branches of which A. Fish, Esq., was clinging in an agony of fright.
 
-[Illustration: Kis-Smee was prancing madly round a gombobble tree to
+[Kis-Smee was prancing madly round a gombobble tree to
 the lower branches of which A. Fish, Esq., was clinging in an agony of
 fright.—Page 128.
   _Wallypugland._]
@@ -2247,7 +2148,7 @@ so it was at last decided to put one up and one down and leave them so,
 and then the engine-drivers could do as they pleased about going on or
 stopping.
 
-[Illustration: AS USUAL THE STATION-MASTER WAS SQUABBLING WITH THE
+[AS USUAL THE STATION-MASTER WAS SQUABBLING WITH THE
 PORTER.]
 
 When they had quite settled this dispute, A. Fish, Esq., had asked them
@@ -2336,7 +2237,7 @@ and it was lost forever.
 the jerks which the irregular motion of the train occasioned. “Only a
 tooth-brush and small cake of soap.”
 
-[Illustration: The carriage pitched backward and rolled from side to
+[The carriage pitched backward and rolled from side to
 side.—Page 138.
   _Wallypugland._]
 
@@ -2397,7 +2298,7 @@ gesticulating violently.
 
 He was waving some wire and leather dog muzzles in one hand.
 
-[Illustration: THE TALL THIN MAN WAS WAVING SOME MUZZLES.]
+[THE TALL THIN MAN WAS WAVING SOME MUZZLES.]
 
 “Where’s his muzzle?” he demanded, pointing to Kis-Smee. “Can’t you see
 the dog is mad and must be muzzled immediately?”
@@ -2483,7 +2384,7 @@ the platform, turning around to call out warningly, “If we find any
 suspicious-looking characters hanging about the station premises we
 shoot them.”
 
-[Illustration: THE PORTER DEMANDED OUR TICKETS.]
+[THE PORTER DEMANDED OUR TICKETS.]
 
 “What nonsense!” cried the Wallypug, rattling and kicking the gate.
 “We can’t stop here all day. Let’s call the station-master. Hi! hi!
@@ -2561,7 +2462,7 @@ Kis-Smee, evidently thinking him fair game, started off in pursuit,
 and it was not till the station-master had bolted into his office and
 locked the door that we could get him to come back to our call.
 
-[Illustration: FLED UP THE PLATFORM IN DISMAY.]
+[FLED UP THE PLATFORM IN DISMAY.]
 
 So soon as we got into the street we met the Turtle and the Pelican,
 walking arm-in-arm, and each smoking a cigarette.
@@ -2645,7 +2546,7 @@ and the headless traitor”—
 “Do you mean me?” I interrupted, “because I am not headless yet, you
 know.”
 
-[Illustration: “WHAT A COLOR!” EXCLAIMED THE COCKATOO.]
+[“WHAT A COLOR!” EXCLAIMED THE COCKATOO.]
 
 “Headless, or hatless, it’s all the same,” said the Cockatoo, “you
 might as well run about without your head for all the good it is to
@@ -2690,7 +2591,7 @@ The good-natured little Wallypug made him very happy by promising to
 pay this amount for him, and we left the little man looking very much
 brighter than when we entered.
 
-[Illustration: We found the Doctor-in-Law looking very weak and ill,
+[We found the Doctor-in-Law looking very weak and ill,
 but he recognized us all and held out his hand to the Wallypug.—Page
 158.
   _Wallypugland._]
@@ -2799,7 +2700,7 @@ his papers, which were covered with unintelligible blots and scratches
 and scattered in all parts of the room, and, tucking them under his
 wing, departed, to have the matter set up in print.
 
-[Illustration: “THIS MUST BE A POST OFFICE PEN,” SAID THE CROW.]
+[“THIS MUST BE A POST OFFICE PEN,” SAID THE CROW.]
 
 
 
@@ -2842,7 +2743,7 @@ two Crocodiles entered and caught hold of me roughly by the collar.
 before I could protest I was bundled unceremoniously out of the house
 by the Crocodiles, the Kangaroo and Oom Hi following with the Wallypug.
 
-[Illustration: “Ough! ough!” spluttered his Majesty. “You’re putting it
+[“Ough! ough!” spluttered his Majesty. “You’re putting it
 all in my eyes. Oh, ach! do-o-n’t! Stop! I say, _do_ leave off.”—Page
 167.
   _Wallypugland._]
@@ -2901,7 +2802,7 @@ from rubbing it off.” So the poor little Wallypug was led off to the
 stocks and securely fastened in, with his hands spread out to dry, and
 with strict injunctions not to move till he was told.
 
-[Illustration: HIS MAJESTY IN THE STOCKS.]
+[HIS MAJESTY IN THE STOCKS.]
 
 The last view that I had of his Majesty was of the poor little fellow,
 utterly worn out with his exertions, meekly sitting in the stocks and
@@ -2923,7 +2824,7 @@ powerless to prevent it And the only thing that I could do when the
 Crocodiles had left me alone, after a few parting jeers, was to
 consider the best way of effecting my escape.
 
-[Illustration: MADE RUDE AND PERSONAL REMARKS ABOUT MY APPEARANCE.]
+[MADE RUDE AND PERSONAL REMARKS ABOUT MY APPEARANCE.]
 
 I was pondering seriously upon this question, when suddenly I
 remembered the Gombobble with which the little blue people had
@@ -2996,7 +2897,7 @@ running off in the direction of the stocks.
 I awaited his return with some anxiety, and was delighted to see when
 he did come back, that his face was beaming with delight.
 
-[Illustration: MR. NOBODY NODDED.]
+[MR. NOBODY NODDED.]
 
 “His Majesty has regained his complexion, and is very grateful to you,”
 he wrote hurriedly, clapping his hands and capering about.
@@ -3018,7 +2919,7 @@ Wallypug’s Blush, as it was now called.
 They looked very amiable, and after some kind remarks about the weather
 Oom Hi cleared his throat and said in a sort of apologetic voice:
 
-[Illustration: OOM HI CARRIED A BASIN, AND THE KANGAROO A BOTTLE OF
+[OOM HI CARRIED A BASIN, AND THE KANGAROO A BOTTLE OF
 VIMBRIL.]
 
 “Er, we didn’t mean to be _too_ severe, you know, and what we have
@@ -3125,7 +3026,7 @@ Company. In consideration of the payment to me of several thousands
 of pounds, I am about to become a director, and am to be paid several
 thousands more for persuading the Cockatoo to join the board too.”
 
-[Illustration: We were astonished to see the Doctor-in-Law in his
+[We were astonished to see the Doctor-in-Law in his
 dressing-gown and slippers, in busy consultation with Oom-Hi, the
 Kangaroo, and the Cockatoo.—Page 184.
   _Wallypugland._]
@@ -3197,7 +3098,7 @@ The Crocodile sighed. “Just my luck,” he remarked, “I love dogs and I
 should so enjoy taking this one home to tea with me. Perhaps you will
 let him visit me sometimes. What’s his name?”
 
-[Illustration: “OH! REALLY, WALLYPUG, THIS IS SO SUDDEN.”]
+[“OH! REALLY, WALLYPUG, THIS IS SO SUDDEN.”]
 
 “Kis-Smee,” said his Majesty.
 
@@ -3266,7 +3167,7 @@ the Cockatoo, who screamed, “Down with domestic animals,” as he passed.
 This remark of hers gave offense to the Pig also, who demanded to know
 if she was referring to him.
 
-[Illustration: Oom-Hi was there and the Turtle too, and A. Fish,
+[Oom-Hi was there and the Turtle too, and A. Fish,
 Esq., listened, open-mouthed, while they discussed the state of
 affairs.—Page 192.
   _Wallypugland._]
@@ -3314,7 +3215,7 @@ Royal Palace, Why,” as I am very anxious to know how affairs are going
 on there; but I am sorry to say they have always been returned through
 the post, marked in blue pencil, “_Not known. Insufficient address._”
 
-[Illustration: RETURNED THROUGH THE POST.]
+[RETURNED THROUGH THE POST.]
 
 
 
@@ -4189,909 +4090,4 @@ And Auntie gave her still another kiss.
 
                                THE END.
 
-
- A. L. Burt’s Catalogue of Books for Young People by Popular Writers,
-                     52-58 Duane Street, New York
-
-
-
-
-                           BOOKS FOR GIRLS.
-
- =Alice’s Adventures in Wonderland.= By LEWIS CARROLL. 12mo, cloth, 42
- illustrations, price 75 cents.
-
-“From first to last, almost without exception, this story is
-delightfully droll, humorous and illustrated in harmony with the
-story.”—=New York Express.=
-
- =Through the Looking Glass, and What Alice Found There.= By LEWIS
- CARROLL. 12mo, cloth, 50 illustrations, price 75 cents.
-
-“A delight alike to the young people and their elders, extremely funny
-both in text and illustrations.”—=Boston Express.=
-
- =Little Lucy’s Wonderful Globe.= By CHARLOTTE M. YONGE. 12mo, cloth,
- illustrated, price 75 cents.
-
-“This story is unique among tales intended for children, alike for
-pleasant instruction, quaintness of humor, gentle pathos, and the
-subtlety with which lessons moral and otherwise are conveyed to
-children, and perhaps to their seniors as well.”—=The Spectator.=
-
- =Joan’s Adventures at the North Pole and Elsewhere.= By ALICE CORKRAN.
- 12mo, cloth, illustrated, price 75 cents.
-
-“Wonderful as the adventures of Joan are, it must be admitted that they
-are very naturally worked out and very plausibly presented. Altogether
-this is an excellent story for girls.”—=Saturday Review.=
-
- =Count Up the Sunny Days=: A Story for Girls and Boys. By C. A. JONES.
- 12mo, cloth, illustrated, price 75 cents.
-
-“An unusually good children’s story.”—=Glasgow Herald.=
-
- =The Dove in the Eagle’s Nest.= By CHARLOTTE M. YONGE. 12mo, cloth,
- illustrated, price $1.00.
-
-“Among all the modern writers we believe Miss Yonge first, not in
-genius, but in this, that she employs her great abilities for a high
-and noble purpose. We know of few modern writers whose works may be so
-safely commended as hers.”—=Cleveland Times.=
-
- =Jan of the Windmill.= A Story of the Plains. By MRS. J. H. EWING.
- 12mo, cloth, illustrated, price $1.00.
-
-“Never has Mrs. Ewing published a more charming volume, and that is
-saying a very great deal. From the first to the last the book overflows
-with the strange knowledge of child-nature which so rarely survives
-childhood: and moreover, with inexhaustible quiet humor, which is
-never anything but innocent and well-bred, never priggish, and never
-clumsy.”—=Academy.=
-
- =A Sweet Girl Graduate.= By L. T. MEADE. 12mo, cloth, illustrated,
- price $1.00.
-
-“One of this popular author’s best. The characters are well imagined
-and drawn. The story moves with plenty of spirit and the interest does
-not flag until the end too quickly comes.”—=Providence Journal.=
-
- =Six to Sixteen=: A Story for Girls. By JULIANA HORATIA EWING. 12mo,
- cloth, illustrated, price $1.00.
-
-“There is no doubt as to the good quality and attractiveness of ‘Six
-to Sixteen.’ The book is one which would enrich any girl’s book
-shelf.”—=St. James’ Gazette.=
-
- =The Palace Beautiful=: A Story for Girls. By L. T. MEADE. 12mo,
- cloth, illustrated, price $1.00.
-
-“A bright and interesting story. The many admirers of Mrs. L. T. Meade
-in this country will be delighted with the ‘Palace Beautiful’ for
-more reasons than one. It is a charming book for girls.”—=New York
-Recorder.=
-
- =A World of Girls=: The Story of a School. By L. T. MEADE. 12mo,
- cloth, illustrated, price $1.00.
-
-“One of those wholesome stories which it does one good to read. It will
-afford pure delight to numerous readers. This book should be on every
-girl’s book shelf.”—=Boston Home Journal.=
-
- =The Lady of the Forest=: A Story for Girls. By L. T. MEADE. 12mo,
- cloth, illustrated, price $1.00.
-
-“This story is written in the author’s well-known, fresh and
-easy style. All girls fond of reading will be charmed by this
-well-written story. It is told with the author’s customary grace and
-spirit.”—=Boston Times.=
-
- =At the Back of the North Wind.= By GEORGE MACDONALD. 12mo, cloth,
- illustrated, price $1.00.
-
-“A very pretty story, with much of the freshness and vigor of Mr.
-Macdonald’s earlier work.... It is a sweet, earnest, and wholesome
-fairy story, and the quaint native humor is delightful. A most
-delightful volume for young readers.”—=Philadelphia Times.=
-
- =The Water Babies=: A Fairy Tale for a Land Baby. By CHARLES KINGSLEY.
- 12mo, cloth, illustrated, price $1.00.
-
-“The strength of his work, as well as its peculiar charms, consist in
-his description of the experiences of a youth with life under water
-in the luxuriant wealth of which he revels with all the ardor of a
-poetical nature.”—=New York Tribune.=
-
- =Our Bessie.= By ROSA N. CAREY. 12mo, cloth, illustrated, price $1.00.
-
-“One of the most entertaining stories of the season, full of vigorous
-action, and strong in character-painting. Elder girls will be charmed
-with it, and adults may read its pages with profit.”—=The Teachers’
-Aid.=
-
- =Wild Kitty.= A Story of Middleton School. By L. T. MEADE. 12mo,
- cloth, illustrated, price $1.00.
-
-“Kitty is a true heroine—warm-hearted, self-sacrificing, and, as
-all good women nowadays are, largely touched with the enthusiasm of
-humanity. One of the most attractive gift books of the season.”—=The
-Academy.=
-
- =A Young Mutineer.= A Story for Girls. By L. T. MEADE. 12mo, cloth,
- illustrated, price $1.00.
-
-“One of Mrs. Meade’s charming books for girls, narrated in that simple
-and picturesque style which marks the authoress as one of the first
-among writers for young people.”—=The Spectator.=
-
- =Sue and I.= By MRS. O’REILLY. 12mo, cloth, illustrated, price 75
- cents.
-
-“A thoroughly delightful book, full of sound wisdom as well as
-fun.”—=Athenæum.=
-
- =The Princess and the Goblin.= A Fairy Story. By GEORGE MACDONALD.
- 12mo, cloth, illustrated, price 75 cents.
-
-“If a child once begins this book, it will get so deeply interested in
-it that when bedtime comes it will altogether forget the moral, and
-will weary its parents with importunities for just a few minutes more
-to see how everything ends.”—=Saturday Review.=
-
- =Pythia’s Pupils=: A Story of a School. By EVA HARTNER. 12mo, cloth,
- illustrated, price $1.00.
-
-“This story of the doings of several bright school girls is sure to
-interest girl readers. Among many good stories for girls this is
-undoubtedly one of the very best.”—=Teachers’ Aid.=
-
- =A Story of a Short Life.= By JULIANA HORATIA EWING. 12mo, cloth,
- illustrated, price $1.00.
-
-“The book is one we can heartily recommend, for it is not only
-bright and interesting, but also pure and healthy in tone and
-teaching.”—=Courier.=
-
- =The Sleepy King.= A Fairy Tale. By AUBREY HOPWOOD AND SEYMOUR HICKS.
- 12mo, cloth, illustrated, price 75 cents.
-
-“Wonderful as the adventures of Bluebell are, it must be admitted
-that they are very naturally worked out and very plausibly presented.
-Altogether this is an excellent story for girls.”—=Saturday Review.=
-
- =Two Little Waifs.= By MRS. MOLESWORTH. 12mo, cloth, illustrated,
- price 75 cents.
-
-“Mrs. Molesworth’s delightful story of ‘Two Little Waifs’ will charm
-all the small people who find it in their stockings. It relates the
-adventures of two lovable English children lost in Paris, and is just
-wonderful enough to pleasantly wring the youthful heart.”—=New York
-Tribune.=
-
- =Adventures in Toyland.= By EDITH KING HALL. 12mo, cloth, illustrated,
- price 75 cents.
-
-“The author is such a bright, cheery writer, that her stories are
-always acceptable to all who are not confirmed cynics, and her record
-of the adventures is as entertaining and enjoyable as we might
-expect.”—=Boston Courier.=
-
- =Adventures in Wallypug Land.= By G. E. FARROW. 12mo, cloth,
- illustrated, price 75 cents.
-
-“These adventures are simply inimitable, and will delight boys and
-girls of mature age, as well as their juniors. No happier combination
-of author and artist than this volume presents could be found to
-furnish healthy amusement to the young folks. The book is an artistic
-one in every sense.”—=Toronto Mail.=
-
- =Fussbudget’s Folks.= A Story for Young Girls. By ANNA F. BURNHAM.
- 12mo, cloth, illustrated, price $1.00.
-
-“Mrs. Burnham has a rare gift for composing stories for children. With
-a light, yet forcible touch, she paints sweet and artless, yet natural
-and strong, characters.”—=Congregationalist.=
-
- =Mixed Pickles.= A Story for Girls. By MRS. E. M. FIELD. 12mo, cloth,
- illustrated, price 75 cents.
-
-“It is, in its way, a little classic, of which the real beauty and
-pathos can hardly be appreciated by young people. It is not too much to
-say of the story that it is perfect of its kind.”—=Good Literature.=
-
- =Miss Mouse and Her Boys.= A Story for Girls. By MRS. MOLESWORTH.
- 12mo, cloth, illustrated, price 75 cents.
-
-“Mrs. Molesworth’s books are cheery, wholesome, and particularly well
-adapted to refined life. It is safe to add that she is the best English
-prose writer for children. A new volume from Mrs. Molesworth is always
-a treat.”—=The Beacon.=
-
- =Gilly Flower.= A Story for Girls. By the author of “Miss Toosey’s
- Mission.” 12mo, cloth, illustrated, price $1.00.
-
-“Jill is a little guardian angel to three lively brothers who tease
-and play with her.... Her unconscious goodness brings right thoughts
-and resolves to several persons who come into contact with her.
-There is no goodiness in this tale, but its influence is of the best
-kind.”—=Literary World.=
-
- =The Chaplet of Pearls=; or, The White and Black Ribaumont. By
- CHARLOTTE M. YONGE. 12mo, cloth, illustrated, price $1.00.
-
-“Full of spirit and life, so well sustained throughout that grown-up
-readers may enjoy it as much as children. It is one of the best books
-of the season.”—=Guardian.=
-
- =Naughty Miss Bunny=: Her Tricks and Troubles. By CLARA MULHOLLAND.
- 12mo, cloth, illustrated, price 75 cents.
-
-“The naughty child is positively delightful. Papas should not omit the
-book from their list of juvenile presents.”—=Land and Water.=
-
- =Meg’s Friend.= By ALICE CORKRAN. 12mo, cloth, illustrated, price
- $1.00.
-
-“One of Miss Corkran’s charming books for girls, narrated in that
-simple and picturesque style which marks the authoress as one of the
-first among writers for young people.”—=The Spectator.=
-
- =Averil.= By ROSA N. CAREY. 12mo, cloth, illustrated, price $1.00.
-
-“A charming story for young folks. Averil is a delightful
-creature—piquant, tender, and true—and her varying fortunes are
-perfectly realistic.”—=World.=
-
- =Aunt Diana.= By ROSA N. CAREY. 12mo, cloth, illustrated, price $1.00.
-
-“An excellent story, the interest being sustained from first to
-last. This is, both in its intention and the way the story is told,
-one of the best books of its kind which has come before us this
-year.”—=Saturday Review.=
-
- =Little Sunshine’s Holiday=: A Picture from Life. By MISS MULOCK.
- 12mo, cloth, illustrated, price 75 cents.
-
-“This is a pretty narrative of child life, describing the simple doings
-and sayings of a very charming and rather precocious child. This is a
-delightful book for young people.”—=Gazette.=
-
- =Esther’s Charge.= A Story for Girls. By ELLEN EVERETT GREEN. 12mo,
- cloth, illustrated, price $1.00.
-
-“... This is a story showing in a charming way how one little girl’s
-jealousy and bad temper were conquered; one of the best, most
-suggestive and improving of the Christmas Juveniles.”—=New York
-Tribune.=
-
- =Fairy Land of Science.= By ARABELLA B. BUCKLEY. 12mo, cloth,
- illustrated, price $1.00.
-
-“We can highly recommend it; not only for the valuable information it
-gives on the special subjects to which it is dedicated, but also as a
-book teaching natural sciences in an interesting way. A fascinating
-little volume, which will make friends in every household in which
-there are children.”—=Daily News.=
-
- =Merle’s Crusade.= By ROSA N. CAREY. 12mo, cloth, illustrated, price
- $1.00.
-
-“Among the books for young people we have seen nothing more unique
-than this book. Like all of this author’s stories it will please young
-readers by the very attractive and charming style in which it is
-written.”—=Journal.=
-
- =Birdie=: A Tale of Child Life. By H. L. CHILDE-PEMBERTON. 12mo,
- cloth, illustrated, price 75 cents.
-
-“The story is quaint and simple, but there is a freshness about it that
-makes one hear again the ringing laugh and the cheery shout of children
-at play which charmed his earlier years.”—=New York Express.=
-
- =The Days of Bruce=: A Story from Scottish History. By GRACE AGUILAR.
- 12mo, cloth, illustrated, price $1.00.
-
-“There is a delightful freshness, sincerity and vivacity about all
-of Grace Aguilar’s stories which cannot fail to win the interest and
-admiration of every lover of good reading.”—=Boston Beacon.=
-
- =Three Bright Girls=: A Story of Chance and Mischance. By ANNIE E.
- ARMSTRONG. 12mo, cloth, illustrated, price $1.00.
-
-“The charm of the story lies in the cheery helpfulness of spirit
-developed in the girls by their changed circumstances; while the author
-finds a pleasant ending to all their happy makeshifts. The story is
-charmingly told, and the book can be warmly recommended as a present
-for girls.”—=Standard.=
-
- =Giannetta=: A Girl’s Story of Herself. By ROSA MULHOLLAND. 12mo,
- cloth, illustrated, price $1.00.
-
-“Extremely well told and full of interest. Giannetta is a true
-heroine—warm-hearted, self-sacrificing, and, as all good women
-nowadays are, largely touched with enthusiasm of humanity. The
-illustrations are unusually good. One of the most attractive gift books
-of the season.”—=The Academy.=
-
- =Margery Merton’s Girlhood.= By ALICE CORKRAN. 12mo, cloth,
- illustrated, price $1.00.
-
-“The experiences of an orphan girl who in infancy is left by her father
-to the care of an elderly aunt residing near Paris. The accounts of the
-various persons who have an after influence on the story are singularly
-vivid. There is a subtle attraction about the book which will make it a
-great favorite with thoughtful girls.”—=Saturday Review.=
-
- =Under False Colors=: A Story from Two Girls’ Lives. By SARAH DOUDNEY.
- 12mo, cloth, illustrated, price $1.00.
-
-“Sarah Doudney has no superior as a writer of high-toned stories—pure
-in style, original in conception, and with skillfully wrought out
-plots; but we have seen nothing equal in dramatic energy to this
-book.”—=Christian Leader.=
-
- =Down the Snow Stairs=; or, From Good-night to Good-morning. By ALICE
- CORKRAN. 12mo, cloth, illustrated, price 75 cents.
-
-“Among all the Christmas volumes which the year has brought to our
-table this one stands out facile princeps—a gem of the first water,
-bearing upon every one of its pages the signet mark of genius....
-All is told with such simplicity and perfect naturalness that the
-dream appears to be a solid reality. It is indeed a Little Pilgrim’s
-Progress.”—=Christian Leader.=
-
- =The Tapestry Room=: A Child’s Romance. By MRS. MOLESWORTH. 12mo,
- cloth, illustrated, price 75 cents.
-
-“Mrs. Molesworth is a charming painter of the nature and ways of
-children; and she has done good service in giving us this charming
-juvenile which will delight the young people.”—=Athenæum, London.=
-
- =Little Miss Peggy=: Only a Nursery Story. By MRS. MOLESWORTH. 12mo,
- cloth, illustrated, price 75 cents.
-
-Mrs. Molesworth’s children are finished studies. A joyous earnest
-spirit pervades her work, and her sympathy is unbounded. She loves
-them with her whole heart, while she lays bare their little minds, and
-expresses their foibles, their faults, their virtues, their inward
-struggles, their conception of duty, and their instinctive knowledge
-of the right and wrong of things. She knows their characters, she
-understands their wants, and she desires to help them.
-
- =Polly=: A New Fashioned Girl. By L. T. MEADE. 12mo, cloth,
- illustrated, price $1.00.
-
-Few authors have achieved a popularity equal to Mrs. Meade as a writer
-of stories for young girls. Her characters are living beings of flesh
-and blood, not lay figures of conventional type. Into the trials and
-crosses, and everyday experiences, the reader enters at once with zest
-and hearty sympathy. While Mrs. Meade always writes with a high moral
-purpose, her lessons of life, purity and nobility of character are
-rather inculcated by example than intruded as sermons.
-
- =One of a Covey.= By the author of “Miss Toosey’s Mission.” 12mo,
- cloth, illustrated, price 75 cents.
-
-“Full of spirit and life, so well sustained throughout that grown-up
-readers may enjoy it as much as children. This ‘Covey’ consists of the
-twelve children of a hard-pressed Dr. Partridge out of which is chosen
-a little girl to be adopted by a spoiled, fine lady. We have rarely
-read a story for boys and girls with greater pleasure. One of the chief
-characters would not have disgraced Dickens’ pen.”—=Literary World.=
-
- =The Little Princess of Tower Hill.= By L. T. MEADE. 12mo, cloth,
- illustrated, price 75 cents.
-
-“This is one of the prettiest books for children published, as pretty
-as a pond-lily, and quite as fragrant. Nothing could be imagined more
-attractive to young people than such a combination of fresh pages and
-fair pictures; and while children will rejoice over it—which is much
-better than crying for it—it is a book that can be read with pleasure
-even by older boys and girls.”—=Boston Advertiser.=
-
- =Rosy.= By MRS. MOLESWORTH. 12mo, cloth, illustrated, price 75 cents.
-
-Mrs. Molesworth, considering the quality and quantity of her labors, is
-the best story-teller for children England has yet known.
-
-“This is a very pretty story. The writer knows children, and their ways
-well. The illustrations are exceedingly well drawn.”—=Spectator.=
-
- =Esther=: A Book for Girls. By ROSA N. CAREY. 12mo, cloth,
- illustrated, price $1.00.
-
-“She inspires her readers simply by bringing them in contact with the
-characters, who are in themselves inspiring. Her simple stories are
-woven in order to give her an opportunity to describe her characters by
-their own conduct in seasons of trial.”—=Chicago Times.=
-
- =Sweet Content.= By MRS. MOLESWORTH. 12mo, cloth, illustrated, price
- 75 cents.
-
-“It seems to me not at all easier to draw a lifelike child than to draw
-a lifelike man or woman: Shakespeare and Webster were the only two men
-of their age who could do it with perfect delicacy and success. Our own
-age is more fortunate, on this single score at least, having a larger
-and far nobler proportion of female writers; among whom, since the
-death of George Eliot, there is none left whose touch is so exquisite
-and masterly, whose love is so thoroughly according to knowledge,
-whose bright and sweet invention is so fruitful, so truthful, or so
-delightful as Mrs. Molesworth’s.”—=A. C. Swinbourne.=
-
- =Honor Bright=; or, The Four-Leaved Shamrock. By the author of “Miss
- Toosey’s Mission.” 12mo, cloth, illustrated, price $1 00.
-
-“It requires a special talent to describe the sayings and doings of
-children, and the author of ‘Honor Bright,’ ‘One of a Covey,’ possesses
-that talent in no small degree. A cheery, sensible, and healthy
-tale.”—=The Times.=
-
- =The Cuckoo Clock.= By MRS. MOLESWORTH. 12mo, cloth, illustrated,
- price 75 cents.
-
-“A beautiful little story. It will be read with delight by every
-child into whose hands it is placed.... The author deserves all the
-praise that has been, is, and will be bestowed on ‘The Cuckoo Clock.’
-Children’s stories are plentiful, but one like this is not to be met
-with every day.”—=Pall Mall Gazette.=
-
- =The Adventures of a Brownie.= As Told to my Child. By MISS MULOCK.
- 12mo, cloth, illustrated, price 75 cents.
-
-“The author of this delightful little book leaves it in doubt all
-through whether there actually is such a creature in existence as
-a Brownie, but she makes us hope that there might be.”—=Chicago
-Standard.=
-
- =Only a Girl=: A Tale of Brittany. From the French by C. A. JONES.
- 12mo, cloth, illustrated, price $1.00.
-
-“We can thoroughly recommend this brightly written and homely
-narrative.”—=Saturday Review.=
-
- =Little Rosebud=; or, Things Will Take a Turn. By BEATRICE HARRADEN.
- 12mo, cloth, illustrated, price 75 cents.
-
-“A most delightful little book.... Miss Harraden is so bright, so
-healthy, and so natural withal that the book ought, as a matter of
-duty, to be added to every girl’s library in the land.”—=Boston
-Transcript.=
-
- =Girl Neighbors=; or, The Old Fashion and the New. By SARAH TYTLER.
- 12mo, cloth, illustrated, price $1.00.
-
-“One of the most effective and quietly humorous of Miss Tytler’s
-stories. ‘Girl Neighbors’ is a pleasant comedy, not so much of errors
-as of prejudices got rid of, very healthy, very agreeable, and very
-well written.”—=Spectator.=
-
- =The Little Lame Prince and His Traveling Cloak.= By MISS MULOCK.
- 12mo, cloth, illustrated, price 75 cents.
-
-“No sweeter—that is the proper word—Christmas story for the little
-folks could easily be found, and it is as delightful for older readers
-as well. There is a moral to it which the reader can find out for
-himself, if he chooses to think.”—=Cleveland Herald.=
-
- =Little Miss Joy.= By EMMA MARSHALL. 12mo, cloth, illustrated, price
- 75 cents.
-
-“A very pleasant and instructive story, told by a very charming writer
-in such an attractive way as to win favor among its young readers. The
-illustrations add to the beauty of the book.”—=Utica Herald.=
-
- =The House that Grew.= A Girl’s Story. By MRS. MOLESWORTH. 12mo,
- cloth, illustrated, price 75 cents.
-
-“This is a very pretty story of English life. Mrs. Molesworth is one of
-the most popular and charming of English story-writers for children.
-Her child characters are true to life, always natural and attractive,
-and her stories are wholesome and interesting.”—=Indianapolis Journal.=
-
- =The House of Surprises.= By L. T. MEADE. 12mo, cloth, illustrated,
- price 75 cents.
-
-“A charming tale of charming children, who are naughty enough to be
-interesting, and natural enough to be lovable; and very prettily their
-story is told. The quaintest yet most natural stories of child life.
-Simply delightful.”—=Vanity Fair.=
-
- =The Jolly Ten: and their Year of Stories.= By AGNES CARR SAGE. 12mo,
- cloth, illustrated, price 75 cents.
-
-The story of a band of cousins who were accustomed to meet at the
-“Pinery,” with “Aunt Roxy.” At her fireside they play merry games,
-have suppers flavored with innocent fun, and listen to stories—each
-with its lesson calculated to make the ten not less jolly, but quickly
-responsive to the calls of duty and to the needs of others.
-
- =Little Miss Dorothy.= The Wonderful Adventures of Two Little People.
- By MARTHA JAMES. 12mo, cloth, illustrated, price 75c.
-
-“This is a charming little juvenile story from the pen of Mrs. James,
-detailing the various adventures of a couple of young children. Their
-many adventures are told in a charming manner, and the book will please
-young girls and boys.”—=Montreal Star.=
-
- =Pen’s Venture.= A Story for Girls. By ELVIRTON WRIGHT. 12mo, cloth,
- illustrated, price 75 cents.
-
-Something Pen saw in the condition of the cash girls in a certain
-store gave her a thought; the thought became a plan; the plan became
-a venture—Pen’s venture. It is amusing, touching, and instructive to
-read about it.
-
-
-For sale by all booksellers, or sent postpaid on receipt of price by
-the publisher, =A. L. BURT, 52-58 Duane Street, New York=.
-
-
-
-
-
-End of Project Gutenberg's Adventures in Wallypug-Land, by G. E. Farrow
-
-*** END OF THIS PROJECT GUTENBERG EBOOK ADVENTURES IN WALLYPUG-LAND ***
-
-***** This file should be named 52393-0.txt or 52393-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/2/3/9/52393/
-
-Produced by Giovanni Fini, David Edwards and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-book was produced from scanned images of public domain
-material from the Google Books project.)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
 

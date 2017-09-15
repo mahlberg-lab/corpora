@@ -1,157 +1,11 @@
-﻿The Project Gutenberg EBook of Nine Unlikely Tales, by E. Nesbit
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Nine Unlikely Tales
-
-Author: E. Nesbit
-
-Illustrator: H. R. Millar
-             Claude A. Shepperson
-
-Release Date: September 9, 2015 [EBook #49913]
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK NINE UNLIKELY TALES ***
-
-
-
-
-Produced by Greg Weeks and the Online Distributed
-Proofreading Team at http://www.pgdp.net
-
-
-
-
-
-
-
-
-
-
-NINE UNLIKELY TALES
+﻿NINE UNLIKELY TALES
 
   _By_
   E. NESBIT
 
 
-  _Illustrated by_
-
-  H. R. MILLAR
-  AND
-  CLAUDE A. SHEPPERSON
-
-
-  ERNEST BENN LIMITED
-  LONDON
-
-  COWARD-McCANN INC
-  NEW YORK
-
-
-
-
   IRIDI MEAE
   HOC ET COR MEUM
-
-
-
-
-CONTENTS
-
-
-     I  THE COCKATOUCAN                                   _page_ 1
-
-    II  WHEREYOUWANTOGOTO                                       49
-
-   III  THE BLUE MOUNTAIN                                       85
-
-    IV  THE PRINCE, TWO MICE, AND SOME KITCHEN-MAIDS           129
-
-     V  MELISANDE: OR LONG AND SHORT DIVISION                  159
-
-    VI  FORTUNATUS REX AND CO                                  193
-
-   VII  THE SUMS THAT CAME RIGHT                               223
-
-  VIII  THE TOWN IN THE LIBRARY, IN THE TOWN IN THE LIBRARY    243
-
-    IX  THE PLUSH USURPER                                      267
-
-
-
-
-LIST OF ILLUSTRATIONS
-
-
-  _Matilda swung her legs miserably_                       _page_ 5
-
-  _He waved away the eightpence_                                  11
-
-  _The top part of Pridmore turned into painted iron
-         and glass_                                               17
-
-  _The Princess was like a yard and a half of white tape_         21
-
-  _The King sent his army, and the enemy were crushed_            31
-
-  _The King had turned into a villa residence_                    37
-
-  _Four men came wheeling a great red thing on a barrow_          43
-
-  _They bounced through the suburbs_                              59
-
-  _The seal was very kind and convenient_                         63
-
-  _Suddenly, out of nothing and nowhere, appeared a large,
-        stern housemaid_                                          69
-
-  _A long, pointed thing came slowly up out of the sand_          73
-
-  _It is difficult to play when any one is watching you,
-        especially a policeman_                                   79
-
-  _The people of Antioch were always in a hurry and
-        generally angry_                                          89
-
-  _Off they all went, King, court, and men-at-arms_               99
-
-  _Tony was stamped on by the great seal, who was very
-        fierce_                                                  103
-
-  _The giant-little-girl_                                        107
-
-  _Tony among the rocks in the bread-and-milk basin_             115
-
-  _“Everything you say will be used against you” said the
-        public persecutor_                                       121
-
-  _He was growing, growing, growing_                             125
-
-  _Malevola’s dress was not at all the thing for a
-        christening_                                             135
-
-  _There stood up a Prince and a Princess_                       155
-
-  _Trains of Princes bringing nasty things in bottles and
-        round wooden boxes_                                      173
-
-  _The Princess grew so big that she had to go and sit on
-        the common_                                              181
-
-  _The Princess in one scale and her hair in the other_          189
-
-  “_Welcome! Welcome!_”                                          273
-
-  “_Poor benighted, oppressed people, follow me!_”               279
 
 
 
@@ -213,7 +67,7 @@ have you got, and have you been scolding the servants again, or have
 you tried to be good and patient as a properly brought up aunt should
 be, eh, dear?”
 
-[Illustration: MATILDA SWUNG HER LEGS MISERABLY.]
+[MATILDA SWUNG HER LEGS MISERABLY.]
 
 Try this method with one of your aunts next time she begins asking you
 questions, and write and tell me what she says.
@@ -295,7 +149,7 @@ ruffled silk shirt of white, and his coat and breeches were green and
 gold. So was the three-cornered hat which he lifted very politely when
 Pridmore spoke to him.
 
-[Illustration: HE WAVED AWAY THE EIGHTPENCE.]
+[HE WAVED AWAY THE EIGHTPENCE.]
 
 “I fear,” he said kindly, “that you must have taken, by some
 unfortunate misunderstanding, the wrong omnibus.”
@@ -403,7 +257,7 @@ iron and glass, and even as Matilda looked the bit of skirt that was
 left got flat and hard and square. The two feet turned into four feet,
 and they were iron feet, and there was no more Pridmore.
 
-[Illustration: THE TOP PART OF PRIDMORE TURNED INTO PAINTED IRON AND
+[THE TOP PART OF PRIDMORE TURNED INTO PAINTED IRON AND
 GLASS.]
 
 “Oh, my poor child,” said the King, “your maid has turned into an
@@ -459,7 +313,7 @@ sharp.”
 
 Matilda did not understand this then. Afterwards she did.
 
-[Illustration: THE PRINCESS WAS LIKE A YARD AND A HALF OF WHITE TAPE.]
+[THE PRINCESS WAS LIKE A YARD AND A HALF OF WHITE TAPE.]
 
 The nurse took her through many marble corridors and up and down many
 marble steps, and at last they came to a garden full of white roses,
@@ -655,7 +509,7 @@ through another kingdom, the King of that kingdom looked out of one of
 his Palace windows, and laughed as the King went by, and shouted,
 “Butcher!”
 
-[Illustration: THE KING SENT HIS ARMY, AND THE ENEMY WERE CRUSHED.]
+[THE KING SENT HIS ARMY, AND THE ENEMY WERE CRUSHED.]
 
 The Butcher-King did not mind this, because it was true, however rude.
 But when the other King called out, “What price cat’s meat!” the King
@@ -745,7 +599,7 @@ ever asked me that, though they tried to cure it. And I couldn’t answer
 till I was asked, could I? It’s a sad, a tragic tale, Matilda. I was
 once as fat as you are.”
 
-[Illustration: THE KING HAD TURNED INTO A VILLA RESIDENCE.]
+[THE KING HAD TURNED INTO A VILLA RESIDENCE.]
 
 “I’m not so very fat,” said Matilda, indignantly.
 
@@ -837,7 +691,7 @@ Machine and laughed long and loud; he saw the red iron and glass
 change before his eyes into the form of Pridmore. Her cheeks were red
 with rage and her eyes shone like glass with fury.
 
-[Illustration: FOUR MEN CAME WHEELING A GREAT RED THING ON A BARROW.]
+[FOUR MEN CAME WHEELING A GREAT RED THING ON A BARROW.]
 
 “Nice manners!” said she to the Cockatoucan, “what are you laughing at,
 I should like to know—I’ll make you laugh on the wrong side of your
@@ -1080,7 +934,7 @@ them.
 
 “Oh, Tommy;” said Selim.
 
-[Illustration: THEY BOUNCED THROUGH THE SUBURBS.]
+[THEY BOUNCED THROUGH THE SUBURBS.]
 
 “Oh, Silly!” said Thomasina. And well they might! In the place to which
 the Ball had brought them was all that your fancy can possibly paint,
@@ -1145,7 +999,7 @@ dive.
 “But won’t it make us ill to bathe so soon after meals? Isn’t it
 wrong?” asked Thomasina.
 
-[Illustration: THE SEAL WAS VERY KIND AND CONVENIENT.]
+[THE SEAL WAS VERY KIND AND CONVENIENT.]
 
 “Not at all,” said the seal. “Nothing is wrong here—as long as you’re
 good. Let me teach you water-leapfrog—a most glorious game, so cool,
@@ -1248,7 +1102,7 @@ to bed just when they felt inclined. They went out on to the beach.
 “You see what comes of being naughty,” said Thomasina; and Selim
 said, “Oh, shut up, do!”
 
-[Illustration: SUDDENLY, OUT OF NOTHING AND NOWHERE, APPEARED A LARGE,
+[SUDDENLY, OUT OF NOTHING AND NOWHERE, APPEARED A LARGE,
 STERN HOUSEMAID.]
 
 They cheered up towards dinner-time—it was roast pigeons that day and
@@ -1294,7 +1148,7 @@ stupid, and not from any lack of friendly feeling.
 The children bathed every day in the sea, and if they had only been
 content with this all would have been well. But they weren’t.
 
-[Illustration: A LONG, POINTED THING CAME SLOWLY UP OUT OF THE SAND.]
+[A LONG, POINTED THING CAME SLOWLY UP OUT OF THE SAND.]
 
 “Let’s dig a bath,” said Selim, “and the sea will come in and fill it,
 and then we can bathe in it.”
@@ -1400,7 +1254,7 @@ along the parade, and a pier sprang up on purpose to be lighted with
 electricity, and a band played, because it is nonsense to have a pier
 without a band.
 
-[Illustration: IT IS DIFFICULT TO PLAY WHEN ANY ONE IS WATCHING YOU,
+[IT IS DIFFICULT TO PLAY WHEN ANY ONE IS WATCHING YOU,
 ESPECIALLY A POLICEMAN.]
 
 “Oh, you naughty, silly children,” said the Bouncible Ball, turning red
@@ -1527,7 +1381,7 @@ saw any of them asleep.
 “Why is it, Grandfather?” young Tony asked one day, “what is it all
 about? why do they never sit down quietly like you and me?”
 
-[Illustration: THE PEOPLE OF ANTIOCH WERE ALWAYS IN A HURRY AND
+[THE PEOPLE OF ANTIOCH WERE ALWAYS IN A HURRY AND
 GENERALLY ANGRY.]
 
 “It is the great heart of the Nation, my boy,” said old Tony, “it
@@ -1718,7 +1572,7 @@ Tony anxiously.
 But the King was too interested to care about even his subjects’
 manners.
 
-[Illustration: OFF THEY ALL WENT, KING, COURT, AND MEN-AT-ARMS.]
+[OFF THEY ALL WENT, KING, COURT, AND MEN-AT-ARMS.]
 
 He came up to the tombstone, and on it he read, and Tony read, and all
 the courtiers read:—
@@ -1781,7 +1635,7 @@ Tony, which of course it never, never could have been. He admitted at
 last that his name was William Waterbury Watchett, and was discharged
 with a caution.
 
-[Illustration: TONY WAS STAMPED ON BY THE GREAT SEAL, WHO WAS VERY
+[TONY WAS STAMPED ON BY THE GREAT SEAL, WHO WAS VERY
 FIERCE.]
 
 “But my name _is_ Tony after all,” he said to himself as he went home,
@@ -1831,7 +1685,7 @@ against cheek. Then he allowed Tony to tell his tale. And when the tale
 was told every one ran to the battlements of the town to look. There
 was no blue mountain to be seen.
 
-[Illustration: THE GIANT-LITTLE-GIRL.]
+[THE GIANT-LITTLE-GIRL.]
 
 Then his Majesty told Tony what he thought of him, and it was not
 pleasant hearing.
@@ -1968,7 +1822,7 @@ with Tony still clinging to it, it fell crashing into the forest. When
 he came to himself he almost shouted for joy to find the mug still
 whole.
 
-[Illustration: TONY AMONG THE ROCKS IN THE BREAD-AND-MILK BASIN.]
+[TONY AMONG THE ROCKS IN THE BREAD-AND-MILK BASIN.]
 
 He never knew how he got home.
 
@@ -2054,7 +1908,7 @@ Court without a stain upon his character.”
 
 “It is poison!”
 
-[Illustration: “EVERYTHING YOU SAY WILL BE USED AGAINST YOU,” SAID THE
+[“EVERYTHING YOU SAY WILL BE USED AGAINST YOU,” SAID THE
 PUBLIC PERSECUTOR.]
 
 “It isn’t!”
@@ -2111,7 +1965,7 @@ King.
 “Don’t tease the ants,” said the Blue Mountain. “People pour boiling
 water sometimes, or dig up the heaps, but I think it’s cruel.”
 
-[Illustration: HE WAS GROWING, GROWING, GROWING.]
+[HE WAS GROWING, GROWING, GROWING.]
 
 Tony remembered the hot rain and the earthquakes.
 
@@ -2224,7 +2078,7 @@ suddenly, the sun came out, and people lifted up their heads, and dared
 again to look at each other. And the daisies, too, opened their eyes
 again.
 
-[Illustration: MALEVOLA’S DRESS WAS NOT AT ALL THE THING FOR A
+[MALEVOLA’S DRESS WAS NOT AT ALL THE THING FOR A
 CHRISTENING.]
 
 Then the good fairies came out from behind the window-curtains, and the
@@ -2657,7 +2511,7 @@ and laid it across their little brown backs. And on the instant there
 stood up a Prince and a Princess and at their feet lay the little
 empty mouse-skins.
 
-[Illustration: THERE STOOD UP A PRINCE AND A PRINCESS.]
+[THERE STOOD UP A PRINCE AND A PRINCESS.]
 
 “It’s lucky for you,” said the Great White Rat, “that you chose to
 swallow the Cat’s-eye, because people who have been moused by that
@@ -2961,7 +2815,7 @@ but she did not like any of them, and she did not like any of the
 Princes, so in her heart she was rather glad that none of the nasty
 things in bottles and boxes made the least difference to her hair.
 
-[Illustration: TRAINS OF PRINCES BRINGING NASTY THINGS IN BOTTLES AND
+[TRAINS OF PRINCES BRINGING NASTY THINGS IN BOTTLES AND
 ROUND WOODEN BOXES.]
 
 The Princess had to sleep in the great Throne Room now, because no
@@ -3129,7 +2983,7 @@ their own country, and when they arrived there the whole army to a man
 said it would rather be courtmartialled a hundred times over than go
 near the place again.
 
-[Illustration: THE PRINCESS GREW SO BIG THAT SHE HAD TO GO AND SIT ON
+[THE PRINCESS GREW SO BIG THAT SHE HAD TO GO AND SIT ON
 THE COMMON.]
 
 Meantime Melisande, sitting on the highest hill on the island, felt the
@@ -3275,7 +3129,7 @@ Princess stepped out of the other one, and stood there before those
 who loved her, laughing and crying with happiness, because she remained
 her proper size, and her hair was not growing any more.
 
-[Illustration: THE PRINCESS IN ONE SCALE AND HER HAIR IN THE OTHER.]
+[THE PRINCESS IN ONE SCALE AND HER HAIR IN THE OTHER.]
 
 She kissed her Prince a hundred times, and the very next day they were
 married. Every one remarked on the beauty of the bride, and it was
@@ -3569,7 +3423,6 @@ building the two red brick walls, but he did it.
 Now, the old woman wanted the walls and the acres to be this sort of
 shape—
 
-[Illustration]
 
 But it was such a bother getting the exact amount of ground into the
 two circles that all the surveyors tore out their hair by handfuls, and
@@ -3589,7 +3442,6 @@ this—
   | 10| 9 | 8 | 7 | 6 |
   +---+---+---+---+---+
 
-[Illustration]
 
 The old lady was very vexed when she found that there was only one
 wall between her orchard and the world, as you see was the case at the
@@ -4928,7 +4780,7 @@ eat, and enough to do, which is very important; but they had not
 enough to play at, and this was what made them ready to lend long and
 discontented ears to the whispers of the King’s brother.
 
-[Illustration: “WELCOME! WELCOME!”]
+[“WELCOME! WELCOME!”]
 
 Now Negretti was a Magician, and his was the black or coloured magic
 which won’t wash clothes. He was always messing about with acids and
@@ -5003,7 +4855,7 @@ fair night.
 
 “And who are you?” said the King.
 
-[Illustration: “POOR BENIGHTED, OPPRESSED PEOPLE, FOLLOW ME!”]
+[“POOR BENIGHTED, OPPRESSED PEOPLE, FOLLOW ME!”]
 
 “I am a poor Princess seeking my fortune,” said she.
 
@@ -5378,394 +5230,4 @@ you could get the proper dress, perhaps you could?
 
 
   THE END
-
-
-
-
-  _Printed in Great Britain by
-       Neill & Co. Limited
-           Edinburgh_
-
-       *       *       *       *       *
-
-Transcriber’s Note:
-
-Obvious punctuation errors repaired. Repeated story titles
-were deleted in this plain text version.
-
-Page 88, “an” changed to “ran” (ran up a signal-box)
-
-Page 227, “hersel” changed to “herself” (fairy drew herself up)
-
-Page 258, “or” changed to “for” (for lack of food)
-
-Page 258, “brng” changed to “bring” (but to bring out)
-
-
-
-
-
-End of the Project Gutenberg EBook of Nine Unlikely Tales, by E. Nesbit
-
-*** END OF THIS PROJECT GUTENBERG EBOOK NINE UNLIKELY TALES ***
-
-***** This file should be named 49913-0.txt or 49913-0.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/9/9/1/49913/
-
-Produced by Greg Weeks and the Online Distributed
-Proofreading Team at http://www.pgdp.net
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
 

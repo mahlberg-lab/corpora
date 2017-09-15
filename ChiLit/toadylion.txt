@@ -1,45 +1,7 @@
-﻿The Project Gutenberg EBook of The Surprising Adventures of Sir Toady Lion
-With Those of General Napoleon Smith, by S. R. Crockett
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
+﻿    Sir Toady Lion
 
 
-Title: The Surprising Adventures of Sir Toady Lion With Those of General Napoleon Smith
-
-Author: S. R. Crockett
-
-Illustrator: Gordon Browne
-
-Release Date: April 1, 2012 [EBook #39340]
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK SIR TOADY LION ***
-
-
-
-
-Produced by David Edwards, Matthew Wheaton and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-
-
-
-
-
-
-
-    Sir Toady Lion
-
-
-    [Illustration: "AS THE HIGHLANDERS HAD CLUNG TO THE CAVALRY
+    ["AS THE HIGHLANDERS HAD CLUNG TO THE CAVALRY
     STIRRUPS AT BALACLAVA."]
 
 
@@ -53,150 +15,11 @@ by The Internet Archive)
 
                 S. R. CROCKETT
 
-    AUTHOR of "SWEETHEART TRAVELLERS", "THE RAIDERS", &c.
-
-    ILLUSTRATED BY GORDON BROWNE
-    NEW YORK
-    FREDERICK A. STOKES COMPANY
 
 
-    Copyright, 1897
-    by
-    Frederick A. Stokes
-    Company
-
-
-    [Illustration: TOO GOOD BOYS NOT ALLOWED TO READ THIS BOOK
+    [TOO GOOD BOYS NOT ALLOWED TO READ THIS BOOK
     BY ORDER FIELD MARSHAL NAPOLEON SMITH]
 
-
-
-
-    CONTENTS
-
-
-          I. PRISSY, HUGH JOHN, AND SIR TOADY LION,
-         II. THE GOSPEL OF DASHT-MEAN,
-        III. HOW HUGH JOHN BECAME GENERAL NAPOLEON,
-         IV. CASTLE PERILOUS,
-          V. THE DECLARATION OF WAR,
-         VI. FIRST BLOOD,
-        VII. THE POOR WOUNDED HUSSAR,
-       VIII. THE FAMILIAR SPIRIT,
-         IX. PUT TO THE QUESTION,
-          X. A SCOUTING ADVENTURE,
-         XI. ENEMY'S COUNTRY,
-        XII. MOBILISATION,
-       XIII. THE ARMY OF WINDY STANDARD,
-        XIV. THE BATTLE OF THE BLACK SHEDS,
-         XV. TOADY LION PLAYS A FIRST LONE HAND,
-        XVI. THE SMOUTCHY BOYS,
-       XVII. BEFORE THE INQUISITION,
-      XVIII. THE CASTLE DUNGEON,
-        XIX. THE DROP OF WATER,
-         XX. THE SECRET PASSAGE,
-        XXI. THE RETURN FROM THE BASTILE,
-       XXII. MUTINY IN THE CAMP,
-      XXIII. CISSY CARTER, BOYS' GIRL,
-       XXIV. CHARITY BEGINS AT HOME--AND ENDS THERE,
-        XXV. LOVE'S (VERY) YOUNG DREAM,
-       XXVI. AN IMPERIAL BIRTHDAY,
-      XXVII. THE BANTAM CHICKENS,
-     XXVIII. THE GIPSY CAMP,
-       XXIX. TOADY LION'S LITTLE WAYS,
-        XXX. SAINT PRISSY, PEACEMAKER,
-       XXXI. PRISSY'S PICNIC,
-      XXXII. PLAN OF CAMPAIGN,
-     XXXIII. TOADY LION'S SECOND LONE HAND,
-      XXXIV. THE CROWNING MERCY,
-       XXXV. PRISSY'S COMPROMISE,
-      XXXVI. HUGH JOHN'S WAY-GOING,
-     XXXVII. THE GOOD CONDUCT PRIZE,
-    XXXVIII. HUGH JOHN'S BLIGHTED HEART,
-      XXXIX. "GIRLS ARE FUNNY THINGS,"
-
-
-
-
-    ILLUSTRATIONS
-
-
-    "AS THE HIGHLANDERS HAD CLUNG TO THE CAVALRY STIRRUPS AT BALACLAVA,"
-    SIR TOADY LION,
-    HUGH JOHN HAD A SISTER,
-    THE HIGHWAY LIES DESERTED,
-    MR. DICK TURPIN, LATE OF YORK AND TYBURN,
-    HE STOOD ON THE ROADSIDE,
-    IT COULD NOT HAVE BEEN BETTER DONE FOR A FIELD-MARSHAL,
-    CASTLE PERILOUS,
-    AT THE END OF THE STEPPING-STONES,
-    JANET SHEEPSHANKS AWAITED THIS SORRY PROCESSION WITH A GRIM
-        TIGHTENING OF THE LIPS,
-    "I COULDN'T HELP GETTING BEATEN,"
-    SUCCESS OFTEN BRED ENVY,
-    SAMBO,
-    A FEARFUL BLACK COUNTENANCE NODDED AT HIM,
-    HUGH JOHN TOOK HIS WAY DOWN THE AVENUE,
-    "WAIT TILL THE NEXT TIME,"
-    HE WAS OBLIGED TO CLIMB A TREE,
-    HUGH JOHN TUGGED HER HAIR,
-    DEPOSITED GENERAL-FIELD-MARSHAL SMITH IN THE HORSE-POND,
-    GENERALS OF DIVISION, EQUAL IN RANK,
-    THE ARMY WAS FINALLY MUSTERED,
-    THE BLACK SHEDS,
-    THE BATTLE OF THE BLACK SHEDS,
-    CAUTIOUSLY HE RETURNED THROUGH THE HEDGE,
-    "OH, THE BONNIE LADDIE!"
-    "SURRENDER!" CRIED NIPPER DONNAN,
-    THE HEAD SMOUTCHY,
-    "GOT YOU AT LAST!"
-    "WILL YE SAY NOW THAT THE CASTLE IS YOUR FATHER'S?"
-    "BUT I WON'T CRY--EVEN TO MYSELF,"
-    HE BENT THE WEIGHT OF HIS BODY THIS WAY AND THAT,
-    THE PINING CAPTIVE,
-    THE SECRET PASSAGE,
-    HE SAW A STRETCH OF RIPPLED RIVER,
-    HE FLOUNDERED THROUGH,
-    "I CREATE YOU GENERAL OF THE COMM'SARIAT,"
-    "DON'T YOU SPEAK AGAINST MY FATHER,"
-    SAMMY CARTER MUTINOUS,
-    "ONE, TWO, THREE--AND A TIGER,"
-    "LOOK AT HIM, MADAM," SAID MRS. BAKER,
-    TOADY LION SAT PLUMP DOWN,
-    "LET ME LOOK AT HIM," SHE SAID,
-    LOVE'S YOUNG DREAM,
-    "HIT HARD, BRAVE SOLDIER,"
-    "WASN'T IT SPLENDID?"
-    TOADY LION PREFERRED TO SLEEP IN THE MOST CURIOUS POSITIONS,
-    BANTAM CHICKENS,
-    THE GIPSIES' WOOD,
-    SHE CARRIED A BACK LOAD OF TINWARE,
-    THE OLDEST IMPLEMENTS INVENTED FOR THE PURPOSE,
-    SHE WENT ON HER WAY,
-    "OH, PLEASE DON'T, SIR!"
-    WELCOMED BY THE ENEMY,
-    THE RETURN OF THE TWO SWIFT FOOTMEN,
-    HYDRAULIC PRESSURE,
-    THE PLAN OF CAMPAIGN,
-    TROTTING STEADILY THROUGH THE TOWN,
-    THE BOUNDING BROTHERS,
-    THE LIVING CHAIN,
-    SIXPENCE FOR ADMISSION,
-    "THEN," SAID PRISSY, "I THINK IT CAN BE MANAGED,"
-    TOADY LION STOOD LOOKING ON,
-    A SLIM BUNDLE OF LIMP WOE,
-    THE GOOD CONDUCT PRIZE,
-    "SMELL THAT,"
-    A BLIGHTED BEING,
-    HE SPRANG OVER THE STILE,
-    "IT LOOKS LIKE HALF OF A SIXPENCE WHICH SOMEBODY HAS STEPPED UPON.
-        HOW QUAINT!"
-    AS IF HER HEART WERE LIGHT WITHIN HER,
-
-
-
-
-Sir Toady Lion.
 
 
 
@@ -495,7 +318,7 @@ would explain it all over again to you--with abominable dates and
 additional particulars, which they would even ask you afterwards if
 you remembered.
 
-[Illustration: "MR. DICK TURPIN, LATE OF YORK AND TYBURN."]
+["MR. DICK TURPIN, LATE OF YORK AND TYBURN."]
 
 For many years Hugh John had gone every day down to the porter's lodge
 at the end of the avenue, and though old Betty the rheumaticky warder
@@ -728,7 +551,7 @@ action than that day, when the small grimy boy stood under the
 elm-trees at the end of the avenue of Windy Standard. This is what he
 did. He turned about in his saddle.
 
-[Illustration: "IT COULD NOT HAVE BEEN BETTER DONE FOR A
+["IT COULD NOT HAVE BEEN BETTER DONE FOR A
 FIELD-MARSHAL."]
 
 "_Attention, men, draw swords!_" he cried, and his voice rang like a
@@ -945,7 +768,7 @@ remained intact upon him. On his bare legs were the marks of cruel
 kicks, and for ease of transport he carried the _débris_ of his jacket
 under his arm. He had not the remotest idea where his cap had gone to.
 
-[Illustration: "NO WONDER THAT JANET SHEEPSHANKS AWAITED THIS SORRY
+["NO WONDER THAT JANET SHEEPSHANKS AWAITED THIS SORRY
 PROCESSION WITH A GRIM TIGHTENING OF THE LIPS."]
 
 No wonder that Janet Sheepshanks awaited this sorry procession with a
@@ -1774,7 +1597,7 @@ crouched with his hands on his knees and his head thrust forward,
 while Tom the keeper went slowly by with his arm about Jane
 Housemaid's waist.
 
-[Illustration: "WAIT TILL THE NEXT TIME YOU WON'T LEND ME THE FERRET,
+["WAIT TILL THE NEXT TIME YOU WON'T LEND ME THE FERRET,
 TOM CANNON! O-HO, JANE HOUSEMAID, WILL YOU TELL MY FATHER THE NEXT
 TIME I TAKE YOUR DUST SCOOP?"]
 
@@ -2072,7 +1895,7 @@ guile and malice aforethought, for on the drum being elevated in front
 of the mounted officer, Polo promptly ran away, and deposited
 General-Field-Marshal Smith in the horse pond.
 
-[Illustration: "DEPOSITED GENERAL-FIELD-MARSHAL SMITH IN THE HORSE
+["DEPOSITED GENERAL-FIELD-MARSHAL SMITH IN THE HORSE
 POND."]
 
 But this force, though officered with consummate ability, was
@@ -2136,7 +1959,7 @@ that Peter Greg had become major-general, while Prince Michael
 O'Donowitch was lieutenant of marines, with a new and promising black
 eye!
 
-[Illustration: "GENERALS OF DIVISION, EQUAL IN RANK."]
+["GENERALS OF DIVISION, EQUAL IN RANK."]
 
 But at the first drill, upon General Peter issuing some complicated
 order, such as "Attention! eyes right!" Lieutenant O'Donowitch
@@ -2487,7 +2310,7 @@ to stand being punched by a girl. Sammy Carter stood well out of the
 heady fray, and contented himself with stinging up the enemy with his
 vengeful catapult till they howled again.
 
-[Illustration: "THE BATTLE OF THE BLACK SHEDS."]
+["THE BATTLE OF THE BLACK SHEDS."]
 
 But the struggle of the many against the few, the strong against the
 weak, could only end in one way. In ten minutes the forces of law and
@@ -2590,7 +2413,7 @@ But there was no trace of the Commander-in-Chief anywhere.
 General-Field-Marshal Napoleon Smith had vanished from the face of the
 earth.
 
-[Illustration: "OH, THE BONNY LADDIE!"]
+["OH, THE BONNY LADDIE!"]
 
 Tea-time came and went. He had been known to be absent from tea.
 Supper-time arrived and overpassed, and then the whole house grew
@@ -2705,7 +2528,7 @@ their office, made life at a certain school a terror and an agony,
 afterwards sprang from a steamer in order to save the life of a man
 who had fallen overboard in a high-running sea.
 
-[Illustration: "THE HEAD SMOUTCHY."]
+["THE HEAD SMOUTCHY."]
 
 But of all Smoutchies the worst variety is that reared in the vicinity
 of the small manufacturing town. He thrives on wages too early and too
@@ -2898,7 +2721,7 @@ Hugh John tried to give the required information as to ownership, but
 it was choked in the folds of the red cravat. Nipper went on
 tauntingly, all unchallenged.
 
-[Illustration: "'WILL YE SAY NOW THAT THE CASTLE IS YOUR FATHER'S, AND
+["'WILL YE SAY NOW THAT THE CASTLE IS YOUR FATHER'S, AND
 THAT WE HAVE NO RIGHT HERE!' SAID NIPPER DONNAN."]
 
 "There's ethers (adders) down there--and weasels and whopper rats that
@@ -2989,7 +2812,7 @@ of his body this way and that upon the iron pin, so that in five or
 six minutes he had worked Nipper Donnan's inartistic knots
 sufficiently loose to slip over his wrists. His hands were free.
 
-[Illustration: "HE BENT THE WEIGHT OF HIS BODY THIS WAY AND THAT."]
+["HE BENT THE WEIGHT OF HIS BODY THIS WAY AND THAT."]
 
 His first act was to take the red cravat out of his mouth, and the
 next after that to lie down with all his weight upon his hands,
@@ -3410,7 +3233,7 @@ not previously crisp enough. He felt that if ever he were privileged
 to taste as good bacon again, he would become religious like
 Prissy--or take some such extreme measure as that.
 
-[Illustration: "OVER THE CLOSELY PACKED WOOLLY BACKS HE SAW A STRETCH
+["OVER THE CLOSELY PACKED WOOLLY BACKS HE SAW A STRETCH
 OF RIPPLED RIVER."]
 
 Hugh John had no appetite for the "poison squares" now. He tried one,
@@ -3615,7 +3438,7 @@ Sir Toady Lion proudly stepped forward. He had a garden rake in his
 hand, with which the moment before he had been poking Donald in the
 ribs, and making his life a burden to him generally.
 
-[Illustration: "I CREATE YOU GENERAL OF THE COMM'SARIAT."]
+["I CREATE YOU GENERAL OF THE COMM'SARIAT."]
 
 He began to speak, but Hugh John stopped him.
 
@@ -3745,7 +3568,7 @@ a single sore place about you to show for it."
 
 "Yes, I have!" retorted Sammy in high indignation.
 
-[Illustration: "SAMMY CARTER MUTINOUS."]
+["SAMMY CARTER MUTINOUS."]
 
 "Well, let's see it then!" commanded his general in a kindlier tone.
 
@@ -3923,7 +3746,7 @@ was Mrs. Baker, with a young and hopeful but sadly damaged Wedgwood
 tagging behind her, like a weak-minded punt in tow of an ancient
 threedecker.
 
-[Illustration: "'LOOK AT HIM, MADAM,' SAID MRS. BAKER."]
+["'LOOK AT HIM, MADAM,' SAID MRS. BAKER."]
 
 The injured lady began at once a voluble complaint.
 
@@ -4135,7 +3958,7 @@ The youth cast his voice over his shoulders to a dozen companions who
 were hiding in the broom behind. His face and tone were both full of
 surprise and admiration.
 
-[Illustration: "'LET ME LOOK AT HIM,' SHE SAID."]
+["'LET ME LOOK AT HIM,' SHE SAID."]
 
 "Say, chaps, did you hear her? She said she'd 'sneak' the ointment
 from the stables. I tell 'ee what, she'll be a rare good plucked one
@@ -4470,7 +4293,7 @@ sorry.
 
 "Well, when they tortured me," said Hugh John.
 
-[Illustration: "'HIT HARD, BRAVE SOLDIER.'"]
+["'HIT HARD, BRAVE SOLDIER.'"]
 
 Cissy went up suddenly and kissed him. It was only a peck which
 reached land at the top corner of his ear; but it made Hugh John
@@ -4616,7 +4439,7 @@ Cissy swept the tumbled hair from about her eyes. She had a very red
 spot on either cheek; but she had made up her mind, and was going
 through with it properly now.
 
-[Illustration: "'WASN'T IT SPLENDID?'"]
+["'WASN'T IT SPLENDID?'"]
 
 "Oh, I don't mind," she said; "I can easily do it over again--for
 keeps this time, mind!"
@@ -5153,7 +4976,7 @@ are going to buy something from a poor girl--ribbons for the hair, or
 for the house some nice collanders, saucepans, fish-pans, stew-pans,
 patty-pans, jelly-pans----"
 
-[Illustration: "SHE CARRIED A BACK LOAD OF TINWARE."]
+["SHE CARRIED A BACK LOAD OF TINWARE."]
 
 "Go 'way, Lepronia Lovell," growled Billy; "don't you see that this is
 the young lady that cured my dog?"
@@ -5605,7 +5428,7 @@ solitary girl he had at last some chance to assert himself. So he
 threw away his paper cigar, and ran round the broken causeway to the
 place where Prissy was standing.
 
-[Illustration: "'OH, PLEASE DON'T, SIR!'"]
+["'OH, PLEASE DON'T, SIR!'"]
 
 "If you please, sir," began Prissy sweetly, "I've come to ask you not
 to fight any more. It isn't right, you know, and God will be angry."
@@ -5713,7 +5536,7 @@ much harder than he had done before he saw whom he was tormenting. He
 had never particularly noticed any one's eyes before. He had thought
 vaguely that every one had the same kind of eyes.
 
-[Illustration: "THE RETURN OF THE TWO SWIFT FOOTMEN."]
+["THE RETURN OF THE TWO SWIFT FOOTMEN."]
 
 "Well, what do you want?" he said gruffly. For with Nipper and his
 class emotion or shamefacedness of any kind always in the first
@@ -5758,7 +5581,7 @@ did!"
 alternative plan, as if he had thought about it from the first, "chuck
 him down anywhere on the stones, and get Fat Sandy to sit on him."
 
-[Illustration: "HYDRAULIC PRESSURE."]
+["HYDRAULIC PRESSURE."]
 
 Joe Craig obediently saluted, and presently sundry moans and sounds of
 exhausted breath indicated that Nosie Cuthbertson was being subjected
@@ -6820,7 +6643,7 @@ the fraternal pyramid. He could just look over the edge of the
 platform on which the mouth of the dungeon was placed. He ducked down
 sharply.
 
-[Illustration: "THE LIVING CHAIN."]
+["THE LIVING CHAIN."]
 
 "They are all at their windows, yelling like fun," he whispered, with
 the white, eager look of battle on his face.
@@ -7122,7 +6945,7 @@ comed along here to the council meeting and faced the pack o' ye. But
 I said to her that she might gang her ways hame, and that I would put
 the matter before the council mysel'!"
 
-[Illustration: "'THEN,' SAID PRISSY, 'I THINK IT CAN BE MANAGED.'"]
+["'THEN,' SAID PRISSY, 'I THINK IT CAN BE MANAGED.'"]
 
 The Provost, who had been walking up and down all the time and wiping
 his brow, finally plumped solidly into his chair. There was a mighty
@@ -7362,7 +7185,7 @@ can that boy have got to?"
 Well, I _will_ say it then, 'I love you, Ciss!' There--will that
 satisfy you?"
 
-[Illustration: "A SLIM BUNDLE OF LIMP WOE."]
+["A SLIM BUNDLE OF LIMP WOE."]
 
 Something lit on the end of Cissy's nose, which was very red and wet
 with the tears that had run down it. There was a clatter of feet, and
@@ -7571,7 +7394,7 @@ Hugh John felt that the time for moral suasion had come.
 "Smell that!" he said, suddenly extending the clenched fist with which
 a week before he had made "bran mash" of the bully of the school.
 
-[Illustration: "SMELL THAT!"]
+["SMELL THAT!"]
 
 Reluctantly Ashwell Major's nostrils inhaled the bouquet of Hugh
 John's knuckles. Ashwell Major seemed to have a dainty and
@@ -8098,7 +7921,7 @@ youngladyish hauteur in an instant. Hugh John held the dainty purse
 high up out of her reach, and extracted from an inner compartment a
 small piece of silver.
 
-[Illustration: "IT LOOKS LIKE HALF OF A SIXPENCE WHICH SOMEBODY HAS
+["IT LOOKS LIKE HALF OF A SIXPENCE WHICH SOMEBODY HAS
 STEPPED UPON. HOW QUAINT!"]
 
 "Give it back to me this moment," cried Cissy, who had lost all her
@@ -8149,380 +7972,3 @@ were light within her.
 Girls are funny things.
 
 
-
-
-Transcriber's note:
-
-
-Inconsistent and archaic spelling, syntax, and punctuation retained.
-
-
-
-
-
-End of the Project Gutenberg EBook of The Surprising Adventures of Sir Toady
-Lion With Those of General Napoleon Smith, by S. R. Crockett
-
-*** END OF THIS PROJECT GUTENBERG EBOOK SIR TOADY LION ***
-
-***** This file should be named 39340-8.txt or 39340-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/9/3/4/39340/
-
-Produced by David Edwards, Matthew Wheaton and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.

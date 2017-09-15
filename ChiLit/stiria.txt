@@ -1,50 +1,4 @@
-﻿The Project Gutenberg EBook of The King of the Golden River or the Black
-Brothers, by John Ruskin
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The King of the Golden River or the Black Brothers
-       A Legend of Stiria.
-
-Author: John Ruskin
-
-Illustrator: Richard Doyle
-
-Release Date: September 8, 2010 [EBook #33673]
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE KING OF THE GOLDEN RIVER ***
-
-
-
-
-Produced by Chris Curnow, Johnnie Hollowell and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-
-
-
-
-
-
-
-THE KING OF THE GOLDEN RIVER.
-
-[Illustration]
-
-[Illustration]
-
-
- THE KING OF THE
+﻿ HE KING OF THE
  GOLDEN RIVER
 
  OR THE
@@ -55,141 +9,6 @@ THE KING OF THE GOLDEN RIVER.
 
  BY JOHN RUSKIN, M.A.
 
- ILLUSTRATED BY RICHARD DOYLE.
-
- BOSTON:
- PUBLISHED BY GINN & COMPANY.
- 1885.
-
-
-
-
-[Illustration]
-
- ADVERTISEMENT.
-
-
-The Publishers think it due to the Author of this Fairy Tale, to state
-the circumstances under which it appears.
-
-THE KING OF THE GOLDEN RIVER was written in 1841, at the request of a
-very young lady, and solely for her amusement, without any idea of
-publication. It has since remained in the possession of a friend, to
-whose suggestion, and the passive assent of the Author, the Publishers
-are indebted for the opportunity of printing it.
-
-The Illustrations, by Mr. Richard Doyle, will, it is hoped, be found to
-embody the Author's ideas with characteristic spirit.
-
-        *       *       *       *       *
-
- J. S. CUSHING & CO., PRINTERS, BOSTON.
-
-
-
-
- CONTENTS.
-
-
- CHAPTER I.
-
- HOW THE AGRICULTURAL SYSTEM OF THE BLACK BROTHERS
- WAS INTERFERED WITH BY SOUTH-WEST WIND, ESQUIRE                9
-
- CHAPTER II.
-
- OF THE PROCEEDINGS OF THE THREE BROTHERS AFTER THE
- VISIT OF SOUTH-WEST WIND, ESQUIRE; AND HOW LITTLE
- GLUCK HAD AN INTERVIEW WITH THE KING OF THE GOLDEN
- RIVER                                                         28
-
- CHAPTER III.
-
- HOW MR. HANS SET OFF ON AN EXPEDITION TO THE GOLDEN
- RIVER, AND HOW HE PROSPERED THEREIN                           40
-
- CHAPTER IV.
-
- HOW MR. SCHWARTZ SET OFF ON AN EXPEDITION TO THE
- GOLDEN RIVER, AND HOW HE PROSPERED THEREIN                    51
-
- CHAPTER V.
-
- HOW LITTLE GLUCK SET OFF ON AN EXPEDITION TO THE
- GOLDEN RIVER, AND HOW HE PROSPERED THEREIN; WITH
- OTHER MATTERS OF INTEREST                                     56
-
-
-
-
- LIST OF ILLUSTRATIONS.
-
- DESIGNED AND DRAWN ON WOOD BY RICHARD DOYLE
-
-
- SUBJECTS.                               ENGRAVERS.                PAGE
-
- South-West Wind, Esq., knocking                                Frontis-
- at the Black Brothers' door            _C. Thurston Thompson_    piece.
-
- The Treasure Valley                    _C. Thurston Thompson_    Title.
-
- Initial Letter, and Mountain Range     _G. and E. Dalziel_        9
-
- South-West Wind, Esq., seated on
- the hob                                _G. and E. Dalziel_       18
-
- South-West Wind, Esq., bowing to
- the Black Brothers                     _H. Orrin Smith_          21
-
- Storm Scene                            _G. and E. Dalziel_       25
-
- Card of South-West Wind, Esq.          _H. Orrin Smith_          27
-
- Initial Letter, and Cottage in the
- Treasure Valley                        _Isabel Thompson_         28
-
- The Black Brothers drinking and
- Gluck working                          _C. S. Cheltnam_          30
-
- Gluck looking out at the Golden River  _H. D. Linton_            32
-
- The Golden Dwarf appearing to Gluck    _G. and E. Dalziel_       36
-
- Gluck looking up the Chimney           _H. Orrin Smith_          39
-
- The Black Brothers beating Gluck       _C. S. Cheltnam_          40
-
- Hans and Schwartz fighting             _H. Orrin Smith_          41
-
- Schwartz before the Magistrate         _C. S. Cheltnam_          42
-
- Hans and the Dog                       _H. Orrin Smith_          47
-
- The Black Stone                        _G. and E. Dalziel_       50
-
- Initial Letter--Gluck
- releasing Schwartz                     _G. and E. Dalziel_       51
-
- Schwartz ascending the Mountain        _H. Orrin Smith_          53
-
- Initial Letter--Gluck ascending the
- Mountain                               _H. Orrin Smith_          56
-
- Priest giving Gluck Holy Water         _G. and E. Dalziel_       57
-
- Gluck and the Child                    _C. S. Cheltnam_          59
-
-
-
-
- THE KING OF THE GOLDEN RIVER;
-
- OR,
-
- THE BLACK BROTHERS.
-
-
 
 
  CHAPTER I.
@@ -198,7 +17,7 @@ HOW THE AGRICULTURAL SYSTEM OF THE BLACK BROTHERS WAS INTERFERED WITH BY
 SOUTH-WEST WIND, ESQUIRE.
 
 
-[Illustration]
+
 
 In a secluded and mountainous part of Stiria there was, in old time, a
 valley of the most surprising and luxuriant fertility. It was
@@ -360,7 +179,7 @@ Then the old gentleman walked into the kitchen, and sat himself down on
 the hob, with the top of his cap accommodated up the chimney, for it
 was a great deal too high for the roof.
 
-[Illustration]
+
 
 "You'll soon dry there, sir," said Gluck, and sat down again to turn the
 mutton. But the old gentleman did _not_ dry there, but went on drip,
@@ -416,7 +235,7 @@ ear, as he followed his brother into the kitchen.
 
 "Bless my soul!" said Schwartz when he opened the door.
 
-[Illustration]
+
 
 "Amen," said the little gentleman, who had taken his cap off, and was
 standing in the middle of the kitchen, bowing with the utmost possible
@@ -519,7 +338,7 @@ that shook the house from top to bottom.
 
 "What's that?" cried Schwartz, starting up in his bed.
 
-[Illustration]
+
 
 "Only I," said the little gentleman.
 
@@ -566,7 +385,7 @@ WIND, ESQUIRE; AND HOW LITTLE GLUCK HAD AN INTERVIEW WITH THE KING OF
 THE GOLDEN RIVER.
 
 
-[Illustration]
+
 
 South-west wind, Esquire, was as good as his word. After the momentous
 visit above related, he entered the Treasure Valley no more; and, what
@@ -583,7 +402,7 @@ their money was gone, and they had nothing left but some curious
 old-fashioned pieces of gold plate, the last remnants of their
 ill-gotten wealth.
 
-[Illustration]
+
 
 "Suppose we turn goldsmiths?" said Schwartz to Hans, as they entered the
 large city. "It is a good knave's trade; we can put a great deal of
@@ -631,7 +450,7 @@ precipice to precipice, with the double arch of a broad purple rainbow
 stretched across it, flushing and fading alternately in the wreaths of
 spray.
 
-[Illustration]
+
 
 "Ah!" said Gluck aloud, after he had looked at it for a while, "if that
 river were really all gold, what a nice thing it would be."
@@ -698,7 +517,7 @@ finally the well-known head of his friend the mug; all which articles,
 uniting as they rolled out, stood up energetically on the floor, in the
 shape of a little golden dwarf, about a foot and a half high.
 
-[Illustration]
+
 
 "That's right!" said the dwarf, stretching out first his legs, and then
 his arms, and then shaking his head up and down, and as far round as it
@@ -767,7 +586,7 @@ had evaporated.
 "Oh!" cried poor Gluck, running to look up the chimney after him; "Oh,
 dear, dear, dear me! My mug! my mug! my mug!"
 
-[Illustration]
+
 
 
 
@@ -778,7 +597,7 @@ HOW MR. HANS SET OFF ON AN EXPEDITION TO THE GOLDEN RIVER, AND HOW HE
 PROSPERED THEREIN.
 
 
-[Illustration]
+
 
 The King of the Golden River had hardly made the extraordinary exit
 related in the last chapter, before Hans and Schwartz came roaring into
@@ -797,7 +616,7 @@ drew their swords and began fighting. The noise of the fray alarmed the
 neighbours, who, finding they could not pacify the combatants, sent for
 the constable.
 
-[Illustration]
+
 
 Hans, on hearing this, contrived to escape, and hid himself; but
 Schwartz was taken before the magistrate, fined for breaking the peace,
@@ -816,7 +635,7 @@ strong flask, and two bottles of wine and some meat in a basket, slung
 them over his back, took his alpine staff in his hand, and set off for
 the mountains.
 
-[Illustration]
+
 
 On his way out of the town he had to pass the prison, and as he looked
 in at the windows, whom should he see but Schwartz himself peeping out
@@ -886,7 +705,7 @@ however, relieved his thirst; an hour's repose recruited his hardy
 frame, and with the indomitable spirit of avarice, he resumed his
 laborious journey.
 
-[Illustration]
+
 
 His way now lay straight up a ridge of bare red rocks, without a blade
 of grass to ease the foot, or a projecting angle to afford an inch of
@@ -950,7 +769,7 @@ over
 
 THE BLACK STONE.
 
-[Illustration]
+
 
 
 
@@ -961,7 +780,7 @@ HOW MR. SCHWARTZ SET OFF ON AN EXPEDITION TO THE GOLDEN RIVER, AND HOW
 HE PROSPERED THEREIN.
 
 
-[Illustration]
+
 
 Poor little Gluck waited very anxiously alone in the house, for Hans'
 return. Finding he did not come back, he was terribly frightened, and
@@ -1001,7 +820,7 @@ saw the old man lying before him on the path, and heard him cry out for
 water. "Water, indeed," said Schwartz, "I haven't half enough for
 myself," and on he went.
 
-[Illustration]
+
 
 Then again the light seemed to fade from before his eyes, and he looked
 up, and, behold, a mist, of the colour of blood, had come over the sun;
@@ -1045,7 +864,7 @@ HOW LITTLE GLUCK SET OFF ON AN EXPEDITION TO THE GOLDEN RIVER, AND HOW
 HE PROSPERED THEREIN; WITH OTHER MATTERS OF INTEREST.
 
 
-[Illustration]
+
 
 When Gluck found that Schwartz did not come back, he was very sorry, and
 did not know what to do. He had no money, and was obliged to go and hire
@@ -1076,7 +895,7 @@ And the path became easier to his feet, and two or three blades of
 grass appeared upon it, and some grasshoppers began singing on the bank
 beside it; and Gluck thought he had never heard such merry singing.
 
-[Illustration]
+
 
 Then he went on for another hour, and the thirst increased on him so
 that he thought he should be forced to drink. But, as he raised the
@@ -1108,7 +927,7 @@ turned on him so mournfully, that he could not stand it. "Confound the
 King and his gold too," said Gluck; and he opened the flask, and poured
 all the water into the dog's mouth.
 
-[Illustration]
+
 
 The dog sprang up and stood on its hind legs. Its tail disappeared, its
 ears became long, longer, silky, golden; its nose became very red, its
@@ -1188,581 +1007,3 @@ people of the valley
  THE BLACK BROTHERS.
 
 
- PRESSWORK BY BERWICK & SMITH, BOSTON.
-
-
-
-
- WENTWORTH & REED'S
-
- FIRST STEPS IN NUMBER.
-
- _A PRIMARY ARITHMETIC._
-
- FROM PREFACE TO THE TEACHER'S EDITION.
-
-The object of this book is to provide teachers with a record of the work
-done in number in the primary schools of to-day.
-
-There has been no attempt at novelty in the subject-matter, in the
-arrangement of work, or in the manner of presentation. The whole is on a
-constructive basis. Numbers are chief; processes subordinate. What has
-been found to be more easily understood precedes the more difficult,
-without respect to its scientific relation. Fractions present no greater
-difficulty than wholes, so they accompany the teaching of integral
-numbers from the beginning. The law of dependence has been carefully
-observed, although at first glance the arrangement may not seem to
-warrant this assertion.
-
-The object of every teacher is so to present numbers that the mind of
-the child may grasp firmly the facts concerning them, and hold these
-facts tenaciously by the law of association. Success lies in requiring
-the child to _show_ what he is talking about, and in following the "step
-by step" rule. The book illustrates these two principles. It abounds in
-examples which have not before appeared in print, and which are
-calculated to interest the child from their close connection with his
-varied experiences. It gives suggestions for versatility of drill, and
-illustrates in detail the teaching of a hundred topics.
-
-It is expected that the work to the number ten will be taken in one
-year, the work to twenty in another year, and the remainder of the
-course outlined in the book will be covered in two years more.
-
-=A child's book accompanies this edition, which the child may use with
-great advantage after he becomes acquainted with figures.=
-
-It is hoped that this book will find a welcome among all persons
-interested in leading children by easy and sure paths to a knowledge of
-numbers.
-
-        *       *       *       *       *
-
- GINN & COMPANY, PUBLISHERS,
- BOSTON, NEW YORK, AND CHICAGO.
-
-
-
-
-
- WENTWORTH'S
-
- GRAMMAR SCHOOL ARITHMETIC,
-
- 350 Pages,
-
-Is designed to give pupils of the grammar-school age an intelligent
-knowledge of the subject and a moderate power of independent thought.
-
-Whether Arithmetic is studied for mental discipline or for practical
-mastery over the every-day problems of common life, mechanical processes
-and routine methods are of no value.
-
-Pupils can be trained to logical habits of mind and stimulated to a high
-degree of intellectual energy by solving problems adapted to their
-capacities. They become _practical_ arithmeticians, not by learning
-special business forms, but by founding their knowledge on reasoning
-which they fully comprehend, and by being so thoroughly exercised in
-logical analysis that they are independent of arbitrary rules.
-
-This Arithmetic contains a great number of well-graded and progressive
-problems, made up for youths from ten to fourteen years of age.
-Definitions and explanations are made as brief and simple as possible.
-It is not intended that definitions should be committed to memory, but
-that they should be simply discussed by teacher and pupils. Every
-teacher, of course, will be at liberty to give better definitions, and
-to make a better presentation of methods, than those exhibited in the
-book.
-
-In short, the chief object in view will be gained if pupils are trained
-to solve the problems by neat and intelligent methods, and are kept free
-from set rules and formulas.
-
-A great many number-problems are given in the first pages of the book,
-so that the necessary facility and accuracy in computing under the four
-fundamental rules may be acquired; as want of accuracy and rapidity in
-mere calculations distracts the attention which should be given to the
-investigation and correct statement of numerical exercises.
-
-The Appendix contains a short chapter on the Metric System, a chapter on
-Mensuration, and Miscellaneous Problems. The Metric System is treated
-here because the great majority of grammar-school pupils have no time
-for the subject, while those who have can as well learn the system at
-this stage of their progress as earlier. The chapter on Mensuration is
-suited to the ability of beginners. The intention is not to give a
-system of Geometry, but to render familiar those notions of Geometry
-that are indispensable for practical purposes. The whole subject has
-been illustrated and enforced by numerous practical examples.
-
-
- GINN & COMPANY, PUBLISHERS,
- BOSTON, NEW YORK, AND CHICAGO.
-
-
-
-
- ELEMENTARY LESSONS IN ENGLISH.
-
-These admirable books harmonize and utilize to a surprising degree most,
-if not all, of the practical advantages of conflicting theories.
-
-     --Dr. G. STANLEY HALL, _Johns Hopkins University_.
-
-Their universal use would raise many schoolmasters to the rank of
-=teachers=.
-
-     --_State Supt._ M. A. NEWELL, _Md_
-
-Need only their presence to recommend them.
-
-     --F. W. PARKER, _Prin. Cook Co. Normal School, Ill._
-
-The brightest and most practical book on the subject yet published.
-
-     --_Supt._ J. O. WILSON, _Washington, D.C._
-
-None more suggestive and helpful to the young teacher.
-
-     --_Supt._ GEO. HOWLAND, _Chicago, Ill._
-
-Better than any other.
-
-     --_Supt._ JOHN B. PEASLEE, _Cincinnati_.
-
-The =only= books that meet the wants of our elementary schools.
-
-     --E. V. DE GRAFF, _Institute Conductor_
-
-
-        *       *       *       *       *
-
- GINN & COMPANY, PUBLISHERS,
- BOSTON, NEW YORK, AND CHICAGO.
-
-
-
-
-Musical Instruction is the most practical instruction given in schools;
-for music, unlike other branches, becomes immediately useful.
-
-_The Primary or First Music Reader._ Introduction Price, 18 cts.;
-Allowance for old book in exchange, 5 cts.
-
-_The Second Music Reader._ Introduction Price, 20 cts.; Allowance for
-old book, 5 cts.
-
-_The Third Music Reader._ Introduction Price, 20 cts.; Allowance for old
-book in exchange, 5 cts.
-
-_Intermediate Music Reader._ Introduction Price, 40 cts.; Allowance for
-old book, 10 cts. Consists of the _Second and Third Music Readers_ in
-one volume.
-
-_Teacher's Manuals_ Are published in two volumes to accompany
-respectively the First Reader and Series of Charts, and the Second and
-Third. Introduction Price, 40 cts. each.
-
-_The Independent Music Reader._ Introd. Price, 70 cts.; Allowance for
-old book, 20 cts.
-
-_The Abridged Independent Music Reader._ Introduction Price, 60 cts.;
-Allowance for old book in exchange, 20 cts.
-
-_Fourth Music Reader._ Introduction Price, 94 cts.; Allowance for old
-book in exchange, 30 cts.
-
-_Abridged Fourth Music Reader._ Introd. Price, 75 cts.; Allowance for
-old book, 30 cts.
-
-_The National Music Charts._ Introduction Price, $5.50; Easel, $1.00.
-Sample-leaf sent free to any address.
-
-_High School Music Reader for Mixed Voices._Introduction Price, 94 cts.;
-Allowance for old book in exchange, 30 cts.
-
-_Girls' High School Music Reader._ Introd. Price, $1.25; Allowance for
-old book, 30 cts.
-
-_Hymn and Tune Book for Female Voices._ Introduction Price, 60 cts.
-
-_Hymn and Tune Book for Mixed Voices._ Introduction Price, 60 cts.
-
-_Independent Music Reader and Hymn and Tune_ =Book for Mixed Voices,=
-combined. Introduction Price, 94 cts.; Allowance for old book, 30 cts.
-
-        *       *       *       *       *
-
-_A valuable pamphlet on Musical Instruction in Schools mailed free on
-application to the publishers_,
-
- GINN & COMPANY, BOSTON, NEW YORK, AND CHICAGO.
-
-
-
-
-
-End of the Project Gutenberg EBook of The King of the Golden River or the
-Black Brothers, by John Ruskin
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE KING OF THE GOLDEN RIVER ***
-
-***** This file should be named 33673.txt or 33673.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/3/3/6/7/33673/
-
-Produced by Chris Curnow, Johnnie Hollowell and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
