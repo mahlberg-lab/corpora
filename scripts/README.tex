@@ -89,7 +89,15 @@
 
 \tableofcontents
 
-\section{Cleaning}
+\section{Corpora}
+
+\subsection{ChiLit - Children's Literature}
+From work by Anna Čermáková.
+
+\subsubsection{Included texts}
+\printbibliography[heading=none,keyword=ChiLit]
+
+\section{Cleaning of corpora texts} \label{se:cleaning}
 The sources were the Gutenberg plain text UTF-8 files.
 
 \begin{enumerate}
@@ -128,12 +136,54 @@ Step \ref{lst:ascii_7} unifies the use of hyphens, apostrophes and quotes across
 Step \ref{lst:ascii_7} was achieved using Version 1.30 of the Perl module \texttt{Text::Unidecode}\footnote{\url{http://search.cpan.org/perldoc?Text::Unidecode}} with the following command
 \begin{verbatim} perl -C -MText::Unidecode -n -i -e'print unidecode($_)' *.txt \end{verbatim}
 
-\section{Corpora}
+\section{Maintaining this corpora repository}
+\subsection{\texttt{.bib} file} \label{se:bib_file}
+We currently manage the bibliography in a shared zotero folder.
+The important fields in the bib entries are:
+\begin{itemize}
+    \item The \texttt{shorttitle} field must match the filename of the relevant text file in the corpus folder.
+    \item The \texttt{keywords} field must contain the name of the corpus.
+    \item The \texttt{title}, \texttt{author} and \texttt{date} fields must be present.
+\end{itemize}    
+Example entry:
+\begin{verbatim}
+    @book{grahame_wind_1908,
+        title = {The Wind in the Willows},
+        url = {https://www.gutenberg.org/ebooks/289},
+        shorttitle = {willows},      <<===  filename willows.txt
+        author = {Grahame, Kenneth},
+        editor = {Lough, Mike},
+        urldate = {2017-06-28},
+        date = {1908},
+        keywords = {{ChiLit}}        <<===  corpus id
+    }
+\end{verbatim}
+\subsection{Adding a new text to a corpus} \label{se:add_file}
+\begin{enumerate}
+    \item Clean the text as described in Section~\ref{se:cleaning}.
+    \item Add entry to the \texttt{.bib} file; see Section~\ref{se:bib_file}. 
+    \item Generate a new \texttt{coorpora.json} file.
+        \begin{verbatim}
+    cd scripts
+    R --no-restore --no-save <./bib2json.R \end{verbatim}
+    \item Update repository tags; see Section~\ref{se:tags}.
+\end{enumerate}
 
-\subsection{ChiLit - Children's Literature}
-From work by Anna Čermáková.
-
-\subsubsection{Included texts}
-\printbibliography[heading=none,keyword=ChiLit]
+\subsection{Adding a new corpus}
+\begin{enumerate}
+    \item Edit the \texttt{scripts/bib2json.R} script to include the new corpus.
+    \item For each new corpus file
+        \begin{enumerate}
+            \item Clean the text as described in Section~\ref{se:cleaning}.
+            \item Add entry to the \texttt{.bib} file; see Section~\ref{se:bib_file}. 
+        \end{enumerate}
+    \item Generate a new \texttt{coorpora.json} file.
+        \begin{verbatim}
+    cd scripts
+    R --no-restore --no-save <./bib2json.R \end{verbatim}
+    \item Update repository tags; see Section~\ref{se:tags}.
+\end{enumerate}
+\subsection{Repository Tags} \label{se:tags}
+TODO
 
 \end{document}
