@@ -129,6 +129,13 @@ Some specifics of step \ref{lst:non_auth}:
         \begin{verbatim} [Illustration] \end{verbatim}
         \begin{verbatim} [Illustration: Chapter Seventeen] \end{verbatim}
         \begin{verbatim} [Illustration: Page 91] \end{verbatim}
+    \item The book title is put on the first line of the file, without any newlines.
+    \item The book author is put on the second line of the file, without any newlines.
+    \item Chapter headings are formatted thus:
+        \begin{verbatim}
+        (INTRODUCTION|PREFACE|BOOK|CHAPTER|CONCLUSION|PROLOGUE|PRELUDE|MORAL) ([0-9]+|[IVXC]+). (title, all on one line)
+        \end{verbatim}
+    \item Part headings are on the line before the first chapter of that part, in the same format.
 \end{itemize}
 
 Step \ref{lst:ascii_7} unifies the use of hyphens, apostrophes and quotes across the texts; 7-bit ASCII\footnote{\url{https://tools.ietf.org/html/rfc20}} is a subset of UTF-8\footnote{\url{https://tools.ietf.org/html/rfc3629}} and so the files may be treated as UTF-8.
