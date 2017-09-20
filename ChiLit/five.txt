@@ -1592,7 +1592,7 @@ say what it had to say quite comfortably, and listen to the agreeable
 sound of its own voice, and at the same time have three-quarters of two
 sharp ears to spare for listening to what the others said. That is an
 easy example in multiplication of vulgar fractions, but, as I daresay
-you can't do even that, I won't ask you to tell me whether 3/4 × 2 =
+you can't do even that, I won't ask you to tell me whether 3/4 x 2 =
 1-1/2, but I will ask you to believe me that this was the amount of ear
 each child was able to lend to the others. Lending ears was common in
 Roman times, as we learn from Shakespeare; but I fear I am getting too
@@ -3453,7 +3453,7 @@ were very grand--three red running lions on a blue ground. The tents
 were of the latest brand approved of by our modern War Office, and the
 whole appearance of camp, army, and leader might have been a shock to
 some. But Robert was dumb with admiration, and it all seemed to him
-perfectly correct, because he knew no more of heraldry or archæology
+perfectly correct, because he knew no more of heraldry or archaeology
 than the gifted artists who usually drew the pictures for the historical
 romances. The scene was indeed "exactly like a picture." He admired it
 all so much that he felt braver than ever.

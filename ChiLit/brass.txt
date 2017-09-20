@@ -11,7 +11,7 @@ I doing at half-past twelve?"
 As he sat at the window of his office in Great Cloister Street,
 Westminster, he made his thoughts travel back to a certain glorious
 morning in August which now seemed so remote and irrecoverable. At this
-precise time he was waiting on the balcony of the Hôtel de la Plage--the
+precise time he was waiting on the balcony of the Hotel de la Plage--the
 sole hostelry of St. Luc-en-Port, the tiny Normandy watering-place upon
 which, by some happy inspiration, he had lighted during a solitary
 cycling tour--waiting until She should appear.
@@ -45,10 +45,10 @@ They had had drawbacks, it was true. Old Futvoye was perhaps the least
 bit of a bore at times, with his interminable disquisitions on Egyptian
 art and ancient Oriental character-writing, in which he seemed convinced
 that Horace must feel a perfervid interest, as, indeed, he thought it
-politic to affect. The Professor was a most learned archæologist, and
+politic to affect. The Professor was a most learned archaeologist, and
 positively bulged with information on his favourite subjects; but it is
 just possible that Horace might have been less curious concerning the
-distinction between Cuneiform and Aramæan or Kufic and Arabic
+distinction between Cuneiform and Aramaean or Kufic and Arabic
 inscriptions if his informant had happened to be the father of anybody
 else. However, such insincerities as these are but so many evidences of
 sincerity.
@@ -444,7 +444,7 @@ It was an old, squat, pot-bellied vessel, about two feet high, with a
 long thick neck, the mouth of which was closed by a sort of metal
 stopper or cap; there was no visible decoration on its sides, which were
 rough and pitted by some incrustation that had formed on them, and been
-partially scraped off. As a piece of _bric-à-brac_ it certainly
+partially scraped off. As a piece of _bric-a-brac_ it certainly
 possessed few attractions, and there was a marked tendency to "guy" it
 among the more frivolous brethren.
 
@@ -917,7 +917,7 @@ scholarly term," said the Professor. "Female, _Jinneeyeh_, and plural
 _Jinn_. No, I do _not_ contemplate that as a probable contingency. But
 it is not quite impossible that a vessel closed as Mr. Ventimore
 describes may have been designed as a receptacle for papyri or other
-records of archæological interest, which may be still in preservation. I
+records of archaeological interest, which may be still in preservation. I
 should recommend you, sir, to use the greatest precaution in removing
 the lid--don't expose the documents, if any, too suddenly to the outer
 air, and it would be better if you did not handle them yourself. I shall
@@ -1470,7 +1470,7 @@ building materials, the accommodation that would be required, and so on.
 
 "You're young, sir," said Mr. Wackerbath, at the end of the interview,
 "but I perceive you are up to all the tricks of the--I _should_ say,
-versed in the _minutiæ_ of your profession. You would like to run down
+versed in the _minutiae_ of your profession. You would like to run down
 and look at the ground, eh? Well, that's only reasonable; and my wife
 and daughters will want to have _their_ say in the matter--no getting on
 without pleasing the ladies, hey? Now, let me see. To-morrow's Sunday.
@@ -1490,7 +1490,7 @@ to whom money was clearly no object, he might carry out some of his most
 ambitious ideas.
 
 Moreover, he would now be in a position to speak to Sylvia's father
-without fear of a repulse. His commission on £60,000 would be £3,000,
+without fear of a repulse. His commission on PS60,000 would be PS3,000,
 and that on the decorations and other work at least as much
 again--probably more. In a year he could marry without imprudence; in
 two or three years he might be making a handsome income, for he felt
@@ -1598,7 +1598,7 @@ consent."
 
 Ventimore gave this undertaking willingly enough, and they returned to
 the drawing-room. Mrs. Futvoye could hardly avoid asking Horace, in his
-new character of _fiancé_, to stay and dine, which it need not be said
+new character of _fiance_, to stay and dine, which it need not be said
 he was only too delighted to do.
 
 "There is one thing, my dear--er--Horace," said the Professor, solemnly,
@@ -1648,7 +1648,7 @@ marks, something like birds' footprints."
 "That sounds like Cuneiform," said the Professor, "which would seem to
 point to a Phoenician origin. And, as I am acquainted with no Oriental
 brass earlier than the ninth century of our era, I should regard your
-description as, _à priori_, distinctly unlikely. However, I should
+description as, _a priori_, distinctly unlikely. However, I should
 certainly like to have an opportunity of examining the bottle for myself
 some day."
 
@@ -1993,7 +1993,7 @@ difficulties to her mind, and she offered a compromise in the form of
 cod--which he finally accepted as a fish which the Professor could
 hardly censure for ostentation.
 
-Next came the no less difficult questions of _entrée_ or no _entrée_, of
+Next came the no less difficult questions of _entree_ or no _entree_, of
 joint and bird. "What's in season just now?" said Horace; "let me
 see"--and glanced out of the window as he spoke, as though in search of
 some outside suggestion.... "Camels, by Jove!" he suddenly exclaimed.
@@ -3149,7 +3149,7 @@ till I get home."
 
 It was some consolation that both Sylvia and her mother commended the
 sherbet, and even appreciated--or were so obliging as to say they
-appreciated--the _entrée_, which consisted of rice and mincemeat wrapped
+appreciated--the _entree_, which consisted of rice and mincemeat wrapped
 in vine-leaves, and certainly was not appetising in appearance, besides
 being difficult to dispose of gracefully.
 
@@ -3351,7 +3351,7 @@ it's rather soothing than otherwise."
 too?"
 
 "No," said Horace, with a fine assumption of candour, "they don't; they
-come from--the Arab Encampment at Earl's Court--parties and _fêtes_
+come from--the Arab Encampment at Earl's Court--parties and _fetes_
 attended, you know. But they play _here_ for nothing; they--they want to
 get their name known, you see; very deserving and respectable set of
 fellows."
@@ -4644,7 +4644,7 @@ credulity.
 
 What he felt chiefly was the new barrier that this event must raise
 between himself and Sylvia; to do him justice, the mere fact that the
-father of his _fiancée_ was a mule did not lessen his ardour in the
+father of his _fiancee_ was a mule did not lessen his ardour in the
 slightest. Even if he had felt no personal responsibility for the
 calamity, he loved Sylvia far too well to be deterred by it, and few
 family cupboards are without a skeleton of some sort.
@@ -4661,7 +4661,7 @@ compelling the Professor to renew their engagement; and, indeed, Horace
 was by no means certain himself that the Jinnee might not have acted
 from some muddle-headed motive of this kind. It was likely enough that
 the Professor, after learning the truth, should have refused to allow
-his daughter to marry the _protégé_ of so dubious a patron, and that
+his daughter to marry the _protege_ of so dubious a patron, and that
 Fakrash had then resorted to pressure.
 
 In any case, Ventimore knew Sylvia well enough to feel sure that pride
@@ -5011,7 +5011,7 @@ could manage it in--in a bucket, and it would help you to pull yourself
 together. A whisk of your--er--tail would imply consent." The
 Professor's tail instantly swept some rare Arabian glass lamps and vases
 from a shelf at his rear, whereupon Mrs. Futvoye went out, and returned
-presently with a bottle of champagne and a large china _jardinière_, as
+presently with a bottle of champagne and a large china _jardiniere_, as
 the best substitute she could find for a bucket.
 
 When the mule had drained the flower-pot greedily and appeared
@@ -5305,7 +5305,7 @@ decipher that inscription quite as easily as he did."
 "Is this the truth?" said the Jinnee, in visible alarm.
 
 "Certainly," said Horace. "Within the last quarter of a century
-archæology has made great strides. Our learned men can now read
+archaeology has made great strides. Our learned men can now read
 Babylonian bricks and Chaldean tablets as easily as if they were
 advertisements on galvanised iron. You may think you've been extremely
 clever in turning the Professor into an animal, but you'll probably find
@@ -5942,7 +5942,7 @@ mind freely."
 "I will," said Horace. "To begin with, no European Princess of the Blood
 Royal would entertain the idea for a moment. And if she did, she would
 forfeit her rank and cease to be a Princess, and I should probably be
-imprisoned in a fortress for _lèse majesté_ or something."
+imprisoned in a fortress for _lese majeste_ or something."
 
 "Dismiss thy fears, for I do not propose to unite thee to any Princess
 that is born of mortals. The bride I intend for thee is a Jinneeyeh; the
@@ -6211,7 +6211,7 @@ third volume that his interest really revived.
 For the 24th Chapter contained "The Story of Seyf-el-Mulook and
 Bedeea-el-Jemal," and it was only natural that he should be anxious to
 know all that there was to know concerning the antecedents of one who
-might be his _fiancée_ before long. He read eagerly.
+might be his _fiancee_ before long. He read eagerly.
 
 Bedeea, it appeared, was the lovely daughter of Shahyal, one of the
 Kings of the Believing Jann; her father--not Fakrash himself, as the
@@ -6518,7 +6518,7 @@ shields and clustered banners.
 "you have surpassed yourself this time. You've got me into a nice
 scrape, and you'll have to pull me through it as well as you can."
 
-"Have no uneasiness," said the Jinnee, as he accompanied his _protégé_
+"Have no uneasiness," said the Jinnee, as he accompanied his _protege_
 into the marquee, which was brilliant with pretty women in smart frocks,
 officers in scarlet tunics and plumed hats, and servants in State
 liveries.
@@ -6635,7 +6635,7 @@ official's account.
 
 "A mere form!" said the Lord Mayor; "but I for one, Mr. Ventimore--I for
 one should be sorry to see the picturesque old practices die out. To my
-mind," he added, as he finished a _pâté de foie gras_ sandwich, "the
+mind," he added, as he finished a _pate de foie gras_ sandwich, "the
 modern impatience to sweep away all the ancient landmarks (whether they
 be superannuated or not) is one of the most disquieting symptoms of the
 age. You won't have any more champagne? Then I think we had better be
