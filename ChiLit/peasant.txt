@@ -3,7 +3,7 @@ Harriet Martineau
 
 VOLUME ONE.
 
-CHAPTER ONE. THE LOVER IN THE WOOD.
+CHAPTER 1. THE LOVER IN THE WOOD.
 
 One fine afternoon in April, 1770, there was a good deal of bustle in
 the neighbourhood of the village of Saint Menehould, in the province of
@@ -318,7 +318,7 @@ She feared he was weeping very bitterly.
 
 
 
-CHAPTER TWO. COMPANY TO SUPPER.
+CHAPTER 2. COMPANY TO SUPPER.
 
 Marie's mother received her with a look almost of reproach; so
 overpowered was the poor woman with the business of providing lodging,
@@ -678,7 +678,7 @@ all.  So each boy had a share of the crib, and a corner of the rug.
 
 
 
-CHAPTER THREE. A HOLIDAY MORNING.
+CHAPTER 3. A HOLIDAY MORNING.
 
 The boys were wakened in the morning by a rap on the door, like that of
 the preceding evening.  When they had rubbed their eyes and got up, they
@@ -873,7 +873,7 @@ desperate for her to trust herself on the brink of deep waters.
 
 
 
-CHAPTER FOUR. HOLIDAY INDEED.
+CHAPTER 4. HOLIDAY INDEED.
 
 It was a comfort to Marie, on reaching home, to find that no soldiers
 were there.  The guests of the preceding night had been summoned to
@@ -1118,7 +1118,7 @@ all of us, when the poor can endure no more."
 
 VOLUME TWO.
 
-CHAPTER ONE. ROYALTY.
+CHAPTER 1. ROYALTY.
 
 It is a common belief, among those who have not learned to be wiser,
 that to be a king, or one of the king's family, is the same thing as to
@@ -1183,7 +1183,7 @@ who may imagine that to be a prince is to be happier than other people.
 
 
 
-CHAPTER TWO. ROYAL WAYS.
+CHAPTER 2. ROYAL WAYS.
 
 Louis the Seventeenth was born in 1785.  He was the second son of the
 princess who passed through Saint Menehould from Vienna, after her
@@ -1613,7 +1613,7 @@ respects.
 
 
 
-CHAPTER THREE. THE DAUPHIN LOSES HIS GOVERNESS.
+CHAPTER 3. THE DAUPHIN LOSES HIS GOVERNESS.
 
 Little Louis had no cause to rejoice in his new honours.  Much more
 observance was paid to him within the palace, now that he had become
@@ -1813,7 +1813,7 @@ for many centuries.
 
 
 
-CHAPTER FOUR. LAST NIGHT AT VERSAILLES.
+CHAPTER 4. LAST NIGHT AT VERSAILLES.
 
 From this day forward the king met with insults whichever way he
 turned,--even at the doors of his own apartments.  It was resolved by
@@ -2054,7 +2054,7 @@ of Versailles.
 
 
 
-CHAPTER FIVE. A PROCESSION.
+CHAPTER 5. A PROCESSION.
 
 It was too plain to all now that everything must be yielded to the
 people, if lives were to be saved.  As soon as it was light, Lafayette
@@ -2199,7 +2199,7 @@ long and dreary day.  This was the 6th of October.
 
 
 
-CHAPTER SIX. THE DAUPHIN AT PARIS.
+CHAPTER 6. THE DAUPHIN AT PARIS.
 
 In the morning of the 7th, some magistrates came, bringing upholsterers
 with them, and asked the king how he would be pleased to be lodged.
@@ -2490,7 +2490,7 @@ conspire to prevent all mutual understanding between him and the nation.
 
 
 
-CHAPTER SEVEN. AT SAINT CLOUD.
+CHAPTER 7. AT SAINT CLOUD.
 
 One of his wishes was, to a certain degree, gratified at length.  He got
 a little more hunting when June came.  To the surprise of the court, and
@@ -2598,7 +2598,7 @@ sufferings.
 
 
 
-CHAPTER EIGHT. THE ENTERPRISE.
+CHAPTER 8. THE ENTERPRISE.
 
 The longer the revolution went on, exhibiting more and more fully the
 incapacity of the king, the more were the intoxicated people tempted to
@@ -3599,7 +3599,7 @@ night.
 
 
 
-CHAPTER NINE. PLAYING FALSE.
+CHAPTER 9. PLAYING FALSE.
 
 From this time forward, the National Guards stationed in the palace had
 orders never to lose sight of the royal family.  They therefore, for
@@ -3944,7 +3944,7 @@ the ministry were all turned out next morning.
 
 
 
-CHAPTER TEN. THE MOB IN THE PALACE.
+CHAPTER 10. THE MOB IN THE PALACE.
 
 The angry people rose.  Twenty-thousand of the poorest, dirtiest, and
 most savage, went to the magistrates in a body, to declare their
@@ -4102,7 +4102,7 @@ in which he lived.
 
 
 
-CHAPTER ELEVEN. WHAT BEFELL WHILE THE QUEEN WAS HOPING.
+CHAPTER 11. WHAT BEFELL WHILE THE QUEEN WAS HOPING.
 
 The secret cipher letters went now faster than ever, and seem to have
 been so urgent about speedy help and rescue as to have appeared somewhat
@@ -4477,7 +4477,7 @@ upon his memory, durable as Swiss honour and as the everlasting rock.
 
 
 
-CHAPTER TWELVE. PRISON.
+CHAPTER 12. PRISON.
 
 The royal family were placed for three days in a forsaken monastery,
 where four cells were allotted to them and their attendants.  There
@@ -4912,7 +4912,7 @@ whether he was safe in bed.
 
 
 
-CHAPTER THIRTEEN. THE FAMILY SEPARATED.
+CHAPTER 13. THE FAMILY SEPARATED.
 
 Their sorrows increased as time went on.  The king was separated from
 his family: but when the queen's grief alarmed the gaolers, the party
@@ -5154,7 +5154,7 @@ laughed was then only fifteen years old, and her brother not yet nine.
 
 
 
-CHAPTER FOURTEEN. FURTHER SEPARATION.
+CHAPTER 14. FURTHER SEPARATION.
 
 The 3rd of July was the most terrible morning to Louis.  Before he was
 up, and while his mother was by his bedside, some officers came into the
@@ -5264,7 +5264,7 @@ reading a few books, which she had read over and over again.
 
 
 
-CHAPTER FIFTEEN. THE END.
+CHAPTER 15. THE END.
 
 How came her little brother to be alone too?  Why, Simon accepted an
 office which he liked better than that of being Louis's guardian, and
