@@ -612,7 +612,7 @@ wanted. You've got to help me. It's most important!'
 'You're getting on fairly well, though you splash a good bit still. With
 a great deal of patience, and any quantity of coaching, you may----'
 
-'O, pooh! boating!' interrupted the Toad, in great disgust. Silly boyish
+'O, pooh! boating!' interrupted the Toad, in great disgust. 'Silly boyish
 amusement. I've given that up LONG ago. Sheer waste of time, that's what
 it is. It makes me downright sorry to see you fellows, who ought to
 know better, spending all your energies in that aimless manner. No, I've
@@ -2497,7 +2497,7 @@ understand the situation.
 'You knew it must come to this, sooner or later, Toad,' the Badger
 explained severely.
 
-You've disregarded all the warnings we've given you, you've gone on
+'You've disregarded all the warnings we've given you, you've gone on
 squandering the money your father left you, and you're getting us
 animals a bad name in the district by your furious driving and your
 smashes and your rows with the police. Independence is all very well,
@@ -3630,7 +3630,7 @@ pursued!'
 The miserable Toad, crouching in the coal-dust, tried hard to think of
 something to do, with dismal want of success.
 
-'They are gaining on us fast!' cried the engine-driver. And the engine
+'They are gaining on us fast!' cried the engine-driver. 'And the engine
 is crowded with the queerest lot of people! Men like ancient warders,
 waving halberds; policemen in their helmets, waving truncheons; and
 shabbily dressed men in pot-hats, obvious and unmistakable plain-clothes
@@ -3898,7 +3898,7 @@ orchards, warm, insect-haunted ponds, of browsing cattle, of haymaking,
 and all the farm-buildings clustering round the House of the perfect
 Eaves?'
 
-'Do you suppose,' asked the second one, that you are the only living
+'Do you suppose,' asked the second one, 'that you are the only living
 thing that craves with a hungry longing to hear the cuckoo's note
 again?'
 
@@ -4201,7 +4201,7 @@ great green seas as she heels to the wind, pointing South!
 
 'And you, you will come too, young brother; for the days pass, and never
 return, and the South still waits for you. Take the Adventure, heed the
-call, now ere the irrevocable moment passes!' 'Tis but a banging of the
+call, now ere the irrevocable moment passes! 'Tis but a banging of the
 door behind you, a blithesome step forward, and you are out of the old
 life and into the new! Then some day, some day long hence, jog home here
 if you will, when the cup has been drained and the play has been played,
@@ -4867,7 +4867,7 @@ Then he burst into song again, and chanted with uplifted voice--
           Who was it steered it into a pond?
             Ingenious Mr. Toad!
 
-O, how clever I am! How clever, how clever, how very clev----'
+'O, how clever I am! How clever, how clever, how very clev----'
 
 A slight noise at a distance behind him made him turn his head and look.
 O horror! O misery! O despair!
@@ -4877,7 +4877,7 @@ rural policemen were visible, running towards him as hard as they could
 go!
 
 Poor Toad sprang to his feet and pelted away again, his heart in his
-mouth. O, my!' he gasped, as he panted along, 'what an ASS I am! What a
+mouth. 'O, my!' he gasped, as he panted along, 'what an ASS I am! What a
 CONCEITED and heedless ass! Swaggering again! Shouting and singing songs
 again! Sitting still and gassing again! O my! O my! O my!'
 
@@ -5024,7 +5024,7 @@ Don't spare me! What haven't I heard?'
 fist upon the table, 'that you've heard nothing about the Stoats and
 Weasels?'
 
-What, the Wild Wooders?' cried Toad, trembling in every limb. 'No, not a
+'What, the Wild Wooders?' cried Toad, trembling in every limb. 'No, not a
 word! What have they been doing?'
 
 '--And how they've been and taken Toad Hall?' continued the Rat.

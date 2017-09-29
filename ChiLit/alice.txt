@@ -128,7 +128,7 @@ impossible.
 There seemed to be no use in waiting by the little door, so she went
 back to the table, half hoping she might find another key on it, or at
 any rate a book of rules for shutting people up like telescopes: this
-time she found a little bottle on it, ['which certainly was not here
+time she found a little bottle on it, ('which certainly was not here
 before,' said Alice,) and round the neck of the bottle was a paper
 label, with the words 'DRINK ME' beautifully printed on it in large
 letters.
@@ -2500,7 +2500,7 @@ said the Gryphon: and it set to work shaking him and punching him in
 the back. At last the Mock Turtle recovered his voice, and, with tears
 running down his cheeks, he went on again:--
 
-'You may not have lived much under the sea--' ['I haven't,' said
+'You may not have lived much under the sea--' ('I haven't,' said
 Alice)--'and perhaps you were never even introduced to a lobster--'
 (Alice began to say 'I once tasted--' but checked herself hastily, and
 said 'No, never') '--so you can have no idea what a delightful thing a
