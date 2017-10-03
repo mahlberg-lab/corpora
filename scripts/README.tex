@@ -44,24 +44,16 @@
     \scriptsize
     \parbox{0.25\textwidth}{
        \small
-       Viola Wiegand \\
-       \scriptsize
-       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham \\
-       \texttt{v.wiegand@bham.ac.uk}
-    }
-    \parbox{0.25\textwidth}{
-       \small
        Anna Čermáková \\
        \scriptsize
-       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham
-%       \texttt{@bham.ac.uk}
+       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham\\
+       \texttt{a.cermakova@bham.ac.uk}
     }
-    \parbox{0.25\textwidth}{
-       \small
-       Michaela Mahlberg \\
-       \scriptsize
-       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham \\
-       \texttt{m.a.mahlberg@bham.ac.uk}
+    \parbox{0.30\textwidth}{
+        \small Anthony Hennessey \\
+        \scriptsize
+        Statistics and Probability\\ School of Mathematical Sciences\\ University of Nottingham \\
+        \texttt{anthony.hennessey@nottingham.ac.uk}
     }
     \\ \\
     \parbox{0.30\textwidth}{
@@ -71,11 +63,19 @@
        Shuttle Thread\\ Manchester \\
        \texttt{jamie.lentin@shuttlethread.com}
     }
-    \parbox{0.30\textwidth}{
-        \small Anthony Hennessey \\
-        \scriptsize
-        Statistics and Probability\\ School of Mathematical Sciences\\ University of Nottingham \\
-        \texttt{anthony.hennessey@nottingham.ac.uk}
+    \parbox{0.25\textwidth}{
+       \small
+       Michaela Mahlberg \\
+       \scriptsize
+       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham \\
+       \texttt{m.a.mahlberg@bham.ac.uk}
+    }
+    \parbox{0.25\textwidth}{
+       \small
+       Viola Wiegand \\
+       \scriptsize
+       Centre for Corpus Research\\ College of Arts and Law\\ University of Birmingham \\
+       \texttt{v.wiegand@bham.ac.uk}
     }
 }
 
@@ -105,6 +105,7 @@ The sources were the Gutenberg plain text UTF-8 files.
     \item \label{lst:non_auth} Remove non-authorial text.
     \item \label{lst:title} Reformat the book title and author to make consistent across all texts. 
     \item \label{lst:chapters} Reformat chapter headings to make consistent across all texts. 
+    \item \label{lst:manual} Manual corrections
     \item \label{lst:ascii_7} Convert to 7-bit ASCII.
 \end{enumerate}
 
@@ -118,6 +119,7 @@ Some specifics of step \ref{lst:non_auth}:
     \item Tables of content are removed.
     \item Lists of illustrations are removed.
     \item Any preface text attributed to a person other than the author is removed. When attribution is unclear the text is left.
+    \item Any postface text attributed to a person other than the author is removed. When attribution is unclear the text is left.
     \item Transcriber notes are removed.
     \item In the texts illustrations are usually indicated by text enclosed in square brackets.
           Where this text includes a caption the caption is kept, for example
@@ -131,11 +133,35 @@ Some specifics of step \ref{lst:non_auth}:
         \begin{verbatim} [Illustration: Page 91] \end{verbatim}
     \item The book title is put on the first line of the file, without any newlines.
     \item The book author is put on the second line of the file, without any newlines.
-    \item Chapter headings are formatted thus:
-        \footnotesize{
-        \begin{verbatim}(INTRODUCTION|PREFACE|BOOK|CHAPTER|CONCLUSION|PROLOGUE|PRELUDE|MORAL) ([0-9]+|[IVXC]+). (title, all on one line) \end{verbatim}
-        }
-    \item Part headings are on the line before the first chapter of that part, in the same format.
+    \item Chapter headings are formatted as follows:
+        If the chapter heading begins with `CHAPTER' or `BOOK' it must be followed by a number or roman numerals and then a dot.
+        The chapter or book number cannot be written in word form.
+        The heading can optionaly be followed by a chapter title; the chapter title must not break onto a new line.
+        Here are some examples
+        \begin{verbatim} CHAPTER 1. The Old Sea-dog at the Admiral Benbow\end{verbatim}
+        \begin{verbatim} CHAPTER 2. TRAVELLING COMPANIONS.\end{verbatim}
+        \begin{verbatim} CHAPTER 3.\end{verbatim}
+        \begin{verbatim} CHAPTER IV. Little Meg's Treat to Her Children\end{verbatim}
+        \begin{verbatim} CHAPTER V.\end{verbatim}
+        \begin{verbatim} BOOK 1.\end{verbatim}
+        \begin{verbatim} BOOK II. Jessica's Mother\end{verbatim}
+        Sections beginning with `INTRODUCTION', `PREFACE', `CONCLUSION', `PROLOGUE', `PRELUDE' or `MORAL' are also be treated as seperate chapters.
+        These do not require numbers, but do require the dot.
+        Again the heading can optionaly be followed by a title; the title must not break onto a new line.
+        Here are some examples
+        \begin{verbatim} PREFACE.\end{verbatim}
+        \begin{verbatim} INTRODUCTION.\end{verbatim}
+        \begin{verbatim} PROLOGUE. THE OLYMPIANS\end{verbatim}
+        \begin{verbatim} MORAL.--_There is no moral to this chapter._\end{verbatim}
+        In all cases there must be no space at the beginning of the line.
+    \item Part headings are on a line before the first chapter of that part, in the same format. Blank lines are allowed between the part heading and the chapter heading.
+          The following example is from Treasure Island
+      \begin{verbatim}PART TWO. The Sea-cook
+
+CHAPTER 7. I Go to Bristol
+
+IT was longer than the squire imagined ere we were ready for the sea,
+and none of our first plans--not even Dr. Livesey's, of keeping me\end{verbatim}
 \end{itemize}
 
 Step \ref{lst:ascii_7} unifies the use of hyphens, apostrophes and quotes across the texts; 7-bit ASCII\footnote{\url{https://tools.ietf.org/html/rfc20}} is a subset of UTF-8\footnote{\url{https://tools.ietf.org/html/rfc3629}} and so the files may be treated as UTF-8.
