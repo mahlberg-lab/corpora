@@ -1556,7 +1556,7 @@ for when looking on at her attendant’s busy hands, and asking to be sung
 to, or to hear tales of the active, busy scenes of the city life—the
 dresses, fairs, festivals, and guild processions.
 
-[Picture: “She was too young and too delicate to reject civilization, and
+[“She was too young and too delicate to reject civilization, and
  she let Christina braid her hair, bathe her, and arrange her dress, with
       sensations of comfort that were almost like health.”—Page 37]
 
@@ -4842,7 +4842,7 @@ father’s mother; but henceforth mine own lady-mother is the mistress of
 this castle, and whoever speaks a rude word to her offends the Freiherr
 von Adlerstein.”
 
-   [Picture: “‘Henceforth mine own lady-mother is the mistress of this
+   [“‘Henceforth mine own lady-mother is the mistress of this
   castle, and whoever speaks a rude word to her offends the Freiherr von
                           Adlerstein’”—Page 126]
 
@@ -10374,7 +10374,7 @@ there before.
 “No; only I saw that you stayed here all alone,” she said, clasping her
 hands.
 
-  [Picture: “‘No; only I saw that you stayed here all alone,’ she said,
+  [“‘No; only I saw that you stayed here all alone,’ she said,
                      clasping her hands.”  Page 269]
 
 “Must I not be alone, child?” he said, bitterly.  “Here lies my brother.
