@@ -222,4 +222,11 @@ Example entry:
 \subsection{Repository Tags} \label{se:tags}
 TODO
 
+\subsection{Updating README.pdf} \label{se:update_readme}
+The README pdf is compiled with \texttt{latexmk}
+\begin{verbatim}
+sudo apt install latexmk texlive-latex-extra texlive-bibtex-extra biber
+latexmk --outdir=./build --pdf scripts/README.tex && cp build/README.pdf .
+\end{verbatim}
+
 \end{document}
