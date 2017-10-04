@@ -1,7 +1,7 @@
 ﻿The Moonstone
 Wilkie Collins
 
-CHAPTER I. PROLOGUE. THE STORMING OF SERINGAPATAM (1799)
+PART 0. PROLOGUE. THE STORMING OF SERINGAPATAM (1799)
 
 
 Extracted from a Family Paper
@@ -244,7 +244,7 @@ THE STORY.
 
 
 
-BOOK I. FIRST PERIOD: THE LOSS OF THE DIAMOND (1848)
+PART I. FIRST PERIOD: THE LOSS OF THE DIAMOND (1848)
 
 
 The events related by GABRIEL BETTEREDGE, house-steward in the service
@@ -8335,14 +8335,14 @@ THE END OF THE FIRST PERIOD.
 
 
 
-BOOK II. SECOND PERIOD: THE DISCOVERY OF THE TRUTH (1848-1849)
+PART II. SECOND PERIOD: THE DISCOVERY OF THE TRUTH (1848-1849)
 
 The events related in several narratives.
 
 
 
 
-FIRST NARRATIVE.
+PART II. FIRST NARRATIVE.
 
 Contributed by MISS CLACK; niece of the late SIR JOHN VERINDER
 
@@ -11569,7 +11569,7 @@ MISS JANE ANN STAMPER left her as a legacy by my will.
 
 
 
-SECOND NARRATIVE.
+PART II. SECOND NARRATIVE.
 
 Contributed by MATHEW BRUFF, Solicitor, of Gray’s Inn Square
 
@@ -12687,7 +12687,7 @@ to the writer who follows me next.
 
 
 
-THIRD NARRATIVE.
+PART II. THIRD NARRATIVE.
 
 Contributed by FRANKLIN BLAKE
 
@@ -20121,7 +20121,7 @@ at the late Lady Verinder’s house.
 
 
 
-III
+CHAPTER III.
 
 With regard to the subject now in hand, I may state, at the outset, that
 Mr. Godfrey Ablewhite’s life had two sides to it.
@@ -20634,7 +20634,7 @@ shut up the story.
 
 
 
-EPILOGUE: THE FINDING OF THE DIAMOND.
+PART IV. EPILOGUE: THE FINDING OF THE DIAMOND.
 
 
 
