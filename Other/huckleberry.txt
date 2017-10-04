@@ -1,7 +1,7 @@
 ﻿Adventures of Huckleberry Finn, Complete
 Mark Twain
 
-EXPLANATORY
+EXPLANATORY.
 
 IN this book a number of dialects are used, to wit:  the Missouri negro
 dialect; the extremest form of the backwoods Southwestern dialect; the
@@ -11382,7 +11382,7 @@ was just as safe to not to.  So I never said nothing.
 
 
 
-CHAPTER THE LAST
+CHAPTER XLIII. THE LAST
 
 THE first time I catched Tom private I asked him what was his idea, time
 of the evasion?--what it was he’d planned to do if the evasion worked all

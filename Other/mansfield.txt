@@ -1,7 +1,7 @@
 ﻿Mansfield Park
 Jane Austen
 
-CHAPTER I
+CHAPTER I.
 
 About thirty years ago Miss Maria Ward, of Huntingdon, with only seven
 thousand pounds, had the good luck to captivate Sir Thomas Bertram, of
@@ -277,7 +277,7 @@ her children.
 
 
 
-CHAPTER II
+CHAPTER II.
 
 The little girl performed her long journey in safety; and at Northampton
 was met by Mrs. Norris, who thus regaled in the credit of being foremost
@@ -627,7 +627,7 @@ William: her heart was divided between the two.
 
 
 
-CHAPTER III
+CHAPTER III.
 
 The first event of any importance in the family was the death of Mr.
 Norris, which happened when Fanny was about fifteen, and necessarily
@@ -1000,7 +1000,7 @@ hypocrite.
 
 
 
-CHAPTER IV
+CHAPTER IV.
 
 Tom Bertram had of late spent so little of his time at home that he
 could be only nominally missed; and Lady Bertram was soon astonished
@@ -1324,7 +1324,7 @@ advantage.”
 
 
 
-CHAPTER V
+CHAPTER V.
 
 The young people were pleased with each other from the first. On each
 side there was much to attract, and their acquaintance soon promised as
@@ -1610,7 +1610,7 @@ Grant, and Fanny stays at home with _her_.”
 
 
 
-CHAPTER VI
+CHAPTER VI.
 
 Mr. Bertram set off for--------, and Miss Crawford was prepared to
 find a great chasm in their society, and to miss him decidedly in the
@@ -1996,7 +1996,7 @@ heard it all and said nothing.
 
 
 
-CHAPTER VII
+CHAPTER VII.
 
 “Well, Fanny, and how do you like Miss Crawford _now_?” said Edmund the
 next day, after thinking some time on the subject himself. “How did you
@@ -2414,7 +2414,7 @@ how to support herself.
 
 
 
-CHAPTER VIII
+CHAPTER VIII.
 
 Fanny’s rides recommenced the very next day; and as it was a pleasant
 fresh-feeling morning, less hot than the weather had lately been, Edmund
@@ -2694,7 +2694,7 @@ entrance.
 
 
 
-CHAPTER IX
+CHAPTER IX.
 
 Mr. Rushworth was at the door to receive his fair lady; and the whole
 party were welcomed by him with due attention. In the drawing-room they
@@ -3161,7 +3161,7 @@ listened till all sound of them had ceased.
 
 
 
-CHAPTER X
+CHAPTER X.
 
 A quarter of an hour, twenty minutes, passed away, and Fanny was still
 thinking of Edmund, Miss Crawford, and herself, without interruption
@@ -3504,7 +3504,7 @@ all.
 
 
 
-CHAPTER XI
+CHAPTER XI.
 
 The day at Sotherton, with all its imperfections, afforded the Miss
 Bertrams much more agreeable feelings than were derived from the letters
@@ -3760,7 +3760,7 @@ threats of catching cold.
 
 
 
-CHAPTER XII
+CHAPTER XII.
 
 Sir Thomas was to return in November, and his eldest son had duties to
 call him earlier home. The approach of September brought tidings of Mr.
@@ -3977,7 +3977,7 @@ nothing can stop her.”
 
 
 
-CHAPTER XIII
+CHAPTER XIII.
 
 The Honourable John Yates, this new friend, had not much to recommend
 him beyond habits of fashion and expense, and being the younger son of
@@ -4285,7 +4285,7 @@ project.
 
 
 
-CHAPTER XIV
+CHAPTER XIV.
 
 Fanny seemed nearer being right than Edmund had supposed. The business
 of finding a play that would suit everybody proved to be no trifle; and
@@ -4534,7 +4534,7 @@ Edmund would certainly make.
 
 
 
-CHAPTER XV
+CHAPTER XV.
 
 Miss Crawford accepted the part very readily; and soon after Miss
 Bertram’s return from the Parsonage, Mr. Rushworth arrived, and another
@@ -4933,7 +4933,7 @@ and by no means what I expected.”
 
 
 
-CHAPTER XVI
+CHAPTER XVI.
 
 It was not in Miss Crawford’s power to talk Fanny into any real
 forgetfulness of what had passed. When the evening was over, she went to
@@ -5171,7 +5171,7 @@ obliged to yield--no matter--it was all misery now.
 
 
 
-CHAPTER XVII
+CHAPTER XVII.
 
 It was, indeed, a triumphant day to Mr. Bertram and Maria. Such a
 victory over Edmund’s discretion had been beyond their hopes, and was
@@ -5369,7 +5369,7 @@ watching the behaviour, or guarding the happiness of his daughters.
 
 
 
-CHAPTER XVIII
+CHAPTER XVIII.
 
 Everything was now in a regular train: theatre, actors, actresses, and
 dresses, were all getting forward; but though no other great impediments
@@ -5662,7 +5662,7 @@ the hall at this moment.”
 
 
 
-CHAPTER XIX
+CHAPTER XIX.
 
 How is the consternation of the party to be described? To the greater
 number it was a moment of absolute horror. Sir Thomas in the house! All
@@ -6055,7 +6055,7 @@ preserving that good opinion a little longer.
 
 
 
-CHAPTER XX
+CHAPTER XX.
 
 Edmund’s first object the next morning was to see his father alone, and
 give him a fair statement of the whole acting scheme, defending his own
@@ -6320,7 +6320,7 @@ happened to be particularly in want of green baize.
 
 
 
-CHAPTER XXI
+CHAPTER XXI.
 
 Sir Thomas’s return made a striking change in the ways of the family,
 independent of Lovers’ Vows. Under his government, Mansfield was an
@@ -6612,7 +6612,7 @@ affectionate regret which they had never done much to deserve!
 
 
 
-CHAPTER XXII
+CHAPTER XXII.
 
 Fanny’s consequence increased on the departure of her cousins. Becoming,
 as she then did, the only young woman in the drawing-room, the only
@@ -7011,7 +7011,7 @@ other.
 
 
 
-CHAPTER XXIII
+CHAPTER XXIII.
 
 “But why should Mrs. Grant ask Fanny?” said Lady Bertram. “How came she
 to think of asking Fanny? Fanny never dines there, you know, in this
@@ -7428,7 +7428,7 @@ no harm.
 
 
 
-CHAPTER XXIV
+CHAPTER XXIV.
 
 Henry Crawford had quite made up his mind by the next morning to give
 another fortnight to Mansfield, and having sent for his hunters, and
@@ -7711,7 +7711,7 @@ use again; and the next, with the greatest cordiality, and in a manner
 not to be resisted, made over to his use entirely so long as he remained
 in Northamptonshire.
 
-CHAPTER XXV
+CHAPTER XXV.
 
 The intercourse of the two families was at this period more nearly
 restored to what it had been in the autumn, than any member of the
@@ -8194,7 +8194,7 @@ obliged to be indebted to his more prominent attention.
 
 
 
-CHAPTER XXVI
+CHAPTER XXVI.
 
 William’s desire of seeing Fanny dance made more than a momentary
 impression on his uncle. The hope of an opportunity, which Sir Thomas
@@ -8477,7 +8477,7 @@ treading that path before.
 
 
 
-CHAPTER XXVII
+CHAPTER XXVII.
 
 On reaching home Fanny went immediately upstairs to deposit this
 unexpected acquisition, this doubtful good of a necklace, in some
@@ -8847,7 +8847,7 @@ themselves.
 
 
 
-CHAPTER XXVIII
+CHAPTER XXVIII.
 
 Her uncle and both her aunts were in the drawing-room when Fanny went
 down. To the former she was an interesting object, and he saw with
@@ -9162,7 +9162,7 @@ by shewing her persuadableness.
 
 
 
-CHAPTER XXIX
+CHAPTER XXIX.
 
 The ball was over, and the breakfast was soon over too; the last kiss
 was given, and William was gone. Mr. Crawford had, as he foretold, been
@@ -9449,7 +9449,7 @@ he is,” and turned the subject.
 
 
 
-CHAPTER XXX
+CHAPTER XXX.
 
 Miss Crawford’s uneasiness was much lightened by this conversation, and
 she walked home again in spirits which might have defied almost another
@@ -9692,7 +9692,7 @@ the world, to what I _shall_ do?”
 
 
 
-CHAPTER XXXI
+CHAPTER XXXI.
 
 Henry Crawford was at Mansfield Park again the next morning, and at an
 earlier hour than common visiting warrants. The two ladies were together
@@ -10038,7 +10038,7 @@ imposed on nor gratified by Mr. Crawford’s attentions.
 
 
 
-CHAPTER XXXII
+CHAPTER XXXII.
 
 Fanny had by no means forgotten Mr. Crawford when she awoke the next
 morning; but she remembered the purport of her note, and was not less
@@ -10536,7 +10536,7 @@ as she anticipated, in another minute alone with Mr. Crawford.
 
 
 
-CHAPTER XXXIII
+CHAPTER XXXIII.
 
 The conference was neither so short nor so conclusive as the lady had
 designed. The gentleman was not so easily satisfied. He had all the
@@ -10804,7 +10804,7 @@ did for Maria: the next time Pug has a litter you shall have a puppy.”
 
 
 
-CHAPTER XXXIV
+CHAPTER XXXIV.
 
 Edmund had great things to hear on his return. Many surprises were
 awaiting him. The first that occurred was not least in interest: the
@@ -11184,7 +11184,7 @@ to without some profit to the speaker.
 
 
 
-CHAPTER XXXV
+CHAPTER XXXV.
 
 Edmund had determined that it belonged entirely to Fanny to chuse
 whether her situation with regard to Crawford should be mentioned
@@ -11557,7 +11557,7 @@ house.
 
 
 
-CHAPTER XXXVI
+CHAPTER XXXVI.
 
 Edmund now believed himself perfectly acquainted with all that Fanny
 could tell, or could leave to be conjectured of her sentiments, and he
@@ -11885,7 +11885,7 @@ On the morrow the Crawfords were gone.
 
 
 
-CHAPTER XXXVII
+CHAPTER XXXVII.
 
 Mr. Crawford gone, Sir Thomas’s next object was that he should be
 missed; and he entertained great hope that his niece would find a blank
@@ -12184,7 +12184,7 @@ William and Fanny were talked of as already advanced one stage.
 
 
 
-CHAPTER XXXVIII
+CHAPTER XXXVIII.
 
 The novelty of travelling, and the happiness of being with William, soon
 produced their natural effect on Fanny’s spirits, when Mansfield Park
@@ -12628,7 +12628,7 @@ reckoned too small for anybody’s comfort.
 
 
 
-CHAPTER XXXIX
+CHAPTER XXXIX.
 
 Could Sir Thomas have seen all his niece’s feelings, when she wrote her
 first letter to her aunt, he would not have despaired; for though a good
@@ -12780,7 +12780,7 @@ Park might have some pains, Portsmouth could have no pleasures.
 
 
 
-CHAPTER XL
+CHAPTER XL.
 
 Fanny was right enough in not expecting to hear from Miss Crawford now
 at the rapid rate in which their correspondence had begun; Mary’s next
@@ -12975,7 +12975,7 @@ the idea for even half an hour, it was something gained.
 
 
 
-CHAPTER XLI
+CHAPTER XLI.
 
 A week was gone since Edmund might be supposed in town, and Fanny had
 heard nothing of him. There were three different conclusions to be drawn
@@ -13249,7 +13249,7 @@ luxury and epicurism.
 
 
 
-CHAPTER XLII
+CHAPTER XLII.
 
 The Prices were just setting off for church the next day when Mr.
 Crawford appeared again. He came, not to stop, but to join them; he was
@@ -13468,7 +13468,7 @@ that he would not much longer persevere in a suit so distressing to her?
 
 
 
-CHAPTER XLIII
+CHAPTER XLIII.
 
 It was presumed that Mr. Crawford was travelling back, to London, on the
 morrow, for nothing more was seen of him at Mr. Price’s; and two days
@@ -13625,7 +13625,7 @@ entering into a plan of that sort most pleasantly.
 
 
 
-CHAPTER XLIV
+CHAPTER XLIV.
 
 Seven weeks of the two months were very nearly gone, when the one
 letter, the letter from Edmund, so long expected, was put into Fanny’s
@@ -13903,7 +13903,7 @@ them so well provided for.
 
 
 
-CHAPTER XLV
+CHAPTER XLV.
 
 At about the week’s end from his return to Mansfield, Tom’s immediate
 danger was over, and he was so far pronounced safe as to make his mother
@@ -14157,7 +14157,7 @@ upon. She had only learnt to think nothing of consequence but money.
 
 
 
-CHAPTER XLVI
+CHAPTER XLVI.
 
 As Fanny could not doubt that her answer was conveying a real
 disappointment, she was rather in expectation, from her knowledge of
@@ -14509,7 +14509,7 @@ to meet her; came with no indolent step; and falling on her neck, said,
 
 
 
-CHAPTER XLVII
+CHAPTER XLVII.
 
 It had been a miserable party, each of the three believing themselves
 most miserable. Mrs. Norris, however, as most attached to Maria, was
@@ -14915,7 +14915,7 @@ indignation. Fanny’s friendship was all that he had to cling to.
 
 
 
-CHAPTER XLVIII
+CHAPTER XLVIII.
 
 Let other pens dwell on guilt and misery. I quit such odious subjects
 as soon as I can, impatient to restore everybody, not greatly in fault

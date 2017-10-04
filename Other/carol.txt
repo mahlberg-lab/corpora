@@ -1,7 +1,7 @@
 ﻿A Christmas Carol: A Ghost Story of Christmas
 Charles Dickens
 
-PREFACE
+PREFACE.
 
 I HAVE endeavoured in this Ghostly little book,
 to raise the Ghost of an Idea, which shall not put my
@@ -15,7 +15,7 @@ December, 1843.
 
 
 
-STAVE I:  MARLEY'S GHOST
+CHAPTER I. STAVE I:  MARLEY'S GHOST
 
 MARLEY was dead: to begin with. There is no doubt
 whatever about that. The register of his burial was
@@ -961,7 +961,7 @@ bed, without undressing, and fell asleep upon the
 instant.
 
 
-STAVE II:  THE FIRST OF THE THREE SPIRITS
+CHAPTER III. STAVE II:  THE FIRST OF THE THREE SPIRITS
 
 WHEN Scrooge awoke, it was so dark, that looking out of bed,
 he could scarcely distinguish the transparent window from
@@ -1761,7 +1761,7 @@ relaxed; and had barely time to reel to bed, before he sank
 into a heavy sleep.
 
 
-STAVE III:  THE SECOND OF THE THREE SPIRITS
+CHAPTER III. STAVE III:  THE SECOND OF THE THREE SPIRITS
 
 AWAKING in the middle of a prodigiously tough snore, and
 sitting up in bed to get his thoughts together, Scrooge had
@@ -2762,7 +2762,7 @@ beheld a solemn Phantom, draped and hooded, coming, like
 a mist along the ground, towards him.
 
 
-STAVE IV:  THE LAST OF THE SPIRITS
+CHAPTER IV. STAVE IV:  THE LAST OF THE SPIRITS
 
 THE Phantom slowly, gravely, silently, approached. When
 it came near him, Scrooge bent down upon his knee; for in
@@ -3502,7 +3502,7 @@ reversed, he saw an alteration in the Phantom's hood and dress.
 It shrunk, collapsed, and dwindled down into a bedpost.
 
 
-STAVE V:  THE END OF IT
+CHAPTER V. STAVE V:  THE END OF IT
 
 YES! and the bedpost was his own. The bed was his own,
 the room was his own. Best and happiest of all, the Time

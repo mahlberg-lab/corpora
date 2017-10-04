@@ -1,9 +1,7 @@
 ﻿The Moonstone
 Wilkie Collins
 
-PROLOGUE
-
-THE STORMING OF SERINGAPATAM (1799)
+PROLOGUE. THE STORMING OF SERINGAPATAM (1799)
 
 
 Extracted from a Family Paper
@@ -30,7 +28,7 @@ Palace of Seringapatam.
 
 
 
-II
+CHAPTER II.
 
 
 One of the wildest of these stories related to a Yellow Diamond--a
@@ -109,7 +107,7 @@ those three men report pointed as the three priests in disguise.
 
 
 
-III
+CHAPTER III.
 
 
 So, as told in our camp, ran the fanciful story of the Moonstone. It
@@ -203,7 +201,7 @@ I turned my back on him; and we have not spoken since.
 
 
 
-IV
+CHAPTER IV.
 
 
 I beg it to be understood that what I write here about my cousin (unless
@@ -241,14 +239,12 @@ gives the Diamond away.
 
 
 
-THE STORY
+THE STORY.
 
 
 
 
-FIRST PERIOD
-
-THE LOSS OF THE DIAMOND (1848)
+BOOK I. FIRST PERIOD: THE LOSS OF THE DIAMOND (1848)
 
 
 The events related by GABRIEL BETTEREDGE, house-steward in the service
@@ -256,7 +252,7 @@ of JULIA, LADY VERINDER.
 
 
 
-CHAPTER I
+CHAPTER I.
 
 
 In the first part of ROBINSON CRUSOE, at page one hundred and
@@ -351,7 +347,7 @@ again, with my best respects to you.
 
 
 
-CHAPTER II
+CHAPTER II.
 
 
 I spoke of my lady a line or two back. Now the Diamond could never have
@@ -514,7 +510,7 @@ your temper, and for me to begin it all over again for the third time.
 
 
 
-CHAPTER III
+CHAPTER III.
 
 
 The question of how I am to start the story properly I have tried to
@@ -789,7 +785,7 @@ seriously, you will understand, when I tell you that, in his opinion,
 
 
 
-CHAPTER IV
+CHAPTER IV.
 
 
 I am truly sorry to detain you over me and my beehive chair. A sleepy
@@ -1119,7 +1115,7 @@ found out the truth.
 
 
 
-CHAPTER V
+CHAPTER V.
 
 
 The first thing I did, after we were left together alone, was to make a
@@ -1420,7 +1416,7 @@ wanted a whiff of my pipe, and a turn at ROBINSON CRUSOE.
 
 
 
-CHAPTER VI
+CHAPTER VI.
 
 
 Keeping my private sentiments to myself, I respectfully requested Mr.
@@ -1878,7 +1874,7 @@ ask myself if I hadn’t woke up from a dream.
 
 
 
-CHAPTER VII
+CHAPTER VII.
 
 
 While I was in this bewildered frame of mind, sorely needing a little
@@ -2034,7 +2030,7 @@ way, on discovering the whereabouts of the Diamond that night.
 
 
 
-CHAPTER VIII
+CHAPTER VIII.
 
 
 Here, for one moment, I find it necessary to call a halt.
@@ -2442,7 +2438,7 @@ straight into the thick of the story.
 
 
 
-CHAPTER IX
+CHAPTER IX.
 
 
 June twenty-first, the day of the birthday, was cloudy and unsettled at
@@ -2697,7 +2693,7 @@ mother--Mr. and Mrs. Ablewhite.
 
 
 
-CHAPTER X
+CHAPTER X.
 
 
 One on the top of the other the rest of the company followed the
@@ -3203,7 +3199,7 @@ The next thing to tell is the story of the night.
 
 
 
-CHAPTER XI
+CHAPTER XI.
 
 
 When the last of the guests had driven away, I went back into the inner
@@ -4005,7 +4001,7 @@ shall presently see.
 
 
 
-CHAPTER XII
+CHAPTER XII.
 
 
 The Thursday night passed, and nothing happened. With the Friday morning
@@ -4516,7 +4512,7 @@ all put together yet.”
 
 
 
-CHAPTER XIII
+CHAPTER XIII.
 
 
 I found my lady in her own sitting room. She started and looked annoyed
@@ -4788,7 +4784,7 @@ roses.”
 
 
 
-CHAPTER XIV
+CHAPTER XIV.
 
 
 The nearest way to the garden, on going out of my lady’s sitting-room,
@@ -5156,7 +5152,7 @@ forth for the Shivering Sand.
 
 
 
-CHAPTER XV
+CHAPTER XV.
 
 
 The Sergeant remained silent, thinking his own thoughts, till we entered
@@ -5735,7 +5731,7 @@ in.
 
 
 
-CHAPTER XVI
+CHAPTER XVI.
 
 
 We found my lady with no light in the room but the reading-lamp. The
@@ -6123,7 +6119,7 @@ had condemned himself to pass the night.
 
 
 
-CHAPTER XVII
+CHAPTER XVII.
 
 
 Nothing happened in the night; and (I am happy to add) no attempt at
@@ -6439,7 +6435,7 @@ had returned from Frizinghall.
 
 
 
-CHAPTER XVIII
+CHAPTER XVIII.
 
 
 Going down to the front door, I met the Sergeant on the steps.
@@ -6736,7 +6732,7 @@ got a new light thrown on the missing girl.
 
 
 
-CHAPTER XIX
+CHAPTER XIX.
 
 
 The news of Rosanna’s disappearance had, as it appeared, spread among
@@ -6946,7 +6942,7 @@ were waiting for us at the house.
 
 
 
-CHAPTER XX
+CHAPTER XX.
 
 
 Those in front had spread the news before us. We found the servants in
@@ -7078,7 +7074,7 @@ worst he could say to her.
 
 
 
-CHAPTER XXI
+CHAPTER XXI.
 
 
 The first words, when we had taken our seats, were spoken by my lady.
@@ -7487,7 +7483,7 @@ drove off to Frizinghall.
 
 
 
-CHAPTER XXII
+CHAPTER XXII.
 
 
 My mistress having left us, I had leisure to think of Sergeant Cuff.
@@ -7862,7 +7858,7 @@ we shall enjoy ourselves on both sides a few pages further on!
 
 
 
-CHAPTER XXIII
+CHAPTER XXIII.
 
 
 I had kept the pony chaise ready, in case Mr. Franklin persisted in
@@ -8339,22 +8335,20 @@ THE END OF THE FIRST PERIOD.
 
 
 
-SECOND PERIOD
-
-THE DISCOVERY OF THE TRUTH (1848-1849)
+BOOK II. SECOND PERIOD: THE DISCOVERY OF THE TRUTH (1848-1849)
 
 The events related in several narratives.
 
 
 
 
-FIRST NARRATIVE
+FIRST NARRATIVE.
 
 Contributed by MISS CLACK; niece of the late SIR JOHN VERINDER
 
 
 
-CHAPTER I
+CHAPTER I.
 
 
 I am indebted to my dear parents (both now in heaven) for having had
@@ -8801,7 +8795,7 @@ opened the door, and announced Mr. Godfrey Ablewhite.
 
 
 
-CHAPTER II
+CHAPTER II.
 
 
 Mr. Godfrey followed the announcement of his name--as Mr. Godfrey does
@@ -9294,7 +9288,7 @@ longer.
 
 
 
-CHAPTER III
+CHAPTER III.
 
 
 Consideration for poor Lady Verinder forbade me even to hint that I had
@@ -9707,7 +9701,7 @@ again.
 
 
 
-CHAPTER IV
+CHAPTER IV.
 
 
 The signing of the Will was a much shorter matter than I had
@@ -10032,7 +10026,7 @@ them was Mr. Godfrey Ablewhite’s.
 
 
 
-CHAPTER V
+CHAPTER V.
 
 
 My hand dropped from the curtain. But don’t suppose--oh, don’t
@@ -10420,7 +10414,7 @@ legacy.
 
 
 
-CHAPTER VI
+CHAPTER VI.
 
 
 (1.) “Miss Clack presents her compliments to Mr. Franklin Blake; and, in
@@ -10492,7 +10486,7 @@ series of her Extracts to Mr. Franklin Blake.”
 
 
 
-CHAPTER VII
+CHAPTER VII.
 
 
 The foregoing correspondence will sufficiently explain why no choice
@@ -10946,7 +10940,7 @@ I can answer for nothing more.
 
 
 
-CHAPTER VIII
+CHAPTER VIII.
 
 
 “I have lost a beautiful girl, an excellent social position, and a
@@ -11575,11 +11569,11 @@ MISS JANE ANN STAMPER left her as a legacy by my will.
 
 
 
-SECOND NARRATIVE
+SECOND NARRATIVE.
 
 Contributed by MATHEW BRUFF, Solicitor, of Gray’s Inn Square
 
-CHAPTER I
+CHAPTER I.
 
 
 My fair friend, Miss Clack, having laid down the pen, there are two
@@ -12064,7 +12058,7 @@ old friends, on either side.
 
 
 
-CHAPTER II
+CHAPTER II.
 
 
 The next thing I have to do, is to present such additional information
@@ -12269,7 +12263,7 @@ discovery, meant, on this particular occasion, one and the same thing.
 
 
 
-CHAPTER III
+CHAPTER III.
 
 
 The prominent personage among the guests at the dinner party I found to
@@ -12693,13 +12687,13 @@ to the writer who follows me next.
 
 
 
-THIRD NARRATIVE
+THIRD NARRATIVE.
 
 Contributed by FRANKLIN BLAKE
 
 
 
-CHAPTER I
+CHAPTER I.
 
 
 In the spring of the year eighteen hundred and forty-nine I was
@@ -12903,7 +12897,7 @@ could trust myself to speak to him.
 
 
 
-CHAPTER II
+CHAPTER II.
 
 
 “Betteredge!” I said, pointing to the well-remembered book on his knee,
@@ -13243,7 +13237,7 @@ We descended the path that led to the Farm.
 
 
 
-CHAPTER III
+CHAPTER III.
 
 
 I have only the most indistinct recollection of what happened at
@@ -13613,7 +13607,7 @@ paint-stain, I had discovered Myself as the Thief.
 
 
 
-CHAPTER IV
+CHAPTER IV.
 
 
 I have not a word to say about my own sensations.
@@ -14220,7 +14214,7 @@ Jennings.”
 
 
 
-CHAPTER V
+CHAPTER V.
 
 
 Having told me the name of Mr. Candy’s assistant, Betteredge appeared to
@@ -14563,7 +14557,7 @@ for the slow and toilsome journey from the darkness to the light.
 
 
 
-CHAPTER VI
+CHAPTER VI.
 
 
 I walked to the railway station accompanied, it is needless to say, by
@@ -14972,7 +14966,7 @@ After the lapse of a minute, I roused my manhood, and opened the door.
 
 
 
-CHAPTER VII
+CHAPTER VII.
 
 
 At the moment when I showed myself in the doorway, Rachel rose from the
@@ -15608,7 +15602,7 @@ garden again. I saw her, and heard her, no more.
 
 
 
-CHAPTER VIII
+CHAPTER VIII.
 
 
 Late that evening, I was surprised at my lodgings by a visit from Mr.
@@ -16190,7 +16184,7 @@ I turned round, and found myself face to face with Ezra Jennings.
 
 
 
-CHAPTER IX
+CHAPTER IX.
 
 
 The doctor’s pretty housemaid stood waiting for me, with the street door
@@ -16814,7 +16808,7 @@ The man on the high road hailed him again. He hurried away, and left me.
 
 
 
-CHAPTER X
+CHAPTER X.
 
 
 How the interval of suspense in which I was now condemned might
@@ -19129,13 +19123,13 @@ a happy time.
 
 
 
-FIFTH NARRATIVE
+FIFTH NARRATIVE.
 
 The Story Resumed by FRANKLIN BLAKE
 
 
 
-CHAPTER I
+CHAPTER I.
 
 
 But few words are needed, on my part, to complete the narrative that has
@@ -20457,7 +20451,7 @@ CUFF (late sergeant in the Detective Force, Scotland Yard, London).*
 
 
 
-SEVENTH NARRATIVE
+SEVENTH NARRATIVE.
 
 In a Letter from MR. CANDY
 
@@ -20546,7 +20540,7 @@ THOMAS CANDY.
 
 
 
-EIGHTH NARRATIVE
+EIGHTH NARRATIVE.
 
 Contributed by GABRIEL BETTEREDGE
 
@@ -20640,14 +20634,12 @@ shut up the story.
 
 
 
-EPILOGUE
-
-THE FINDING OF THE DIAMOND
+EPILOGUE: THE FINDING OF THE DIAMOND.
 
 
 
 
-I
+CHAPTER I.
 
 The Statement of SERGEANT CUFF’S MAN (1849)
 
@@ -20688,7 +20680,7 @@ heard nothing more of it since that time.
 
 
 
-II
+CHAPTER II.
 
 The Statement of THE CAPTAIN (1849)
 
@@ -20744,7 +20736,7 @@ Hindoos. I have no more to add to what is here written.
 
 
 
-III
+CHAPTER III.
 
 The Statement of MR. MURTHWAITE (1850)
 
