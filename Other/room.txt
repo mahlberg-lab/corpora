@@ -1,11 +1,11 @@
 ﻿A Room With A View
 E. M. Forster
 
-PART ONE.
+PART 1.
 
 
 
-Chapter I. The Bertolini
+CHAPTER I. The Bertolini
 
 “The Signora had no business to do it,” said Miss Bartlett, “no business
 at all. She promised us south rooms with a view close together, instead
@@ -489,7 +489,7 @@ heavily according to her habit, and went to bed.
 
 
 
-Chapter II. In Santa Croce with No Baedeker
+CHAPTER II. In Santa Croce with No Baedeker
 
 It was pleasant to wake up in Florence, to open the eyes upon a bright
 bare room, with a floor of red tiles which look clean though they are
@@ -1081,7 +1081,7 @@ She joined her cousin.
 
 
 
-Chapter III. Music, Violets, and the Letter “S”
+CHAPTER III. Music, Violets, and the Letter “S”
 
 It so happened that Lucy, who found daily life rather chaotic, entered
 a more solid world when she opened the piano. She was then no longer
@@ -1463,7 +1463,7 @@ Beethoven.”
 
 
 
-Chapter IV. Fourth Chapter
+CHAPTER IV. Fourth Chapter
 
 Mr. Beebe was right. Lucy never knew her desires so clearly as after
 music. She had not really appreciated the clergyman’s wit, nor the
@@ -1740,7 +1740,7 @@ whose roar was suggesting some unexpected melody to her ears.
 
 
 
-Chapter V. Possibilities of a Pleasant Outing
+CHAPTER V. Possibilities of a Pleasant Outing
 
 It was a family saying that “you never knew which way Charlotte Bartlett
 would turn.” She was perfectly pleasant and sensible over Lucy’s
@@ -2237,10 +2237,7 @@ over the unpractical suggestion.
 
 
 
-Chapter VI. The Reverend Arthur Beebe, the Reverend Cuthbert Eager,
-Mr. Emerson, Mr. George Emerson, Miss Eleanor Lavish, Miss Charlotte
-Bartlett, and Miss Lucy Honeychurch Drive Out in Carriages to See a
-View; Italians Drive Them.
+CHAPTER VI. The Reverend Arthur Beebe, the Reverend Cuthbert Eager, Mr. Emerson, Mr. George Emerson, Miss Eleanor Lavish, Miss Charlotte Bartlett, and Miss Lucy Honeychurch Drive Out in Carriages to See a View; Italians Drive Them.
 
 It was Phaethon who drove them to Fiesole that memorable day, a youth
 all irresponsibility and fire, recklessly urging his master’s horses up
@@ -2660,7 +2657,7 @@ who stood brown against the view.
 
 
 
-Chapter VII. They Return
+CHAPTER VII. They Return
 
 Some complicated game had been playing up and down the hillside all the
 afternoon. What it was and exactly how the players had sided, Lucy
@@ -3133,10 +3130,10 @@ In the morning they left for Rome.
 
 
 
-PART TWO.
+PART 2.
 
 
-Chapter VIII. Medieval
+CHAPTER VIII. Medieval
 
 The drawing-room curtains at Windy Corner had been pulled to meet, for
 the carpet was new and deserved protection from the August sun. They
@@ -3722,7 +3719,7 @@ worshippers should, for the disclosure of some holier shrine of joy.
 
 
 
-Chapter IX. Lucy As a Work of Art
+CHAPTER IX. Lucy As a Work of Art
 
 A few days after the engagement was announced Mrs. Honeychurch made Lucy
 and her Fiasco come to a little garden-party in the neighbourhood, for
@@ -4316,7 +4313,7 @@ ever had.
 
 
 
-Chapter X. Cecil as a Humourist
+CHAPTER X. Cecil as a Humourist
 
 The society out of which Cecil proposed to rescue Lucy was perhaps no
 very splendid affair, yet it was more splendid than her antecedents
@@ -4666,7 +4663,7 @@ bring them to Windy Corner.
 
 
 
-Chapter XI. In Mrs. Vyse’s Well-Appointed Flat
+CHAPTER XI. In Mrs. Vyse’s Well-Appointed Flat
 
 The Comic Muse, though able to look after her own interests, did not
 disdain the assistance of Mr. Vyse. His idea of bringing the Emersons to
@@ -4872,7 +4869,7 @@ Darkness enveloped the flat.
 
 
 
-Chapter XII. Twelfth Chapter
+CHAPTER XII. Twelfth Chapter
 
 It was a Saturday afternoon, gay and brilliant after abundant rains, and
 the spirit of youth dwelt in it, though the season was now autumn. All
@@ -5310,7 +5307,7 @@ youth.
 
 
 
-Chapter XIII. How Miss Bartlett’s Boiler Was So Tiresome
+CHAPTER XIII. How Miss Bartlett’s Boiler Was So Tiresome
 
 How often had Lucy rehearsed this bow, this interview! But she had
 always rehearsed them indoors, and with certain accessories, which
@@ -5655,7 +5652,7 @@ dessert.”
 
 
 
-Chapter XIV. How Lucy Faced the External Situation Bravely
+CHAPTER XIV. How Lucy Faced the External Situation Bravely
 
 Of course Miss Bartlett accepted. And, equally of course, she felt sure
 that she would prove a nuisance, and begged to be given an inferior
@@ -5909,7 +5906,7 @@ brain.
 
 
 
-Chapter XV. The Disaster Within
+CHAPTER XV. The Disaster Within
 
 The Sunday after Miss Bartlett’s arrival was a glorious day, like most
 of the days of that year. In the Weald, autumn approached, breaking up
@@ -6474,7 +6471,7 @@ reached the upper lawn alone.
 
 
 
-Chapter XVI. Lying to George
+CHAPTER XVI. Lying to George
 
 But Lucy had developed since the spring. That is to say, she was now
 better able to stifle the emotions of which the conventions and the
@@ -6820,7 +6817,7 @@ engagement.
 
 
 
-Chapter XVII. Lying to Cecil
+CHAPTER XVII. Lying to Cecil
 
 He was bewildered. He had nothing to say. He was not even angry, but
 stood, with a glass of whiskey between his hands, trying to think what
@@ -7054,8 +7051,7 @@ received her, as it had received Miss Bartlett thirty years before.
 
 
 
-Chapter XVIII. Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and The
-Servants
+CHAPTER XVIII. Lying to Mr. Beebe, Mrs. Honeychurch, Freddy, and The Servants
 
 Windy Corner lay, not on the summit of the ridge, but a few hundred feet
 down the southern slope, at the springing of one of the great buttresses
@@ -7699,7 +7695,7 @@ beacon in the roaring tides of darkness.
 
 
 
-Chapter XIX. Lying to Mr. Emerson
+CHAPTER XIX. Lying to Mr. Emerson
 
 The Miss Alans were found in their beloved temperance hotel near
 Bloomsbury--a clean, airless establishment much patronized by provincial
@@ -8356,7 +8352,7 @@ everything at once.”
 
 
 
-Chapter XX. The End of the Middle Ages
+CHAPTER XX. The End of the Middle Ages
 
 The Miss Alans did go to Greece, but they went by themselves. They alone
 of this little company will double Malea and plough the waters of the
