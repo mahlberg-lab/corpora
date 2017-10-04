@@ -1,103 +1,6 @@
-﻿The Project Gutenberg EBook of Twelve Years a Slave, by Solomon Northup
+﻿Twelve Years a Slave: Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: Twelve Years a Slave
-       Narrative of Solomon Northup, a Citizen of New-York,
-       Kidnapped in Washington City in 1841, and Rescued in 1853,
-       from a Cotton Plantation near the Red River in Louisiana
-
-Author: Solomon Northup
-
-Release Date: May 11, 2014 [EBook #45631]
-
-Language: English
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK TWELVE YEARS A SLAVE ***
-
-
-
-
-Produced by Richard J. Shiffer and the Distributed
-Proofreading volunteers at http://www.pgdp.net for Project
-Gutenberg. (This file was produced from images generously
-made available by The Internet Archive.)
-
-
-
-
-
-[Transcriber's Note: Every effort has been made to replicate this
-text as faithfully as possible, including obsolete and variant
-spellings and other inconsistencies. Text that has been changed is
-noted at the end of this ebook.]
-
-
-
-
-[Illustration: SOLOMON IN HIS PLANTATION SUIT.
-
-Solomon Northup (signed)]
-
-
-
-
-  FIFTH THOUSAND.
-
-
-  TWELVE YEARS A SLAVE.
-
-
-  NARRATIVE
-
-  OF
-
-  SOLOMON NORTHUP,
-
-  A CITIZEN OF NEW-YORK,
-
-  KIDNAPPED IN WASHINGTON CITY IN 1841,
-
-  AND
-
-  RESCUED IN 1853,
-
-  FROM A COTTON PLANTATION NEAR THE RED RIVER,
-  IN LOUISIANA.
-
-
-  AUBURN:
-  DERBY AND MILLER.
-
-  BUFFALO:
-  DERBY, ORTON AND MULLIGAN.
-
-  LONDON:
-  SAMPSON LOW, SON & COMPANY, 47 LUDGATE HILL.
-
-  1853.
-
-
-
-
-Entered according to Act of Congress, in the year one thousand eight
-hundred and fifty-three, by
-
-DERBY AND MILLER,
-
-In the Clerk's Office of the District Court of the Northern District
-of New-York.
-
-
-ENTERED IN LONDON AT STATIONERS' HALL.
-
-
-
+Solomon Northup
 
 TO
 
@@ -135,380 +38,7 @@ IS RESPECTFULLY DEDICATED
 
                                              COWPER.
 
-
-
-
-CONTENTS.
-
-
-                                                                  PAGE.
-
-  EDITOR'S PREFACE,                                                  15
-
-
-  CHAPTER I.
-
-  Introductory--Ancestry--The Northup Family--Birth and
-  Parentage--Mintus Northup--Marriage with Anne Hampton--Good
-  Resolutions--Champlain Canal--Rafting Excursion to
-  Canada--Farming--The Violin--Cooking--Removal to Saratoga--Parker
-  and Perry--Slaves and Slavery--The Children--The Beginning of
-  Sorrow,                                                            17
-
-
-  CHAPTER II.
-
-  The two Strangers--The Circus Company--Departure from
-  Saratoga--Ventriloquism and Legerdemain--Journey to New-York--Free
-  Papers--Brown and Hamilton--The haste to reach the Circus--Arrival
-  in Washington--Funeral of Harrison--The Sudden Sickness--The
-  Torment of Thirst--The Receding Light--Insensibility--Chains and
-  Darkness,                                                          28
-
-
-  CHAPTER III.
-
-  Painful Meditations--James H. Burch--Williams' Slave Pen in
-  Washington--The Lackey, Radburn--Assert my Freedom--The Anger of
-  the Trader--The Paddle and Cat-o'-nine-tails--The Whipping--New
-  Acquaintances--Ray, Williams, and Randall--Arrival of Little Emily
-  and her Mother in the Pen--Maternal Sorrows--The Story of Eliza,
-                                                                     40
-
-
-  CHAPTER IV.
-
-  Eliza's Sorrows--Preparation to Embark--Driven Through the Streets
-  of Washington--Hail, Columbia--The Tomb of Washington--Clem
-  Ray--The Breakfast on the Steamer--The happy Birds--Aquia
-  Creek--Fredericksburgh--Arrival in Richmond--Goodin and his
-  Slave Pen--Robert, of Cincinnati--David and his Wife--Mary and
-  Lethe--Clem's Return--His subsequent Escape to Canada--The Brig
-  Orleans--James H. Burch,                                           54
-
-
-  CHAPTER V.
-
-  Arrival at Norfolk--Frederick and Maria--Arthur, the
-  Freeman--Appointed Steward--Jim, Cuffee, and Jenny--The
-  Storm--Bahama Banks--The Calm--The Conspiracy--The Long Boat--The
-  Small-Pox--Death of Robert--Manning, the Sailor--The Meeting in
-  the Forecastle--The Letter--Arrival at New-Orleans--Arthur's
-  Rescue--Theophilus Freeman, the Consignee--Platt--First Night in
-  the New-Orleans Slave Pen,                                         65
-
-
-  CHAPTER VI.
-
-  Freeman's Industry--Cleanliness and Clothes--Exercising
-  in the Show Room--The Dance--Bob, the Fiddler--Arrival of
-  Customers--Slaves Examined--The Old Gentleman of New-Orleans--Sale
-  of David, Caroline, and Lethe--Parting of Randall and
-  Eliza--Small-Pox--The Hospital--Recovery and Return to Freeman's
-  Slave Pen--The Purchaser of Eliza, Harry, and Platt--Eliza's Agony
-  on Parting from Little Emily,                                      78
-
-
-  CHAPTER VII.
-
-  The Steamboat Rodolph--Departure from New-Orleans--William
-  Ford--Arrival at Alexandria, on Red River--Resolutions--The Great
-  Pine Woods--Wild Cattle--Martin's Summer Residence--The Texas
-  Road--Arrival at Master Ford's--Rose--Mistress Ford--Sally and
-  her Children--John, the Cook--Walter, Sam, and Antony--The Mills
-  on Indian Creek--Sabbath Days--Sam's Conversion--The Profit of
-  Kindness--Rafting--Adam Taydem, the Little White Man--Cascalla
-  and his Tribe--The Indian Ball--John M. Tibeats--The Storm
-  approaching,                                                       89
-
-
-  CHAPTER VIII.
-
-  Ford's Embarrassments--The Sale to Tibeats--The Chattel
-  Mortgage--Mistress Ford's Plantation on Bayou Boeuf--Description
-  of the Latter--Ford's Brother-in-law, Peter Tanner--Meeting
-  with Eliza--She still Mourns for her Children--Ford's Overseer,
-  Chapin--Tibeats' Abuse--The Keg of Nails--The First Fight with
-  Tibeats--His Discomfiture and Castigation--The attempt to Hang
-  me--Chapin's Interference and Speech--Unhappy Reflections--Abrupt
-  Departure of Tibeats, Cook, and Ramsey--Lawson and the Brown
-  Mule--Message to the Pine Woods,                                  105
-
-
-  CHAPTER IX.
-
-  The Hot Sun--Yet bound--The Cords sink into my Flesh--Chapin's
-  Uneasiness--Speculation--Rachel, and her Cup of Water--Suffering
-  increases--The Happiness of Slavery--Arrival of Ford--He cuts the
-  Cords which bind me, and takes the Rope from my Neck--Misery--The
-  gathering of the Slaves in Eliza's Cabin--Their Kindness--Rachel
-  Repeats the Occurrences of the Day--Lawson entertains his
-  Companions with an Account of his Ride--Chapin's apprehensions
-  of Tibeats--Hired to Peter Tanner--Peter expounds the
-  Scriptures--Description of the Stocks,                            118
-
-
-  CHAPTER X.
-
-  Return to Tibeats--Impossibility of pleasing him--He attacks me
-  with a Hatchet--The Struggle over the Broad Axe--The Temptation
-  to Murder him--Escape across the Plantation--Observations from
-  the Fence--Tibeats approaches, followed by the Hounds--They take
-  my Track--Their loud Yells--They almost overtake me--I reach the
-  Water--The Hounds confused--Moccasin Snakes--Alligators--Night
-  in the "Great Pacoudrie Swamp"--The Sounds of Life--North-West
-  Course--Emerge into the Pine Woods--Slave and his Young
-  Master--Arrival at Ford's--Food and Rest,                         131
-
-
-  CHAPTER XI.
-
-  The Mistress' Garden--The Crimson and Golden Fruit--Orange and
-  Pomegranate Trees--Return to Bayou Boeuf--Master Ford's Remarks on
-  the way--The Meeting-with Tibeats--His Account of the Chase--Ford
-  censures his Brutality--Arrival at the Plantation--Astonishment
-  of the Slaves on seeing me--The anticipated Flogging--Kentucky
-  John--Mr. Eldret, the Planter--Eldret's Sam--Trip to the
-  "Big Cane Brake"--The Tradition of "Sutton's Field"--Forest
-  Trees--Gnats and Mosquitoes--The Arrival of Black Women in the Big
-  Cane--Lumber Women--Sudden Appearance of Tibeats--His Provoking
-  Treatment--Visit to Bayou Boeuf--The Slave Pass--Southern
-  Hospitality--The Last of Eliza--Sale to Edwin Epps,               146
-
-
-  CHAPTER XII.
-
-  Personal Appearance of Epps--Epps, Drunk and Sober--A Glimpse
-  of his History--Cotton Growing--The Mode of Ploughing and
-  Preparing Ground--Of Planting, of Hoeing, of Picking, of
-  Treating Raw Hands--The difference in Cotton Pickers--Patsey
-  a remarkable one--Tasked according to Ability--Beauty of a
-  Cotton Field--The Slave's Labors--Fear of Approaching the
-  Gin-House--Weighing--"Chores"--Cabin Life--The Corn Mill--The Uses
-  of the Gourd--Fear of Oversleeping--Fear continually--Mode of
-  Cultivating Corn--Sweet Potatoes--Fertility of the Soil--Fattening
-  Hogs--Preserving Bacon--Raising Cattle--Shooting-Matches--Garden
-  Products--Flowers and Verdure,                                    162
-
-
-  CHAPTER XIII.
-
-  The Curious Axe-Helve--Symptoms of approaching Illness--Continue
-  to decline--The Whip ineffectual--Confined to the Cabin--Visit by
-  Dr. Wines--Partial Recovery--Failure at Cotton Picking--What may
-  be heard on Epps' Plantation--Lashes Graduated--Epps in a Whipping
-  Mood--Epps in a Dancing Mood--Description of the Dance--Loss of
-  Rest no Excuse--Epps' Characteristics--Jim Burns--Removal from
-  Huff Power to Bayou Boeuf--Description of Uncle Abram; of Wiley;
-  of Aunt Phebe; of Bob, Henry, and Edward; of Patsey; with a
-  Genealogical Account of each--Something of their Past History, and
-  Peculiar Characteristics-- Jealousy and Lust--Patsey, the Victim,
-                                                                    176
-
-
-  CHAPTER XIV.
-
-  Destruction of the Cotton Crop in 1845--Demand for Laborers
-  in St. Mary's Parish--Sent thither in a Drove--The Order
-  of the March--The Grand Coteau--Hired to Judge Turner on
-  Bayou Salle--Appointed Driver in his Sugar House--Sunday
-  Services--Slave Furniture; how obtained--The Party at Yarney's,
-  in Centreville--Good Fortune--The Captain of the Steamer--His
-  Refusal to Secrete me--Return to Bayou Boeuf--Sight of
-  Tibeats--Patsey's Sorrows--Tumult and Contention--Hunting the
-  Coon and Opossum--The Cunning of the latter--The Lean Condition
-  of the Slave--Description of the Fish Trap--The Murder of the
-  Man from Natchez--Epps Challenged by Marshall--The Influence of
-  Slavery--The Love of Freedom,                                     191
-
-
-  CHAPTER XV.
-
-  Labors on Sugar Plantations--The Mode of Planting Cane--of
-  Hoeing Cane--Cane Ricks--Cutting Cane--Description of the Cane
-  Knife--Winrowing--Preparing for Succeeding Crops--Description of
-  Hawkins' Sugar Mill on Bayou Boeuf--The Christmas Holidays--The
-  Carnival Season of the Children of Bondage--The Christmas
-  Supper--Red, the Favorite Color--The Violin, and the Consolation
-  it afforded--The Christmas Dance--Lively, the Coquette--Sam
-  Roberts, and his Rivals--Slave Songs--Southern Life as it
-  is--Three Days in the Year--The System of Marriage--Uncle Abram's
-  Contempt of Matrimony,                                            208
-
-
-  CHAPTER XVI.
-
-  Overseers--How they are Armed and Accompanied--The Homicide--His
-  Execution at Marksville--Slave Drivers--Appointed Driver
-  on removing to Bayou Boeuf--Practice makes perfect--Epps's
-  Attempt to Cut Platt's Throat--The Escape from him--Protected
-  by the Mistress--Forbids Reading and Writing--Obtain a Sheet
-  of Paper after Nine Years' Effort--The Letter--Armsby, the
-  Mean White--Partially confide in him--His Treachery--Epps'
-  Suspicions--How they were quieted--Burning the Letter--Armsby
-  leaves the Bayou--Disappointment and Despair,                     223
-
-
-  CHAPTER XVII.
-
-  Wiley disregards the counsels of Aunt Phebe and Uncle Abram,
-  and is caught by the Patrollers--The Organization and Duties of
-  the latter--Wiley Runs Away--Speculations in regard to him--His
-  Unexpected Return--His Capture on the Red River, and Confinement
-  in Alexandria Jail--Discovered by Joseph B. Roberts--Subduing
-  Dogs in anticipation of Escape--The Fugitives in the Great Pine
-  Woods--Captured by Adam Taydem and the Indians--Augustus killed
-  by Dogs--Nelly, Eldret's Slave Woman--The Story of Celeste--The
-  Concerted Movement--Lew Cheney, the Traitor--The Idea of
-  Insurrection,                                                     236
-
-
-  CHAPTER XVIII.
-
-  O'Niel, the Tanner--Conversation with Aunt Phebe overheard--Epps
-  in the Tanning Business--Stabbing of Uncle Abram--The Ugly
-  Wound--Epps is Jealous--Patsey is Missing--Her Return from
-  Shaw's--Harriet, Shaw's Black Wife--Epps Enraged--Patsey
-  denies his Charges--She is Tied Down Naked to Four Stakes--The
-  Inhuman Flogging--Flaying of Patsey--The Beauty of the Day--The
-  Bucket of Salt Water--The Dress stiff with Blood--Patsey
-  grows Melancholy--Her Idea of God and Eternity--Of Heaven and
-  Freedom--The Effect of Slave-Whipping--Epps' Oldest Son--"The
-  Child is Father to the Man,"                                      250
-
-
-  CHAPTER XIX.
-
-  Avery, on Bayou Rouge--Peculiarity of Dwellings--Epps builds
-  a New House--Bass, the Carpenter--His Noble Qualities--His
-  Personal Appearance and Eccentricities--Bass and Epps discuss
-  the Question of Slavery--Epps' Opinion of Bass--I make myself
-  known to him--Our Conversation--His Surprise--The Midnight
-  Meeting on the Bayou Bank--Bass' Assurances--Declares War
-  against Slavery--Why I did not Disclose my History--Bass writes
-  Letters--Copy of his Letter to Messrs. Parker and Perry--The Fever
-  of Suspense--Disappointments--Bass endeavors to cheer me--My Faith
-  in him,                                                           263
-
-
-  CHAPTER XX.
-
-  Bass faithful to his word--His Arrival on Christmas Eve--The
-  Difficulty of Obtaining an Interview--The Meeting in the
-  Cabin--Non-arrival of the Letter--Bass announces his Intention
-  to proceed North--Christmas--Conversation between Epps and
-  Bass--Young Mistress McCoy, the Beauty of Bayou Boeuf--The "Ne
-  plus ultra" of Dinners--Music and Dancing--Presence of the
-  Mistress--Her Exceeding Beauty--The Last Slave Dance--William
-  Pierce--Oversleep myself--The Last Whipping--Despondency--Cold
-  Morning--Epps' Threats--The Passing Carriage--Strangers
-  approaching through the Cotton-Field--Last Hour on Bayou Boeuf,   279
-
-
-  CHAPTER XXI.
-
-  The Letter reaches Saratoga--Is forwarded to Anne--Is laid
-  before Henry B. Northup--The Statute of May 14, 1840--Its
-  Provisions--Anne's Memorial to the Governor--The affidavits
-  Accompanying it--Senator Soule's Letter--Departure of the Agent
-  appointed by the Governor--Arrival at Marksville--The Hon. John
-  P. Waddill--The Conversation on New-York Politics--It suggests
-  a Fortunate Idea--The Meeting with Bass--The Secret out--Legal
-  Proceedings instituted--Departure of Northup and the Sheriff
-  from Marksville for Bayou Boeuf--Arrangements on the Way--Reach
-  Epps' Plantation--Discover his Slaves in the Cotton-Field--The
-  Meeting--The Farewell,                                            289
-
-
-  CHAPTER XXII.
-
-  Arrival in New-Orleans--Glimpse of Freeman--Genois, the
-  Recorder--His Description of Solomon--Reach Charleston Interrupted
-  by Custom House Officers--Pass through Richmond--Arrival
-  in Washington--Burch Arrested--Shekels and Thorn--Their
-  Testimony--Burch Acquitted--Arrest of Solomon--Burch withdraws the
-  Complaint--The Higher Tribunal--Departure from Washington--Arrival
-  at Sandy Hill--Old Friends and Familiar Scenes--Proceed to Glens
-  Falls--Meeting with Anne, Margaret, and Elizabeth--Solomon Northup
-  Staunton--Incidents--Conclusion,                                  310
-
-
-  APPENDIX,                                                         323
-
-
-
-
-LIST OF ILLUSTRATIONS.
-
-
-PORTRAIT OF SOLOMON IN HIS PLANTATION SUIT,
-
-SCENE IN THE SLAVE PEN AT WASHINGTON,
-
-SEPARATION OF ELIZA AND HER LAST CHILD,
-
-CHAPIN RESCUES SOLOMON FROM HANGING,
-
-THE STAKING OUT AND FLOGGING OF THE GIRL PATSEY,
-
-SCENE IN THE COTTON FIELD, AND SOLOMON'S DELIVERY,
-
-ARRIVAL HOME, AND FIRST MEETING WITH HIS WIFE AND CHILDREN,
-
-
-
-
-EDITOR'S PREFACE.
-
-
-When the editor commenced the preparation of the following narrative,
-he did not suppose it would reach the size of this volume. In order,
-however, to present all the facts which have been communicated to him,
-it has seemed necessary to extend it to its present length.
-
-Many of the statements contained in the following pages are
-corroborated by abundant evidence--others rest entirely upon Solomon's
-assertion. That he has adhered strictly to the truth, the editor, at
-least, who has had an opportunity of detecting any contradiction or
-discrepancy in his statements, is well satisfied. He has invariably
-repeated the same story without deviating in the slightest particular,
-and has also carefully perused the manuscript, dictating an alteration
-wherever the most trivial inaccuracy has appeared.
-
-It was Solomon's fortune, during his captivity, to be owned by
-several masters. The treatment he received while at the "Pine
-Woods" shows that among slaveholders there are men of humanity as
-well as of cruelty. Some of them are spoken of with emotions of
-gratitude--others in a spirit of bitterness. It is believed that the
-following account of his experience on Bayou Boeuf presents a correct
-picture of Slavery, in all its lights and shadows, as it now exists
-in that locality. Unbiased, as he conceives, by any prepossessions or
-prejudices, the only object of the editor has been to give a faithful
-history of Solomon Northup's life, as he received it from his lips.
-
-In the accomplishment of that object, he trusts he has succeeded,
-notwithstanding the numerous faults of style and of expression it may
-be found to contain.
-
-                                               DAVID WILSON.
-  WHITEHALL, N. Y., May, 1853.
-
-
-
-
-NARRATIVE OF SOLOMON NORTHUP.
-
-
-
-
 CHAPTER I.
-
-  INTRODUCTORY--ANCESTRY--THE NORTHUP FAMILY--BIRTH AND
-  PARENTAGE--MINTUS NORTHUP--MARRIAGE WITH ANNE HAMPTON--GOOD
-  RESOLUTIONS--CHAMPLAIN CANAL--RAFTING EXCURSION TO
-  CANADA--FARMING--THE VIOLIN--COOKING--REMOVAL TO SARATOGA--PARKER AND
-  PERRY--SLAVES AND SLAVERY--THE CHILDREN--THE BEGINNING OF SORROW.
-
 
 Having been born a freeman, and for more than thirty years enjoyed
 the blessings of liberty in a free State--and having at the end of
@@ -772,13 +302,6 @@ weary year.
 
 
 CHAPTER II.
-
-  THE TWO STRANGERS--THE CIRCUS COMPANY--DEPARTURE FROM
-  SARATOGA--VENTRILOQUISM AND LEGERDEMAIN--JOURNEY TO NEW-YORK--FREE
-  PAPERS--BROWN AND HAMILTON--THE HASTE TO REACH THE CIRCUS--ARRIVAL IN
-  WASHINGTON--FUNERAL OF HARRISON--THE SUDDEN SICKNESS--THE TORMENT OF
-  THIRST--THE RECEDING LIGHT--INSENSIBILITY--CHAINS AND DARKNESS.
-
 
 One morning, towards the latter part of the month of March, 1841,
 having at that time no particular business to engage my attention, I
@@ -1045,13 +568,6 @@ fettered hands, and wept most bitterly.
 
 CHAPTER III.
 
-  PAINFUL MEDITATIONS--JAMES H. BURCH--WILLIAMS' SLAVE PEN IN
-  WASHINGTON--THE LACKEY, RADBURN--ASSERT MY FREEDOM--THE ANGER OF
-  THE TRADER--THE PADDLE AND CAT-O'-NINETAILS--THE WHIPPING--NEW
-  ACQUAINTANCES--RAY, WILLIAMS, AND RANDALL--ARRIVAL OF LITTLE EMILY
-  AND HER MOTHER IN THE PEN--MATERNAL SORROWS--THE STORY OF ELIZA.
-
-
 Some three hours elapsed, during which time I remained seated on the
 low bench, absorbed in painful meditations. At length I heard the
 crowing of a cock, and soon a distant rumbling sound, as of carriages
@@ -1177,7 +693,7 @@ brute. Even now the flesh crawls upon my bones, as I recall the scene.
 I was all on fire. My sufferings I can compare to nothing else than
 the burning agonies of hell!
 
-[Illustration: SCENE IN THE SLAVE PEN AT WASHINGTON.]
+[SCENE IN THE SLAVE PEN AT WASHINGTON.]
 
 At last I became silent to his repeated questions. I would make no
 reply. In fact, I was becoming almost unable to speak. Still he plied
@@ -1380,15 +896,6 @@ proceeds.
 
 
 CHAPTER IV.
-
-  ELIZA'S SORROWS--PREPARATION TO EMBARK--DRIVEN THROUGH THE STREETS
-  OF WASHINGTON--HAIL, COLUMBIA--THE TOMB OF WASHINGTON--CLEM
-  RAY--THE BREAKFAST ON THE STEAMER--THE HAPPY BIRDS--AQUIA
-  CREEK--FREDERICKSBURGH--ARRIVAL IN RICHMOND--GOODIN AND HIS
-  SLAVE PEN--ROBERT, OF CINCINNATI--DAVID AND HIS WIFE--MARY AND
-  LETHE--CLEM'S RETURN--HIS SUBSEQUENT ESCAPE TO CANADA--THE BRIG
-  ORLEANS--JAMES H. BURCH.
-
 
 At intervals during the first night of Eliza's incarceration in the
 pen, she complained bitterly of Jacob Brooks, her young mistress'
@@ -1662,14 +1169,6 @@ criminal in a court of law, that failed to do him justice.
 
 
 CHAPTER V.
-
-  ARRIVAL AT NORFOLK--FREDERICK AND MARIA--ARTHUR, THE
-  FREEMAN--APPOINTED STEWARD--JIM, CUFFEE, AND JENNY--THE STORM--BAHAMA
-  BANKS--THE CALM--THE CONSPIRACY--THE LONG BOAT--THE SMALL-POX--DEATH
-  OF ROBERT--MANNING, THE SAILOR--THE MEETING IN THE FORECASTLE--THE
-  LETTER--ARRIVAL AT NEW-ORLEANS--ARTHUR'S RESCUE--THEOPHILUS FREEMAN,
-  THE CONSIGNEE--PLATT--FIRST NIGHT IN THE NEW-ORLEANS SLAVE PEN.
-
 
 After we were all on board, the brig Orleans proceeded down James
 River. Passing into Chesapeake Bay, we arrived next day opposite the
@@ -1990,14 +1489,6 @@ another day of bondage.
 
 CHAPTER VI.
 
-  FREEMAN'S INDUSTRY--CLEANLINESS AND CLOTHES--EXERCISING IN THE SHOW
-  ROOM--THE DANCE--BOB, THE FIDDLER--ARRIVAL OF CUSTOMERS--SLAVES
-  EXAMINED--THE OLD GENTLEMAN OF NEW-ORLEANS--SALE OF DAVID,
-  CAROLINE AND LETHE--PARTING OF RANDALL AND ELIZA--SMALL POX--THE
-  HOSPITAL--RECOVERY AND RETURN TO FREEMAN'S SLAVE PEN--THE PURCHASER
-  OF ELIZA, HARRY AND PLATT--ELIZA'S AGONY ON PARTING FROM LITTLE EMILY.
-
-
 The very amiable, pious-hearted Mr. Theophilus Freeman, partner
 or consignee of James H. Burch, and keeper of the slave pen in
 New-Orleans, was out among his animals early in the morning. With an
@@ -2266,22 +1757,12 @@ her sight as they led her away into captivity. Now "she weepeth sore
 in the night, and tears are on her cheeks: all her friends have dealt
 treacherously with her: they have become her enemies."
 
-[Illustration: SEPERATION OF ELIZA AND HER LAST CHILD.]
+[SEPERATION OF ELIZA AND HER LAST CHILD.]
 
 
 
 
 CHAPTER VII.
-
-  THE STEAMBOAT RODOLPH--DEPARTURE FROM NEW-ORLEANS--WILLIAM
-  FORD--ARRIVAL AT ALEXANDRIA, ON RED RIVER--RESOLUTIONS--THE GREAT
-  PINE WOODS--WILD CATTLE--MARTIN'S SUMMER RESIDENCE--THE TEXAS
-  ROAD--ARRIVAL AT MASTER FORD'S--ROSE--MISTRESS FORD--SALLY, AND
-  HER CHILDREN--JOHN, THE COOK--WALTER, SAM, AND ANTONY--THE MILLS
-  ON INDIAN CREEK--SABBATH DAYS--SAM'S CONVERSION--THE PROFIT OF
-  KINDNESS--RAFTING--ADAM TAYDEM, THE LITTLE WHITE MAN--CASCALLA AND
-  HIS TRIBE--THE INDIAN BALL--JOHN M. TIBEATS--THE STORM APPROACHING.
-
 
 On leaving the New-Orleans slave pen, Harry and I followed our new
 master through the streets, while Eliza, crying and turning back, was
@@ -2657,17 +2138,6 @@ led in the "Great Pine Woods."
 
 CHAPTER VIII.
 
-  FORD'S EMBARRASSMENTS--THE SALE TO TIBEATS--THE CHATTEL
-  MORTGAGE--MISTRESS FORD'S PLANTATION ON BAYOU BOEUF--DESCRIPTION
-  OF THE LATTER--FORD'S BROTHER-IN-LAW, PETER TANNER--MEETING
-  WITH ELIZA--SHE STILL MOURNS FOR HER CHILDREN--FORD'S OVERSEER,
-  CHAPIN--TIBEAT'S ABUSE--THE KEG OF NAILS--THE FIRST FIGHT WITH
-  TIBEATS--HIS DISCOMFITURE AND CASTIGATION--THE ATTEMPT TO HANG
-  ME--CHAPIN'S INTERFERENCE AND SPEECH--UNHAPPY REFLECTIONS--ABRUPT
-  DEPARTURE OF TIBEATS, COOK AND RAMSAY--LAWSON AND THE BROWN
-  MULE--MESSAGE TO THE PINE WOODS.
-
-
 William Ford unfortunately became embarrassed in his pecuniary
 affairs. A heavy judgment was rendered against him in consequence of
 his having become security for his brother, Franklin Ford, residing
@@ -2935,7 +2405,7 @@ that filled the stagnant waters of the bayou! Tears flowed down my
 cheeks, but they only afforded a subject of insulting comment for my
 executioners.
 
-[Illustration: CHAPIN RESCUES SOLOMON FROM HANGING.]
+[CHAPIN RESCUES SOLOMON FROM HANGING.]
 
 At length, as they were dragging me towards the tree, Chapin, who had
 momentarily disappeared from the piazza, came out of the house and
@@ -2988,17 +2458,6 @@ me to describe the scene, was out of sight.
 
 
 CHAPTER IX.
-
-  THE HOT SUN--YET BOUND--THE CORDS SINK INTO MY FLESH--CHAPIN'S
-  UNEASINESS--SPECULATION--RACHEL, AND HER CUP OF WATER--SUFFERING
-  INCREASES--THE HAPPINESS OF SLAVERY--ARRIVAL OF FORD--HE CUTS THE
-  CORDS WHICH BIND ME, AND TAKES THE ROPE FROM MY NECK--MISERY--THE
-  GATHERING OF THE SLAVES IN ELIZA'S CABIN--THEIR KINDNESS--RACHEL
-  REPEATS THE OCCURRENCES OF THE DAY--LAWSON ENTERTAINS HIS COMPANIONS
-  WITH AN ACCOUNT OF HIS RIDE--CHAPIN'S APPREHENSIONS OF TIBEATS--HIRED
-  TO PETER TANNER--PETER EXPOUNDS THE SCRIPTURES--DESCRIPTION OF THE
-  STOCKS.
-
 
 As the sun approached the meridian that day it became insufferably
 warm. Its hot rays scorched the ground. The earth almost blistered
@@ -3322,17 +2781,6 @@ Tibeats, and the flight through the great Pacoudrie Swamp.
 
 
 CHAPTER X.
-
-  RETURN TO TIBEATS--IMPOSSIBILITY OF PLEASING HIM--HE ATTACKS ME
-  WITH A HATCHET--THE STRUGGLE OVER THE BROAD AXE--THE TEMPTATION
-  TO MURDER HIM--ESCAPE ACROSS THE PLANTATION--OBSERVATIONS FROM
-  THE FENCE--TIBEATS APPROACHES, FOLLOWED BY THE HOUNDS--THEY TAKE
-  MY TRACK--THEIR LOUD YELLS--THEY ALMOST OVERTAKE ME--I REACH THE
-  WATER--THE HOUNDS CONFUSED--MOCCASIN SNAKES--ALLIGATORS--NIGHT
-  IN THE "GREAT PACOUDRIE SWAMP"--THE SOUNDS OF LIFE--NORTH-WEST
-  COURSE--EMERGE INTO THE PINE WOODS--THE SLAVE AND HIS YOUNG
-  MASTER--ARRIVAL AT FORD'S--FOOD AND REST.
-
 
 At the end of a month, my services being no longer required at
 Tanner's I was sent over the bayou again to my master, whom I found
@@ -3694,19 +3142,6 @@ _other_ sleep, from which they _never_ would arouse.
 
 
 CHAPTER XI.
-
-  THE MISTRESS' GARDEN--THE CRIMSON AND GOLDEN FRUIT--ORANGE AND
-  POMEGRANATE TREES--RETURN TO BAYOU BOEUF--MASTER FORD'S REMARKS ON
-  THE WAY--THE MEETING WITH TIBEATS--HIS ACCOUNT OF THE CHASE--FORD
-  CENSURES HIS BRUTALITY--ARRIVAL AT THE PLANTATION--ASTONISHMENT OF
-  THE SLAVES ON SEEING ME--THE ANTICIPATED FLOGGING--KENTUCKY JOHN--MR.
-  ELDRET, THE PLANTER--ELDRET'S SAM--TRIP TO THE "BIG CANE BRAKE"--THE
-  TRADITION OF "SUTTON'S FIELD"--FOREST TREES--GNATS AND MOSQUITOS--THE
-  ARRIVAL OF BLACK WOMEN IN THE BIG CANE--LUMBER WOMEN--SUDDEN
-  APPEARANCE OF TIBEATS--HIS PROVOKING TREATMENT--VISIT TO BAYOU
-  BOEUF--THE SLAVE PASS--SOUTHERN HOSPITALITY--THE LAST OF ELIZA--SALE
-  TO EDWIN EPPS.
-
 
 After a long sleep, sometime in the afternoon I awoke, refreshed, but
 very sore and stiff. Sally came in and talked with me, while John
@@ -4104,19 +3539,6 @@ parish.
 
 CHAPTER XII.
 
-  PERSONAL APPEARANCE OF EPPS--EPPS, DRUNK AND SOBER--A GLIMPSE
-  OF HIS HISTORY--COTTON GROWING--THE MODE OF PLOUGHING AND
-  PREPARING GROUND--OF PLANTING--OF HOEING, OF PICKING, OF
-  TREATING RAW HANDS--THE DIFFERENCE IN COTTON PICKERS--PATSEY
-  A REMARKABLE ONE--TASKED ACCORDING TO ABILITY--BEAUTY OF A
-  COTTON FIELD--THE SLAVE'S LABORS--FEAR ON APPROACHING THE
-  GIN-HOUSE--WEIGHING--"CHORES"--CABIN LIFE--THE CORN MILL--THE USES
-  OF THE GOURD--FEAR OF OVERSLEEPING--FEAR CONTINUALLY--MODE OF
-  CULTIVATING CORN--SWEET POTATOES--FERTILITY OF THE SOIL--FATTENING
-  HOGS--PRESERVING BACON--RAISING CATTLE--SHOOTING-MATCHES--GARDEN
-  PRODUCTS--FLOWERS AND VERDURE.
-
-
 Edwin Epps, of whom much will be said during the remainder of this
 history, is a large, portly, heavy-bodied man with light hair, high
 cheek bones, and a Roman nose of extraordinary dimensions. He has
@@ -4449,18 +3871,6 @@ place.
 
 
 CHAPTER XIII.
-
-  THE CURIOUS AXE-HELVE--SYMPTOMS OF APPROACHING ILLNESS--CONTINUE
-  TO DECLINE--THE WHIP INEFFECTUAL--CONFINED TO THE CABIN--VISIT BY
-  DR. WINES--PARTIAL RECOVERY--FAILURE AT COTTON PICKING--WHAT MAY
-  BE HEARD ON EPPS' PLANTATION--LASHES GRADUATED--EPPS IN A WHIPPING
-  MOOD--EPPS IN A DANCING MOOD--DESCRIPTION OF THE DANCE--LOSS OF
-  REST NO EXCUSE--EPPS' CHARACTERISTICS--JIM BURNS REMOVAL FROM HUFF
-  POWER TO BAYOU BOEUF--DESCRIPTION OF UNCLE ABRAM; OF WILEY; OF AUNT
-  PHEBE; OF BOB, HENRY, AND EDWARD; OF PATSEY; WITH A GENEALOGICAL
-  ACCOUNT OF EACH--SOMETHING OF THEIR PAST HISTORY, AND PECULIAR
-  CHARACTERISTICS--JEALOUSY AND LUST--PATSEY, THE VICTIM.
-
 
 On my arrival at Master Epps', in obedience to his order, the first
 business upon which I entered was the making of an axe-helve. The
@@ -4816,19 +4226,6 @@ dust.
 
 
 CHAPTER XIV.
-
-  DESTRUCTION OF THE COTTON CROP IN 1845--DEMAND FOR LABORERS IN ST.
-  MARY'S PARISH--SENT THITHER IN A DROVE--THE ORDER OF THE MARCH--THE
-  GRAND COTEAU--HIRED TO JUDGE TURNER ON BAYOU SALLE--APPOINTED
-  DRIVER IN HIS SUGAR HOUSE--SUNDAY SERVICES SLAVE FURNITURE, HOW
-  OBTAINED--THE PARTY AT YARNEY'S IN CENTREVILLE--GOOD FORTUNE--THE
-  CAPTAIN OF THE STEAMER--HIS REFUSAL TO SECRETE ME--RETURN TO
-  BAYOU BOEUF--SIGHT OF TIBEATS--PATSEY'S SORROWS--TUMULT AND
-  CONTENTION--HUNTING THE COON AND OPOSSUM--THE CUNNING OF THE
-  LATTER--THE LEAN CONDITION OF THE SLAVE--DESCRIPTION OF THE FISH
-  TRAP--THE MURDER OF THE MAN FROM NATCHEZ--EPPS CHALLENGED BY
-  MARSHALL--THE INFLUENCE OF SLAVERY--THE LOVE OF FREEDOM.
-
 
 The first year of Epps' residence on the bayou, 1845, the caterpillars
 almost totally destroyed the cotton crop throughout that region.
@@ -5225,17 +4622,6 @@ in their bosoms the love of freedom, as passionately as themselves.
 
 CHAPTER XV.
 
-  LABORS ON SUGAR PLANTATIONS--THE MODE OF PLANTING CANE--OF
-  HOEING CANE--CANE RICKS--CUTTING CANE--DESCRIPTION OF THE CANE
-  KNIFE--WINROWING--PREPARING FOR SUCCEEDING CROPS--DESCRIPTION OF
-  HAWKINS' SUGAR MILL ON BAYOU BOEUF--THE CHRISTMAS HOLIDAYS--THE
-  CARNIVAL SEASON OF THE CHILDREN OF BONDAGE--THE CHRISTMAS
-  SUPPER--RED, THE FAVORITE COLOR--THE VIOLIN, AND THE CONSOLATION IT
-  AFFORDED--THE CHRISTMAS DANCE--LIVELY, THE COQUETTE--SAM ROBERTS, AND
-  HIS RIVALS--SLAVE SONGS--SOUTHERN LIFE AS IT IS--THREE DAYS IN THE
-  YEAR--THE SYSTEM OF MARRIAGE--UNCLE ABRAM'S CONTEMPT OF MATRIMONY.
-
-
 In consequence of my inability in cotton-picking, Epps was in the
 habit of hiring me out on sugar plantations during the season of
 cane-cutting and sugar-making. He received for my services a dollar
@@ -5600,16 +4986,6 @@ philosopher like himself.
 
 CHAPTER XVI.
 
-  OVERSEERS--HOW THEY ARE ARMED AND ACCOMPANIED--THE HOMICIDE--HIS
-  EXECUTION AT MARKSVILLE--SLAVE-DRIVERS--APPOINTED DRIVER ON REMOVING
-  TO BAYOU BOEUF--PRACTICE MAKES PERFECT--EPPS' ATTEMPT TO CUT PLATT'S
-  THROAT--THE ESCAPE FROM HIM--PROTECTED BY THE MISTRESS--FORBIDS
-  READING AND WRITING--OBTAIN A SHEET OF PAPER AFTER NINE YEARS'
-  EFFORT--THE LETTER--ARMSBY, THE MEAN WHITE--PARTIALLY CONFIDE IN
-  HIM--HIS TREACHERY--EPPS' SUSPICIONS--HOW THEY WERE QUIETED--BURNING
-  THE LETTER--ARMSBY LEAVES THE BAYOU--DISAPPOINTMENT AND DESPAIR.
-
-
 With the exception of my trip to St. Mary's parish, and my absence
 during the cane-cutting seasons, I was constantly employed on the
 plantation of Master Epps. He was considered but a small planter,
@@ -5936,17 +5312,6 @@ life.
 
 
 CHAPTER XVII.
-
-  WILEY DISREGARDS THE COUNSELS OF AUNT PHEBE AND UNCLE ABRAM,
-  AND IS CAUGHT BY THE PATROLLERS--THE ORGANIZATION AND DUTIES OF
-  THE LATTER--WILEY RUNS AWAY--SPECULATIONS IN REGARD TO HIM--HIS
-  UNEXPECTED RETURN--HIS CAPTURE ON RED RIVER, AND CONFINEMENT
-  IN ALEXANDRIA JAIL--DISCOVERED BY JOSEPH B. ROBERTS--SUBDUING
-  DOGS IN ANTICIPATION OF ESCAPE--THE FUGITIVES IN THE GREAT PINE
-  WOODS--CAPTURED BY ADAM TAYDEM AND THE INDIANS--AUGUSTUS KILLED
-  BY DOGS--NELLY, ELDRET'S SLAVE WOMAN--THE STORY OF CELESTE--THE
-  CONCERTED MOVEMENT--LEW CHENEY, THE TRAITOR--THE IDEA OF INSURRECTION.
-
 
 The year 1850, down to which time I have now arrived, omitting many
 occurrences uninteresting to the reader, was an unlucky year for my
@@ -6284,17 +5649,6 @@ vain for mercy.
 
 CHAPTER XVIII.
 
-  O'NIEL, THE TANNER--CONVERSATION WITH AUNT PHEBE OVERHEARD--EPPS IN
-  THE TANNING BUSINESS--STABBING OF UNCLE ABRAM--THE UGLY WOUND--EPPS
-  IS JEALOUS--PATSEY IS MISSING--HER RETURN FROM SHAW'S--HARRIET,
-  SHAW'S BLACK WIFE--EPPS ENRAGED--PATSEY DENIES HIS CHARGES--SHE IS
-  TIED DOWN NAKED TO FOUR STAKES--THE INHUMAN FLOGGING--FLAYING OF
-  PATSEY--THE BEAUTY OF THE DAY--THE BUCKET OF SALT WATER--THE DRESS
-  STIFF WITH BLOOD--PATSEY GROWS MELANCHOLY--HER IDEA OF GOD AND
-  ETERNITY--OF HEAVEN AND FREEDOM--THE EFFECT OF SLAVE-WHIPPING--EPPS'
-  OLDEST SON--"THE CHILD IS FATHER TO THE MAN."
-
-
 Wiley suffered severely at the hands of Master Epps, as has been
 related in the preceding chapter, but in this respect he fared no
 worse than his unfortunate companions. "Spare the rod," was an idea
@@ -6478,7 +5832,7 @@ away into a low moan. She no longer writhed and shrank beneath the
 lash when it bit out small pieces of her flesh. I thought that she was
 dying!
 
-[Illustration: THE STAKING OUT AND FLOGGING OF THE GIRL PATSEY.]
+[THE STAKING OUT AND FLOGGING OF THE GIRL PATSEY.]
 
 It was the Sabbath of the Lord. The fields smiled in the warm
 sunlight--the birds chirped merrily amidst the foliage of the
@@ -6597,18 +5951,6 @@ pitiless and unrelenting race.
 
 
 CHAPTER XIX.
-
-  AVERY, OF BAYOU ROUGE--PECULIARITY OF DWELLINGS--EPPS BUILDS
-  A NEW HOUSE--BASS, THE CARPENTER--HIS NOBLE QUALITIES--HIS
-  PERSONAL APPEARANCE AND ECCENTRICITIES--BASS AND EPPS DISCUSS
-  THE QUESTION OF SLAVERY--EPPS' OPINION OF BASS--I MAKE MYSELF
-  KNOWN TO HIM--OUR CONVERSATION--HIS SURPRISE--THE MIDNIGHT
-  MEETING ON THE BAYOU BANK--BASS' ASSURANCES--DECLARES WAR
-  AGAINST SLAVERY--WHY I DID NOT DISCLOSE MY HISTORY--BASS WRITES
-  LETTERS--COPY OF HIS LETTER TO MESSRS. PARKER AND PERRY--THE FEVER OF
-  SUSPENSE--DISAPPOINTMENTS--BASS ENDEAVORS TO CHEER ME--MY FAITH IN
-  HIM.
-
 
 In the month of June, 1852, in pursuance of a previous contract, Mr.
 Avery, a carpenter of Bayou Rouge, commenced the erection of a house
@@ -7016,18 +6358,6 @@ light remark, and kept my thoughts locked closely in my breast.
 
 CHAPTER XX.
 
-  BASS FAITHFUL TO HIS WORD--HIS ARRIVAL ON CHRISTMAS EVE--THE
-  DIFFICULTY OF OBTAINING AN INTERVIEW--THE MEETING IN THE
-  CABIN--NON-ARRIVAL OF THE LETTER--BASS ANNOUNCES HIS INTENTION TO
-  PROCEED NORTH--CHRISTMAS--CONVERSATION BETWEEN EPPS AND BASS--YOUNG
-  MISTRESS M'COY, THE BEAUTY OF BAYOU BOEUF--THE "NE PLUS ULTRA"
-  OF DINNERS--MUSIC AND DANCING--PRESENCE OF THE MISTRESS--HER
-  EXCEEDING BEAUTY--THE LAST SLAVE DANCE--WILLIAM PIERCE--OVERSLEEP
-  MYSELF--THE LAST WHIPPING--DESPONDENCY--THE COLD MORNING--EPPS'
-  THREATS--THE PASSING CARRIAGE--STRANGERS APPROACHING THROUGH THE
-  COTTON-FIELD--LAST HOUR ON BAYOU BOEUF.
-
-
 Faithful to his word, the day before Christmas, just at night-fall,
 Bass came riding into the yard.
 
@@ -7283,19 +6613,6 @@ working together for my deliverance.
 
 
 CHAPTER XXI.
-
-  THE LETTER REACHES SARATOGA--IS FORWARDED TO ANNE--IS LAID
-  BEFORE HENRY B. NORTHUP--THE STATUTE OF MAY 14, 1840--ITS
-  PROVISIONS--ANNE'S MEMORIAL TO THE GOVERNOR--THE AFFIDAVITS
-  ACCOMPANYING IT--SENATOR SOULE'S LETTER--DEPARTURE OF THE AGENT
-  APPOINTED BY THE GOVERNOR--ARRIVAL AT MARKSVILLE--THE HON. JOHN
-  P. WADDILL--THE CONVERSATION ON NEW-YORK POLITICS--IT SUGGESTS
-  A FORTUNATE IDEA--THE MEETING WITH BASS--THE SECRET OUT--LEGAL
-  PROCEEDINGS INSTITUTED--DEPARTURE OF NORTHUP AND THE SHERIFF FROM
-  MARKSVILLE FOR BAYOU BOEUF--ARRANGEMENTS ON THE WAY--REACH EPPS'
-  PLANTATION--DISCOVER HIS SLAVES IN THE COTTON FIELD--THE MEETING--THE
-  FAREWELL.
-
 
 I am indebted to Mr. Henry B. Northup and others for many of the
 particulars contained in this chapter.
@@ -7724,7 +7041,7 @@ that the secret I had so long retained from Master and Mistress Epps,
 was finally developing. I lingered as long as prudence permitted,
 and was about leaving the room, when Epps inquired,
 
-[Illustration: SCENE IN THE COTTON FIELD, SOLOMON DELIVERED UP.]
+[SCENE IN THE COTTON FIELD, SOLOMON DELIVERED UP.]
 
 "Platt, do you know this gentleman?"
 
@@ -7875,17 +7192,6 @@ FOOTNOTES:
 
 
 CHAPTER XXII.
-
-  ARRIVAL IN NEW-ORLEANS--GLIMPSE OF FREEMAN--GENOIS, THE
-  RECORDER--HIS DESCRIPTION OF SOLOMON--REACH CHARLESTON--INTERRUPTED
-  BY CUSTOM HOUSE OFFICERS--PASS THROUGH RICHMOND--ARRIVAL IN
-  WASHINGTON--BURCH ARRESTED--SHEKELS AND THORN--THEIR TESTIMONY--BURCH
-  ACQUITTED--ARREST OF SOLOMON--BURCH WITHDRAWS THE COMPLAINT--THE
-  HIGHER TRIBUNAL--DEPARTURE FROM WASHINGTON--ARRIVAL AT SANDY
-  HILL--OLD FRIENDS AND FAMILIAR SCENES--PROCEED TO GLENS
-  FALLS--MEETING WITH ANNE, MARGARET AND ELIZABETH--SOLOMON NORTHUP
-  STAUNTON--INCIDENTS--CONCLUSION.
-
 
 As the steamer glided on its way towards New-Orleans, _perhaps_ I was
 not happy--_perhaps_ there was no difficulty in restraining myself
@@ -8164,7 +7470,7 @@ related--incidents showing they still held me in constant remembrance,
 but not, perhaps, of sufficient interest to the reader, to be
 recounted.
 
-[Illustration: ARRIVAL HOME, AND FIRST MEETING WITH HIS WIFE AND
+[ARRIVAL HOME, AND FIRST MEETING WITH HIS WIFE AND
 CHILDREN]
 
        *       *       *       *       *
@@ -8193,7 +7499,7 @@ ROARING RIVER.
 A REFRAIN OF THE RED RIVER PLANTATION.
 
 
-[Illustration: Musical score]
+[Musical score]
 
     "Harper's creek and roarin' ribber,
     Thar, my dear, we'll live forebber;
@@ -8702,396 +8008,3 @@ original on file and of record in my office.
 THE END
 
        *       *       *       *       *
-
-[Transcriber's Notes:
-
-The transcriber made these changes to the text:
-
-   1. p.  xi., Chalenged --> Challenged
-   2. p. xiii., Coversation --> Conversation
-   3. p. xvi, expresssion --> expression
-   4. p.  53, hight --> height
-   5. p.  58, susually --> usually
-   6. p.  86, She's not for sale. --> She's not for sale."
-   7. p.  97, looded --> looked
-   8. p, 103, capenter --> carpenter
-   9. p. 106, aligators --> alligators
-  10. p. 112, Chenyville --> Cheneyville
-  11. p. 135, gripe --> grip
-  12. p. 138, loose --> lose
-  13. p. 149, listing --> listening
-  14. p. 156, an one --> a one
-  15. p. 224, maintin --> maintain
-  16. p. 244, LEW CHEENEY --> LEW CHENEY
-  17. p. 274, priviliges --> privileges
-  18. p. 296, 'bringing down his hand emphatically on the table,' -->
-              bringing down his hand emphatically on the table,
-  19. p. 314, reppresented --> represented
-  20. p. 316, offer- --> offered
-
-End of Transcriber's Notes]
-
-
-
-
-
-End of the Project Gutenberg EBook of Twelve Years a Slave, by Solomon Northup
-
-*** END OF THIS PROJECT GUTENBERG EBOOK TWELVE YEARS A SLAVE ***
-
-***** This file should be named 45631-8.txt or 45631-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/4/5/6/3/45631/
-
-Produced by Richard J. Shiffer and the Distributed
-Proofreading volunteers at http://www.pgdp.net for Project
-Gutenberg. (This file was produced from images generously
-made available by The Internet Archive.)
-
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License available with this file or online at
-  www.gutenberg.org/license.
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation information page at www.gutenberg.org
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at 809
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
-contact links and up to date contact information can be found at the
-Foundation's web site and official page at www.gutenberg.org/contact
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit:  www.gutenberg.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For forty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-Most people start at our Web site which has the main PG search facility:
-
-     www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
