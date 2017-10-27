@@ -4,164 +4,15 @@
       "id": "ChiLit",
       "title": "Children's Literature",
       "description": "From work by Anna Čermáková."
+    },
+    {
+      "id": "Other",
+      "title": "Other",
+      "description": "A collection of 'other' texts with more set titles from A-Level and GCSE exam specifications."
     }
   ],
   "content": {
     "ChiLit": [
-      {
-        "shorttitle": "brass",
-        "title": "The Brass Bottle",
-        "author": "F. Anstey",
-        "date": "1900",
-        "path": "ChiLit/brass.txt"
-      },
-      {
-        "shorttitle": "toadylion",
-        "title": "The Surprising Adventures of Sir Toady Lion with Those of General Napoleon Smith",
-        "author": "S. R. Crockett",
-        "date": "1897",
-        "path": "ChiLit/toadylion.txt"
-      },
-      {
-        "shorttitle": "mulgars",
-        "title": "The Three Mulla-mulgars",
-        "author": "W. De la Mare",
-        "date": "1910",
-        "path": "ChiLit/mulgars.txt"
-      },
-      {
-        "shorttitle": "overtheway",
-        "title": "Mrs. Overtheway's Remembrances",
-        "author": "J. H. G. Ewing",
-        "date": "1869",
-        "path": "ChiLit/overtheway.txt"
-      },
-      {
-        "shorttitle": "jackanapes",
-        "title": "Jackanapes",
-        "author": "J. H. G. Ewing",
-        "date": "1883",
-        "path": "ChiLit/jackanapes.txt"
-      },
-      {
-        "shorttitle": "moonfleet",
-        "title": "Moonfleet",
-        "author": "J. M. Falkner",
-        "date": "1898",
-        "path": "ChiLit/moonfleet.txt"
-      },
-      {
-        "shorttitle": "eric",
-        "title": "Eric; Or, Little by Little",
-        "author": "F. W. Farrar",
-        "date": "1858",
-        "path": "ChiLit/eric.txt"
-      },
-      {
-        "shorttitle": "wallypug",
-        "title": "Adventures in Wallypug-Land",
-        "author": "G. E. Farrow",
-        "date": "1898",
-        "path": "ChiLit/wallypug.txt"
-      },
-      {
-        "shorttitle": "goldenage",
-        "title": "The Golden Age",
-        "author": "K. Grahame",
-        "date": "1895",
-        "path": "ChiLit/goldenage.txt"
-      },
-      {
-        "shorttitle": "dreamdays",
-        "title": "Dream Days",
-        "author": "K. Grahame",
-        "date": "1898",
-        "path": "ChiLit/dreamdays.txt"
-      },
-      {
-        "shorttitle": "solomons",
-        "title": "King Solomon's Mines",
-        "author": "H. R. Haggard",
-        "date": "1885",
-        "path": "ChiLit/solomons.txt"
-      },
-      {
-        "shorttitle": "quatermain",
-        "title": "Allan Quatermain",
-        "author": "H. R. Haggard",
-        "date": "1887",
-        "path": "ChiLit/quatermain.txt"
-      },
-      {
-        "shorttitle": "clive",
-        "title": "With Clive in India; Or, The Beginnings of an Empire",
-        "author": "G. A. Henty",
-        "date": "1884",
-        "path": "ChiLit/clive.txt"
-      },
-      {
-        "shorttitle": "winning",
-        "title": "Winning His Spurs. A Tale of the Crusades",
-        "author": "G. A. Henty",
-        "date": "1882",
-        "path": "ChiLit/winning.txt"
-      },
-      {
-        "shorttitle": "tombrown",
-        "title": "Tom Brown’s Schooldays",
-        "author": "T. Hughes",
-        "date": "1857",
-        "path": "ChiLit/tombrown.txt"
-      },
-      {
-        "shorttitle": "mopsa",
-        "title": "Mopsa the Fairy",
-        "author": "J. Ingelow",
-        "date": "1869",
-        "path": "ChiLit/mopsa.txt"
-      },
-      {
-        "shorttitle": "woodmagic",
-        "title": "Wood Magic, a Fable",
-        "author": "R. Jefferies",
-        "date": "1881",
-        "path": "ChiLit/woodmagic.txt"
-      },
-      {
-        "shorttitle": "howwhy",
-        "title": "Madam How and Lady Why; Or, First Lessons in Earth Lore for Children",
-        "author": "C. Kingsley",
-        "date": "1870",
-        "path": "ChiLit/howwhy.txt"
-      },
-      {
-        "shorttitle": "stalky",
-        "title": "Stalky and Co",
-        "author": "R. Kipling",
-        "date": "1899",
-        "path": "ChiLit/stalky.txt"
-      },
-      {
-        "shorttitle": "prigio",
-        "title": "Prince Prigio",
-        "author": "A. Lang",
-        "date": "1889",
-        "path": "ChiLit/prigio.txt"
-      },
-      {
-        "shorttitle": "canada",
-        "title": "The Settlers in Canada",
-        "author": "F. Marryat",
-        "date": "1844",
-        "path": "ChiLit/canada.txt"
-      },
-      {
-        "shorttitle": "masterman",
-        "title": "Masterman Ready; Or, The Wreck of the “Pacific”",
-        "author": "F. Marryat",
-        "date": "1841",
-        "path": "ChiLit/masterman.txt"
-      },
       {
         "shorttitle": "settlers",
         "title": "The Settlers at Home",
@@ -175,13 +26,6 @@
         "author": "H. Martineau",
         "date": "1841",
         "path": "ChiLit/peasant.txt"
-      },
-      {
-        "shorttitle": "fiord",
-        "title": "Feats on the Fiord",
-        "author": "H. Martineau",
-        "date": "1841",
-        "path": "ChiLit/fiord.txt"
       },
       {
         "shorttitle": "crofton",
@@ -331,32 +175,11 @@
         "path": "ChiLit/dove.txt"
       },
       {
-        "shorttitle": "gulliver",
-        "title": "Gulliver's Travels into Several Remote Nations of the World",
-        "author": "Jonathan Swift",
-        "date": "1726",
-        "path": "ChiLit/gulliver.txt"
-      },
-      {
         "shorttitle": "stiria",
         "title": "The King of the Golden River; or, the Black Brothers: A Legend of Stiria.",
         "author": "John Ruskin",
         "date": "1851",
         "path": "ChiLit/stiria.txt"
-      },
-      {
-        "shorttitle": "alice",
-        "title": "Alice's Adventures in Wonderland",
-        "author": "Lewis Carroll",
-        "date": "1865",
-        "path": "ChiLit/alice.txt"
-      },
-      {
-        "shorttitle": "coral",
-        "title": "The Coral Island: A Tale of the Pacific Ocean",
-        "author": "R. M. Ballantyne",
-        "date": "1858",
-        "path": "ChiLit/coral.txt"
       },
       {
         "shorttitle": "duke",
@@ -366,60 +189,11 @@
         "path": "ChiLit/duke.txt"
       },
       {
-        "shorttitle": "water",
-        "title": "The Water-Babies",
-        "author": "Charles Kingsley",
-        "date": "1863",
-        "path": "ChiLit/water.txt"
-      },
-      {
         "shorttitle": "holiday",
         "title": "Holiday House: A Series of Tales",
         "author": "Catherine Sinclair",
         "date": "1839",
         "path": "ChiLit/holiday.txt"
-      },
-      {
-        "shorttitle": "forest",
-        "title": "The Children of the New Forest",
-        "author": "Frederick Marryat",
-        "date": "1847",
-        "path": "ChiLit/forest.txt"
-      },
-      {
-        "shorttitle": "wind",
-        "title": "At the Back of the North Wind",
-        "author": "George MacDonald",
-        "date": "1871",
-        "path": "ChiLit/wind.txt"
-      },
-      {
-        "shorttitle": "glass",
-        "title": "Through the Looking-Glass",
-        "author": "Lewis Carroll",
-        "date": "1871",
-        "path": "ChiLit/glass.txt"
-      },
-      {
-        "shorttitle": "princess",
-        "title": "The Princess and the Goblin",
-        "author": "George MacDonald",
-        "date": "1872",
-        "path": "ChiLit/princess.txt"
-      },
-      {
-        "shorttitle": "vice",
-        "title": "Vice Versa; or, A Lesson to Fathers",
-        "author": "F. Anstey",
-        "date": "1882",
-        "path": "ChiLit/vice.txt"
-      },
-      {
-        "shorttitle": "willows",
-        "title": "The Wind in the Willows",
-        "author": "Kenneth Grahame",
-        "date": "1908",
-        "path": "ChiLit/willows.txt"
       },
       {
         "shorttitle": "prince",
@@ -478,20 +252,6 @@
         "path": "ChiLit/jemima.txt"
       },
       {
-        "shorttitle": "jungle",
-        "title": "The Jungle Book",
-        "author": "Rudyard Kipling",
-        "date": "1894",
-        "path": "ChiLit/jungle.txt"
-      },
-      {
-        "shorttitle": "pan",
-        "title": "Peter Pan",
-        "author": "J. M. Barrie",
-        "date": "1911",
-        "path": "ChiLit/pan.txt"
-      },
-      {
         "shorttitle": "flopsy",
         "title": "The Tale of the Flopsy Bunnies",
         "author": "Beatrix Potter",
@@ -504,13 +264,176 @@
         "author": "E. Nesbit",
         "date": "1905",
         "path": "ChiLit/railway.txt"
+      }
+    ],
+    "Other": [
+      {
+        "shorttitle": "gulliver",
+        "title": "Gulliver's Travels into Several Remote Nations of the World",
+        "author": "Jonathan Swift",
+        "date": "1726",
+        "path": "Other/gulliver.txt"
       },
       {
-        "shorttitle": "secret",
-        "title": "The Secret Garden",
-        "author": "Frances Hodgson Burnett",
-        "date": "1911",
-        "path": "ChiLit/secret.txt"
+        "shorttitle": "tenant",
+        "title": "The Tenant of Wildfell Hall",
+        "author": "Anne Brontë",
+        "date": "1848",
+        "path": "Other/tenant.txt"
+      },
+      {
+        "shorttitle": "carol",
+        "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+        "author": "Charles Dickens",
+        "date": "1843",
+        "path": "Other/carol.txt"
+      },
+      {
+        "shorttitle": "yellow",
+        "title": "The Yellow Wallpaper",
+        "author": "Charlotte Perkins Gilman",
+        "date": "1892",
+        "path": "Other/yellow.txt"
+      },
+      {
+        "shorttitle": "middlemarch",
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "date": "1871",
+        "path": "Other/middlemarch.txt"
+      },
+      {
+        "shorttitle": "war",
+        "title": "The War of the Worlds",
+        "author": "H. G. Wells",
+        "date": "1897",
+        "path": "Other/war.txt"
+      },
+      {
+        "shorttitle": "soldier",
+        "title": "The Return of the Soldier",
+        "author": "Rebecca West",
+        "date": "1918",
+        "path": "Other/soldier.txt"
+      },
+      {
+        "shorttitle": "signfour",
+        "title": "The Sign of the Four",
+        "author": "Arthur Conan Doyle",
+        "date": "1890",
+        "path": "Other/signfour.txt"
+      },
+      {
+        "shorttitle": "moonstone",
+        "title": "The Moonstone",
+        "author": "Wilkie Collins",
+        "date": "1868",
+        "path": "Other/moonstone.txt"
+      },
+      {
+        "shorttitle": "sense",
+        "title": "Sense and Sensibility",
+        "author": "Jane Austen",
+        "date": "1811",
+        "path": "Other/sense.txt"
+      },
+      {
+        "shorttitle": "awakening",
+        "title": "The Awakening, and Selected Short Stories",
+        "author": "Kate Chopin",
+        "date": "1899",
+        "path": "Other/awakening.txt"
+      },
+      {
+        "shorttitle": "womenlove",
+        "title": "Women in Love",
+        "author": "D. H. Lawrence",
+        "date": "1920",
+        "path": "Other/womenlove.txt"
+      },
+      {
+        "shorttitle": "silas",
+        "title": "Silas Marner",
+        "author": "George Eliot",
+        "date": "1861",
+        "path": "Other/silas.txt"
+      },
+      {
+        "shorttitle": "thejungle",
+        "title": "The Jungle",
+        "author": "Upton Sinclair",
+        "date": "1906",
+        "path": "Other/thejungle.txt"
+      },
+      {
+        "shorttitle": "twelveyears",
+        "title": "Twelve Years a Slave Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana",
+        "author": "Solomon Northup",
+        "date": "1853",
+        "path": "Other/twelveyears.txt"
+      },
+      {
+        "shorttitle": "room",
+        "title": "A Room with a View",
+        "author": "E. M. Forster",
+        "date": "1908",
+        "path": "Other/room.txt"
+      },
+      {
+        "shorttitle": "mansfield",
+        "title": "Mansfield Park",
+        "author": "Jane Austen",
+        "date": "1814",
+        "path": "Other/mansfield.txt"
+      },
+      {
+        "shorttitle": "northanger",
+        "title": "Northanger Abbey",
+        "author": "Jane Austen",
+        "date": "1817",
+        "path": "Other/northanger.txt"
+      },
+      {
+        "shorttitle": "ladysusan",
+        "title": "Lady Susan",
+        "author": "Jane Austen",
+        "date": "1871",
+        "path": "Other/ladysusan.txt"
+      },
+      {
+        "shorttitle": "maisie",
+        "title": "What Maisie Knew",
+        "author": "Henry James",
+        "date": "1897",
+        "path": "Other/maisie.txt"
+      },
+      {
+        "shorttitle": "heart",
+        "title": "Heart of Darkness",
+        "author": "Joseph Conrad",
+        "date": "1899",
+        "path": "Other/heart.txt"
+      },
+      {
+        "shorttitle": "huckleberry",
+        "title": "Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "date": "1884",
+        "path": "Other/huckleberry.txt"
+      },
+      {
+        "shorttitle": "portraittwo",
+        "title": "The Portrait of a Lady — Volume 2",
+        "author": "Henry James",
+        "date": "1881",
+        "path": "Other/portraittwo.txt"
+      },
+      {
+        "shorttitle": "portraitone",
+        "title": "The Portrait of a Lady — Volume 1",
+        "author": "Henry James",
+        "date": "1881",
+        "path": "Other/portraitone.txt"
       }
     ]
   }

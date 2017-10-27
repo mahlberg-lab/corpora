@@ -2,15 +2,15 @@ library(jsonlite)
 library(RefManageR)
 
 corpora <- data.frame(
-    "id" = c("ChiLit"),
-    "title" = c("Children's Literature"),
-    "description" = c("From work by Anna Čermáková."),
+    "id" = c("ChiLit", "Other"),
+    "title" = c("Children's Literature", "Other"),
+    "description" = c("From work by Anna Čermáková.", "A collection of 'other' texts with more set titles from A-Level and GCSE exam specifications."),
     stringsAsFactors = FALSE
 )
 
 b <- as.data.frame(ReadBib("../corpora.bib"), stringsAsFactors = FALSE)
 content <- lapply(setNames(corpora$id, corpora$id), function(x) {
-    tmp <- with(b, b[grepl(paste0('\\{', x, '\\}'), keywords), c('shorttitle', 'title', 'author', 'date')]) 
+    tmp <- with(b, b[grepl(paste0('\\{?', x, '\\}?'), keywords), c('shorttitle', 'title', 'author', 'date')]) 
     tmp$path <- paste(x, paste0(tmp$shorttitle, '.txt'), sep = '/')
     row.names(tmp) <- NULL  # else end up in JSON
     return(tmp)
