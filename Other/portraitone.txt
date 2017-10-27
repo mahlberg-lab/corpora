@@ -1,7 +1,7 @@
 ﻿The Portrait of a Lady Volume 1 (of 2)
 Henry James
 
-PREFACE
+PREFACE.
 
 “_The Portrait of a Lady_” was, like “_Roderick Hudson_,” begun in Florence,
 during three months spent there in the spring of 1879. Like “Roderick”
@@ -557,7 +557,7 @@ matter. There is really too much to say.
 HENRY JAMES
 
 
-CHAPTER I
+CHAPTER I.
 
 Under certain circumstances there are few hours in life more agreeable
 than the hour dedicated to the ceremony known as afternoon tea. There
@@ -1009,7 +1009,7 @@ after all, she’s not worth trying on!”
 
 
 
-CHAPTER II
+CHAPTER II.
 
 While this exchange of pleasantries took place between the two Ralph
 Touchett wandered away a little, with his usual slouching gait, his
@@ -1302,7 +1302,7 @@ woman. There it is!”
 
 
 
-CHAPTER III
+CHAPTER III.
 
 Mrs. Touchett was certainly a person of many oddities, of which her
 behaviour on returning to her husband’s house after many months was a
@@ -1636,7 +1636,7 @@ you later.”
 
 
 
-CHAPTER IV
+CHAPTER IV.
 
 Mrs. Ludlow was the eldest of the three sisters, and was usually thought
 the most sensible; the classification being in general that Lilian
@@ -1899,7 +1899,7 @@ added, a man weakly to accept defeat.
 
 
 
-CHAPTER V
+CHAPTER V.
 
 Ralph Touchett was a philosopher, but nevertheless he knocked at his
 mother’s door (at a quarter to seven) with a good deal of eagerness.
@@ -2428,7 +2428,7 @@ his hands always in his pockets, he went back to the empty drawing-room.
 
 
 
-CHAPTER VI
+CHAPTER VI.
 
 Isabel Archer was a young person of many theories; her imagination was
 remarkably active. It had been her fortune to possess a finer mind
@@ -2766,7 +2766,7 @@ lawn--“that will suit me perfectly!”
 
 
 
-CHAPTER VII
+CHAPTER VII.
 
 The two amused themselves, time and again, with talking of the attitude
 of the British public as if the young lady had been in a position to
@@ -3145,7 +3145,7 @@ things one shouldn’t do.”
 
 
 
-CHAPTER VIII
+CHAPTER VIII.
 
 As she was devoted to romantic effects Lord Warburton ventured to
 express a hope that she would come some day and see his house, a very
@@ -3414,7 +3414,7 @@ all!”
 
 
 
-CHAPTER IX
+CHAPTER IX.
 
 The two Misses Molyneux, this nobleman’s sisters, came presently to call
 upon her, and Isabel took a fancy to the young ladies, who appeared to
@@ -3710,7 +3710,7 @@ to many critics. It came from a certain fear.
 
 
 
-CHAPTER X
+CHAPTER X.
 
 The day after her visit to Lockleigh she received a note from her friend
 Miss Stackpole--a note of which the envelope, exhibiting in conjunction
@@ -4271,7 +4271,7 @@ smell of the Future--it almost knocks one down!”
 
 
 
-CHAPTER XI
+CHAPTER XI.
 
 He took a resolve after this not to misinterpret her words even when
 Miss Stackpole appeared to strike the personal note most strongly. He
@@ -4581,7 +4581,7 @@ her.
 
 
 
-CHAPTER XII
+CHAPTER XII.
 
 She put the letter into her pocket and offered her visitor a smile of
 welcome, exhibiting no trace of discomposure and half surprised at her
@@ -5021,7 +5021,7 @@ frightened at herself.
 
 
 
-CHAPTER XIII
+CHAPTER XIII.
 
 It was this feeling and not the wish to ask advice--she had no desire
 whatever for that--that led her to speak to her uncle of what had taken
@@ -5633,7 +5633,7 @@ to town as well. I may never have a chance to travel so safely!”
 
 
 
-CHAPTER XIV
+CHAPTER XIV.
 
 Miss Stackpole would have prepared to start immediately; but Isabel, as
 we have seen, had been notified that Lord Warburton would come again to
@@ -6110,7 +6110,7 @@ like Lord Warburton’s it’s because you expect to do something better.”
 
 
 
-CHAPTER XV
+CHAPTER XV.
 
 It had been arranged that the two young ladies should proceed to London
 under Ralph’s escort, though Mrs. Touchett looked with little favour on
@@ -6745,7 +6745,7 @@ said. “But it’s worse when they remember it!”
 
 
 
-CHAPTER XVI
+CHAPTER XVI.
 
 She had had no hidden motive in wishing him not to take her home; it
 simply struck her that for some days past she had consumed an inordinate
@@ -7280,7 +7280,7 @@ before her bed and hid her face in her arms.
 
 
 
-CHAPTER XVII
+CHAPTER XVII.
 
 She was not praying; she was trembling--trembling all over. Vibration
 was easy to her, was in fact too constant with her, and she found
@@ -7586,7 +7586,7 @@ up myself. I mean I’d give _her_ up!”
 
 
 
-CHAPTER XVIII
+CHAPTER XVIII.
 
 It had occurred to Ralph that, in the conditions, Isabel’s parting with
 her friend might be of a slightly embarrassed nature, and he went down
@@ -8306,7 +8306,7 @@ way I’ve taken advantage of you!”
 
 
 
-CHAPTER XIX
+CHAPTER XIX.
 
 As Mrs. Touchett had foretold, Isabel and Madame Merle were thrown
 much together during the illness of their host, so that if they had
@@ -9074,7 +9074,7 @@ him.
 
 
 
-CHAPTER XX
+CHAPTER XX.
 
 Some fortnight after this Madame Merle drove up in a hansom cab to
 the house in Winchester Square. As she descended from her vehicle she
@@ -9561,7 +9561,7 @@ her gallant friend during the spring in Italy.
 
 
 
-CHAPTER XXI
+CHAPTER XXI.
 
 Mrs. Touchett, before arriving in Paris, had fixed the day for her
 departure and by the middle of February had begun to travel southward.
@@ -9822,7 +9822,7 @@ what she wished to seem to him. That alone was grateful to her pride.
 
 
 
-CHAPTER XXII
+CHAPTER XXII.
 
 On one of the first days of May, some six months after old Mr.
 Touchett’s death, a small group that might have been described by a
@@ -10655,7 +10655,7 @@ and they passed into the garden.
 
 
 
-CHAPTER XXIII
+CHAPTER XXIII.
 
 Madame Merle, who had come to Florence on Mrs. Touchett’s arrival at
 the invitation of this lady--Mrs. Touchett offering her for a month the
@@ -11006,7 +11006,7 @@ that Isabel would be injured.
 
 
 
-CHAPTER XXIV
+CHAPTER XXIV.
 
 It would certainly have been hard to see what injury could arise to
 her from the visit she presently paid to Mr. Osmond’s hill-top. Nothing
@@ -11537,7 +11537,7 @@ She is my great happiness!”
 
 
 
-CHAPTER XXV
+CHAPTER XXV.
 
 While this sufficiently intimate colloquy (prolonged for some time after
 we cease to follow it) went forward Madame Merle and her companion,
@@ -11830,7 +11830,7 @@ happiness!”
 
 
 
-CHAPTER XXVI
+CHAPTER XXVI.
 
 Gilbert Osmond came to see Isabel again; that is he came to Palazzo
 Crescentini. He had other friends there as well, and to Mrs. Touchett
@@ -12374,7 +12374,7 @@ shall I do with Pansy?”
 
 
 
-CHAPTER XXVII
+CHAPTER XXVII.
 
 I may not attempt to report in its fulness our young woman’s response
 to the deep appeal of Rome, to analyse her feelings as she trod the
