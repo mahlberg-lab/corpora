@@ -6,9 +6,9 @@
       "description": "From work by Anna Čermáková."
     },
     {
-      "id": "Other",
-      "title": "Other",
-      "description": "A collection of 'other' texts with more set titles from A-Level and GCSE exam specifications."
+      "id": "ArTs",
+      "title": "Additional Requested Texts",
+      "description": "More set titles from A-Level and GCSE exam specifications."
     }
   ],
   "content": {
@@ -266,174 +266,174 @@
         "path": "ChiLit/railway.txt"
       }
     ],
-    "Other": [
+    "ArTs": [
       {
         "shorttitle": "gulliver",
         "title": "Gulliver's Travels into Several Remote Nations of the World",
         "author": "Jonathan Swift",
         "date": "1726",
-        "path": "Other/gulliver.txt"
+        "path": "ArTs/gulliver.txt"
       },
       {
         "shorttitle": "tenant",
         "title": "The Tenant of Wildfell Hall",
         "author": "Anne Brontë",
         "date": "1848",
-        "path": "Other/tenant.txt"
+        "path": "ArTs/tenant.txt"
       },
       {
         "shorttitle": "carol",
         "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
         "author": "Charles Dickens",
         "date": "1843",
-        "path": "Other/carol.txt"
+        "path": "ArTs/carol.txt"
       },
       {
         "shorttitle": "yellow",
         "title": "The Yellow Wallpaper",
         "author": "Charlotte Perkins Gilman",
         "date": "1892",
-        "path": "Other/yellow.txt"
+        "path": "ArTs/yellow.txt"
       },
       {
         "shorttitle": "middlemarch",
         "title": "Middlemarch",
         "author": "George Eliot",
         "date": "1871",
-        "path": "Other/middlemarch.txt"
+        "path": "ArTs/middlemarch.txt"
       },
       {
         "shorttitle": "war",
         "title": "The War of the Worlds",
         "author": "H. G. Wells",
         "date": "1897",
-        "path": "Other/war.txt"
+        "path": "ArTs/war.txt"
       },
       {
         "shorttitle": "soldier",
         "title": "The Return of the Soldier",
         "author": "Rebecca West",
         "date": "1918",
-        "path": "Other/soldier.txt"
+        "path": "ArTs/soldier.txt"
       },
       {
         "shorttitle": "signfour",
         "title": "The Sign of the Four",
         "author": "Arthur Conan Doyle",
         "date": "1890",
-        "path": "Other/signfour.txt"
+        "path": "ArTs/signfour.txt"
       },
       {
         "shorttitle": "moonstone",
         "title": "The Moonstone",
         "author": "Wilkie Collins",
         "date": "1868",
-        "path": "Other/moonstone.txt"
+        "path": "ArTs/moonstone.txt"
       },
       {
         "shorttitle": "sense",
         "title": "Sense and Sensibility",
         "author": "Jane Austen",
         "date": "1811",
-        "path": "Other/sense.txt"
+        "path": "ArTs/sense.txt"
       },
       {
         "shorttitle": "awakening",
         "title": "The Awakening, and Selected Short Stories",
         "author": "Kate Chopin",
         "date": "1899",
-        "path": "Other/awakening.txt"
+        "path": "ArTs/awakening.txt"
       },
       {
         "shorttitle": "womenlove",
         "title": "Women in Love",
         "author": "D. H. Lawrence",
         "date": "1920",
-        "path": "Other/womenlove.txt"
+        "path": "ArTs/womenlove.txt"
       },
       {
         "shorttitle": "silas",
         "title": "Silas Marner",
         "author": "George Eliot",
         "date": "1861",
-        "path": "Other/silas.txt"
+        "path": "ArTs/silas.txt"
       },
       {
         "shorttitle": "thejungle",
         "title": "The Jungle",
         "author": "Upton Sinclair",
         "date": "1906",
-        "path": "Other/thejungle.txt"
+        "path": "ArTs/thejungle.txt"
       },
       {
         "shorttitle": "twelveyears",
         "title": "Twelve Years a Slave Narrative of Solomon Northup, a Citizen of New-York, Kidnapped in Washington City in 1841, and Rescued in 1853, from a Cotton Plantation near the Red River in Louisiana",
         "author": "Solomon Northup",
         "date": "1853",
-        "path": "Other/twelveyears.txt"
+        "path": "ArTs/twelveyears.txt"
       },
       {
         "shorttitle": "room",
         "title": "A Room with a View",
         "author": "E. M. Forster",
         "date": "1908",
-        "path": "Other/room.txt"
+        "path": "ArTs/room.txt"
       },
       {
         "shorttitle": "mansfield",
         "title": "Mansfield Park",
         "author": "Jane Austen",
         "date": "1814",
-        "path": "Other/mansfield.txt"
+        "path": "ArTs/mansfield.txt"
       },
       {
         "shorttitle": "northanger",
         "title": "Northanger Abbey",
         "author": "Jane Austen",
         "date": "1817",
-        "path": "Other/northanger.txt"
+        "path": "ArTs/northanger.txt"
       },
       {
         "shorttitle": "ladysusan",
         "title": "Lady Susan",
         "author": "Jane Austen",
         "date": "1871",
-        "path": "Other/ladysusan.txt"
+        "path": "ArTs/ladysusan.txt"
       },
       {
         "shorttitle": "maisie",
         "title": "What Maisie Knew",
         "author": "Henry James",
         "date": "1897",
-        "path": "Other/maisie.txt"
+        "path": "ArTs/maisie.txt"
       },
       {
         "shorttitle": "heart",
         "title": "Heart of Darkness",
         "author": "Joseph Conrad",
         "date": "1899",
-        "path": "Other/heart.txt"
+        "path": "ArTs/heart.txt"
       },
       {
         "shorttitle": "huckleberry",
         "title": "Adventures of Huckleberry Finn",
         "author": "Mark Twain",
         "date": "1884",
-        "path": "Other/huckleberry.txt"
+        "path": "ArTs/huckleberry.txt"
       },
       {
         "shorttitle": "portraittwo",
         "title": "The Portrait of a Lady — Volume 2",
         "author": "Henry James",
         "date": "1881",
-        "path": "Other/portraittwo.txt"
+        "path": "ArTs/portraittwo.txt"
       },
       {
         "shorttitle": "portraitone",
         "title": "The Portrait of a Lady — Volume 1",
         "author": "Henry James",
         "date": "1881",
-        "path": "Other/portraitone.txt"
+        "path": "ArTs/portraitone.txt"
       }
     ]
   }
