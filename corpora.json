@@ -6,6 +6,11 @@
       "description": ""
     },
     {
+      "id": "19C",
+      "title": "19th Century Reference Corpus",
+      "description": ""
+    },
+    {
       "id": "ChiLit",
       "title": "Children's Literature",
       "description": "From work by Anna Čermáková."
@@ -122,6 +127,211 @@
         "author": "Charles Dickens",
         "date": "",
         "path": "DNov/TTC.txt"
+      }
+    ],
+    "19C": [
+      {
+        "shorttitle": "AgnesG",
+        "title": "Agnes Grey",
+        "author": "Anne Brontë",
+        "date": "",
+        "path": "19C/AgnesG.txt"
+      },
+      {
+        "shorttitle": "alli",
+        "title": "The Small House at Allington",
+        "author": "Anthony Trollope",
+        "date": "",
+        "path": "19C/alli.txt"
+      },
+      {
+        "shorttitle": "Antoni",
+        "title": "Antonina, or the Fall of Rome",
+        "author": "Wilkie Collins",
+        "date": "",
+        "path": "19C/Antoni.txt"
+      },
+      {
+        "shorttitle": "arma",
+        "title": "Armadale",
+        "author": "Wilkie Collins",
+        "date": "",
+        "path": "19C/arma.txt"
+      },
+      {
+        "shorttitle": "basker",
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "date": "",
+        "path": "19C/basker.txt"
+      },
+      {
+        "shorttitle": "cran",
+        "title": "Cranford",
+        "author": "Elizabeth Cleghorn Gaskell",
+        "date": "",
+        "path": "19C/cran.txt"
+      },
+      {
+        "shorttitle": "Deronda",
+        "title": "Daniel Deronda",
+        "author": "George Eliot",
+        "date": "",
+        "path": "19C/Deronda.txt"
+      },
+      {
+        "shorttitle": "dorian",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "date": "",
+        "path": "19C/dorian.txt"
+      },
+      {
+        "shorttitle": "dracula",
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "date": "",
+        "path": "19C/dracula.txt"
+      },
+      {
+        "shorttitle": "emma",
+        "title": "Emma",
+        "author": "Jane Austen",
+        "date": "",
+        "path": "19C/emma.txt"
+      },
+      {
+        "shorttitle": "frank",
+        "title": "Frankenstein",
+        "author": "Mary Wollstonecraft Shelley",
+        "date": "",
+        "path": "19C/frank.txt"
+      },
+      {
+        "shorttitle": "jane",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "date": "",
+        "path": "19C/jane.txt"
+      },
+      {
+        "shorttitle": "Jekyll",
+        "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+        "author": "Robert Louis Stevenson",
+        "date": "",
+        "path": "19C/Jekyll.txt"
+      },
+      {
+        "shorttitle": "Jude",
+        "title": "Jude the Obscure",
+        "author": "Thomas Hardy",
+        "date": "",
+        "path": "19C/Jude.txt"
+      },
+      {
+        "shorttitle": "LadyAud",
+        "title": "Lady Audley's Secret",
+        "author": "M. E. Braddon",
+        "date": "",
+        "path": "19C/LadyAud.txt"
+      },
+      {
+        "shorttitle": "mary",
+        "title": "Mary Barton",
+        "author": "Elizabeth Cleghorn Gaskell",
+        "date": "",
+        "path": "19C/mary.txt"
+      },
+      {
+        "shorttitle": "mill",
+        "title": "The Mill on the Floss",
+        "author": "George Eliot",
+        "date": "",
+        "path": "19C/mill.txt"
+      },
+      {
+        "shorttitle": "native",
+        "title": "The Return of the Native",
+        "author": "Thomas Hardy",
+        "date": "",
+        "path": "19C/native.txt"
+      },
+      {
+        "shorttitle": "NorthS",
+        "title": "North and South",
+        "author": "Elizabeth Cleghorn Gaskell",
+        "date": "",
+        "path": "19C/NorthS.txt"
+      },
+      {
+        "shorttitle": "persuasion",
+        "title": "Persuasion",
+        "author": "Jane Austen",
+        "date": "",
+        "path": "19C/persuasion.txt"
+      },
+      {
+        "shorttitle": "Pomp",
+        "title": "The Last Days of Pompeii",
+        "author": "Baron Edward Bulwer Lytton Lytton",
+        "date": "",
+        "path": "19C/Pomp.txt"
+      },
+      {
+        "shorttitle": "pride",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "date": "",
+        "path": "19C/pride.txt"
+      },
+      {
+        "shorttitle": "Prof",
+        "title": "The Professor",
+        "author": "Charlotte Brontë",
+        "date": "",
+        "path": "19C/Prof.txt"
+      },
+      {
+        "shorttitle": "sybil",
+        "title": "Sybil, or the two nations",
+        "author": "Earl of Beaconsfield Benjamin Disraeli",
+        "date": "",
+        "path": "19C/sybil.txt"
+      },
+      {
+        "shorttitle": "Tess",
+        "title": "Tess of the D'Urbervilles",
+        "author": "Thomas Hardy",
+        "date": "",
+        "path": "19C/Tess.txt"
+      },
+      {
+        "shorttitle": "vanity",
+        "title": "Vanity Fair",
+        "author": "William Makepeace Thackeray",
+        "date": "",
+        "path": "19C/vanity.txt"
+      },
+      {
+        "shorttitle": "VivianG",
+        "title": "Vivian Grey",
+        "author": "Earl of Beaconsfield Benjamin Disraeli",
+        "date": "",
+        "path": "19C/VivianG.txt"
+      },
+      {
+        "shorttitle": "wh",
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "date": "",
+        "path": "19C/wh.txt"
+      },
+      {
+        "shorttitle": "wwhite",
+        "title": "The Woman in White",
+        "author": "Wilkie Collins",
+        "date": "",
+        "path": "19C/wwhite.txt"
       }
     ],
     "ChiLit": [
