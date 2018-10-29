@@ -1,6 +1,11 @@
 {
   "corpora": [
     {
+      "id": "DNov",
+      "title": "Dickens's Novels",
+      "description": ""
+    },
+    {
       "id": "ChiLit",
       "title": "Children's Literature",
       "description": "From work by Anna Čermáková."
@@ -12,6 +17,113 @@
     }
   ],
   "content": {
+    "DNov": [
+      {
+        "shorttitle": "BH",
+        "title": "Bleak House",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/BH.txt"
+      },
+      {
+        "shorttitle": "BR",
+        "title": "Barnaby Rudge",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/BR.txt"
+      },
+      {
+        "shorttitle": "DC",
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/DC.txt"
+      },
+      {
+        "shorttitle": "DS",
+        "title": "Dombey and Son",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/DS.txt"
+      },
+      {
+        "shorttitle": "ED",
+        "title": "The Mystery of Edwin Drood",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/ED.txt"
+      },
+      {
+        "shorttitle": "GE",
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/GE.txt"
+      },
+      {
+        "shorttitle": "HT",
+        "title": "Hard Times",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/HT.txt"
+      },
+      {
+        "shorttitle": "LD",
+        "title": "Little Dorrit",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/LD.txt"
+      },
+      {
+        "shorttitle": "MC",
+        "title": "Martin Chuzzlewit",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/MC.txt"
+      },
+      {
+        "shorttitle": "NN",
+        "title": "Nicholas Nickleby",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/NN.txt"
+      },
+      {
+        "shorttitle": "OCS",
+        "title": "The Old Curiosity Shop",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/OCS.txt"
+      },
+      {
+        "shorttitle": "OMF",
+        "title": "Our Mutual Friend",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/OMF.txt"
+      },
+      {
+        "shorttitle": "OT",
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/OT.txt"
+      },
+      {
+        "shorttitle": "PP",
+        "title": "Pickwick Papers",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/PP.txt"
+      },
+      {
+        "shorttitle": "TTC",
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "date": "",
+        "path": "DNov/TTC.txt"
+      }
+    ],
     "ChiLit": [
       {
         "shorttitle": "settlers",
