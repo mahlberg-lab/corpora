@@ -1,16 +1,6 @@
 {
   "corpora": [
     {
-      "id": "DNov",
-      "title": "Dickens's Novels",
-      "description": ""
-    },
-    {
-      "id": "19C",
-      "title": "19th Century Reference Corpus",
-      "description": ""
-    },
-    {
       "id": "ChiLit",
       "title": "Children's Literature",
       "description": "From work by Anna Čermáková."
@@ -18,323 +8,158 @@
     {
       "id": "ArTs",
       "title": "Additional Requested Texts",
-      "description": "More set titles from A-Level and GCSE exam specifications."
+      "description": "Additional requested texts with more set titles from A-Level and GCSE exam specifications."
     }
   ],
   "content": {
-    "DNov": [
-      {
-        "shorttitle": "BH",
-        "title": "Bleak House",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/BH.txt"
-      },
-      {
-        "shorttitle": "BR",
-        "title": "Barnaby Rudge",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/BR.txt"
-      },
-      {
-        "shorttitle": "DC",
-        "title": "David Copperfield",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/DC.txt"
-      },
-      {
-        "shorttitle": "DS",
-        "title": "Dombey and Son",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/DS.txt"
-      },
-      {
-        "shorttitle": "ED",
-        "title": "The Mystery of Edwin Drood",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/ED.txt"
-      },
-      {
-        "shorttitle": "GE",
-        "title": "Great Expectations",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/GE.txt"
-      },
-      {
-        "shorttitle": "HT",
-        "title": "Hard Times",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/HT.txt"
-      },
-      {
-        "shorttitle": "LD",
-        "title": "Little Dorrit",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/LD.txt"
-      },
-      {
-        "shorttitle": "MC",
-        "title": "Martin Chuzzlewit",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/MC.txt"
-      },
-      {
-        "shorttitle": "NN",
-        "title": "Nicholas Nickleby",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/NN.txt"
-      },
-      {
-        "shorttitle": "OCS",
-        "title": "The Old Curiosity Shop",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/OCS.txt"
-      },
-      {
-        "shorttitle": "OMF",
-        "title": "Our Mutual Friend",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/OMF.txt"
-      },
-      {
-        "shorttitle": "OT",
-        "title": "Oliver Twist",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/OT.txt"
-      },
-      {
-        "shorttitle": "PP",
-        "title": "Pickwick Papers",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/PP.txt"
-      },
-      {
-        "shorttitle": "TTC",
-        "title": "A Tale of Two Cities",
-        "author": "Charles Dickens",
-        "date": "",
-        "path": "DNov/TTC.txt"
-      }
-    ],
-    "19C": [
-      {
-        "shorttitle": "AgnesG",
-        "title": "Agnes Grey",
-        "author": "Anne Brontë",
-        "date": "",
-        "path": "19C/AgnesG.txt"
-      },
-      {
-        "shorttitle": "alli",
-        "title": "The Small House at Allington",
-        "author": "Anthony Trollope",
-        "date": "",
-        "path": "19C/alli.txt"
-      },
-      {
-        "shorttitle": "Antoni",
-        "title": "Antonina, or the Fall of Rome",
-        "author": "Wilkie Collins",
-        "date": "",
-        "path": "19C/Antoni.txt"
-      },
-      {
-        "shorttitle": "arma",
-        "title": "Armadale",
-        "author": "Wilkie Collins",
-        "date": "",
-        "path": "19C/arma.txt"
-      },
-      {
-        "shorttitle": "basker",
-        "title": "The Hound of the Baskervilles",
-        "author": "Arthur Conan Doyle",
-        "date": "",
-        "path": "19C/basker.txt"
-      },
-      {
-        "shorttitle": "cran",
-        "title": "Cranford",
-        "author": "Elizabeth Cleghorn Gaskell",
-        "date": "",
-        "path": "19C/cran.txt"
-      },
-      {
-        "shorttitle": "Deronda",
-        "title": "Daniel Deronda",
-        "author": "George Eliot",
-        "date": "",
-        "path": "19C/Deronda.txt"
-      },
-      {
-        "shorttitle": "dorian",
-        "title": "The Picture of Dorian Gray",
-        "author": "Oscar Wilde",
-        "date": "",
-        "path": "19C/dorian.txt"
-      },
-      {
-        "shorttitle": "dracula",
-        "title": "Dracula",
-        "author": "Bram Stoker",
-        "date": "",
-        "path": "19C/dracula.txt"
-      },
-      {
-        "shorttitle": "emma",
-        "title": "Emma",
-        "author": "Jane Austen",
-        "date": "",
-        "path": "19C/emma.txt"
-      },
-      {
-        "shorttitle": "frank",
-        "title": "Frankenstein",
-        "author": "Mary Wollstonecraft Shelley",
-        "date": "",
-        "path": "19C/frank.txt"
-      },
-      {
-        "shorttitle": "jane",
-        "title": "Jane Eyre",
-        "author": "Charlotte Brontë",
-        "date": "",
-        "path": "19C/jane.txt"
-      },
-      {
-        "shorttitle": "Jekyll",
-        "title": "The Strange Case of Dr Jekyll and Mr Hyde",
-        "author": "Robert Louis Stevenson",
-        "date": "",
-        "path": "19C/Jekyll.txt"
-      },
-      {
-        "shorttitle": "Jude",
-        "title": "Jude the Obscure",
-        "author": "Thomas Hardy",
-        "date": "",
-        "path": "19C/Jude.txt"
-      },
-      {
-        "shorttitle": "LadyAud",
-        "title": "Lady Audley's Secret",
-        "author": "M. E. Braddon",
-        "date": "",
-        "path": "19C/LadyAud.txt"
-      },
-      {
-        "shorttitle": "mary",
-        "title": "Mary Barton",
-        "author": "Elizabeth Cleghorn Gaskell",
-        "date": "",
-        "path": "19C/mary.txt"
-      },
-      {
-        "shorttitle": "mill",
-        "title": "The Mill on the Floss",
-        "author": "George Eliot",
-        "date": "",
-        "path": "19C/mill.txt"
-      },
-      {
-        "shorttitle": "native",
-        "title": "The Return of the Native",
-        "author": "Thomas Hardy",
-        "date": "",
-        "path": "19C/native.txt"
-      },
-      {
-        "shorttitle": "NorthS",
-        "title": "North and South",
-        "author": "Elizabeth Cleghorn Gaskell",
-        "date": "",
-        "path": "19C/NorthS.txt"
-      },
-      {
-        "shorttitle": "persuasion",
-        "title": "Persuasion",
-        "author": "Jane Austen",
-        "date": "",
-        "path": "19C/persuasion.txt"
-      },
-      {
-        "shorttitle": "Pomp",
-        "title": "The Last Days of Pompeii",
-        "author": "Baron Edward Bulwer Lytton Lytton",
-        "date": "",
-        "path": "19C/Pomp.txt"
-      },
-      {
-        "shorttitle": "pride",
-        "title": "Pride and Prejudice",
-        "author": "Jane Austen",
-        "date": "",
-        "path": "19C/pride.txt"
-      },
-      {
-        "shorttitle": "Prof",
-        "title": "The Professor",
-        "author": "Charlotte Brontë",
-        "date": "",
-        "path": "19C/Prof.txt"
-      },
-      {
-        "shorttitle": "sybil",
-        "title": "Sybil, or the two nations",
-        "author": "Earl of Beaconsfield Benjamin Disraeli",
-        "date": "",
-        "path": "19C/sybil.txt"
-      },
-      {
-        "shorttitle": "Tess",
-        "title": "Tess of the D'Urbervilles",
-        "author": "Thomas Hardy",
-        "date": "",
-        "path": "19C/Tess.txt"
-      },
-      {
-        "shorttitle": "vanity",
-        "title": "Vanity Fair",
-        "author": "William Makepeace Thackeray",
-        "date": "",
-        "path": "19C/vanity.txt"
-      },
-      {
-        "shorttitle": "VivianG",
-        "title": "Vivian Grey",
-        "author": "Earl of Beaconsfield Benjamin Disraeli",
-        "date": "",
-        "path": "19C/VivianG.txt"
-      },
-      {
-        "shorttitle": "wh",
-        "title": "Wuthering Heights",
-        "author": "Emily Brontë",
-        "date": "",
-        "path": "19C/wh.txt"
-      },
-      {
-        "shorttitle": "wwhite",
-        "title": "The Woman in White",
-        "author": "Wilkie Collins",
-        "date": "",
-        "path": "19C/wwhite.txt"
-      }
-    ],
     "ChiLit": [
+      {
+        "shorttitle": "brass",
+        "title": "The Brass Bottle",
+        "author": "F. Anstey",
+        "date": "1900",
+        "path": "ChiLit/brass.txt"
+      },
+      {
+        "shorttitle": "toadylion",
+        "title": "The Surprising Adventures of Sir Toady Lion with Those of General Napoleon Smith",
+        "author": "S. R. Crockett",
+        "date": "1897",
+        "path": "ChiLit/toadylion.txt"
+      },
+      {
+        "shorttitle": "mulgars",
+        "title": "The Three Mulla-mulgars",
+        "author": "W. De la Mare",
+        "date": "1910",
+        "path": "ChiLit/mulgars.txt"
+      },
+      {
+        "shorttitle": "overtheway",
+        "title": "Mrs. Overtheway's Remembrances",
+        "author": "J. H. G. Ewing",
+        "date": "1869",
+        "path": "ChiLit/overtheway.txt"
+      },
+      {
+        "shorttitle": "jackanapes",
+        "title": "Jackanapes",
+        "author": "J. H. G. Ewing",
+        "date": "1883",
+        "path": "ChiLit/jackanapes.txt"
+      },
+      {
+        "shorttitle": "moonfleet",
+        "title": "Moonfleet",
+        "author": "J. M. Falkner",
+        "date": "1898",
+        "path": "ChiLit/moonfleet.txt"
+      },
+      {
+        "shorttitle": "wallypug",
+        "title": "Adventures in Wallypug-Land",
+        "author": "G. E. Farrow",
+        "date": "1898",
+        "path": "ChiLit/wallypug.txt"
+      },
+      {
+        "shorttitle": "goldenage",
+        "title": "The Golden Age",
+        "author": "K. Grahame",
+        "date": "1895",
+        "path": "ChiLit/goldenage.txt"
+      },
+      {
+        "shorttitle": "dreamdays",
+        "title": "Dream Days",
+        "author": "K. Grahame",
+        "date": "1898",
+        "path": "ChiLit/dreamdays.txt"
+      },
+      {
+        "shorttitle": "solomons",
+        "title": "King Solomon's Mines",
+        "author": "H. R. Haggard",
+        "date": "1885",
+        "path": "ChiLit/solomons.txt"
+      },
+      {
+        "shorttitle": "quatermain",
+        "title": "Allan Quatermain",
+        "author": "H. R. Haggard",
+        "date": "1887",
+        "path": "ChiLit/quatermain.txt"
+      },
+      {
+        "shorttitle": "clive",
+        "title": "With Clive in India; Or, The Beginnings of an Empire",
+        "author": "G. A. Henty",
+        "date": "1884",
+        "path": "ChiLit/clive.txt"
+      },
+      {
+        "shorttitle": "winning",
+        "title": "Winning His Spurs. A Tale of the Crusades",
+        "author": "G. A. Henty",
+        "date": "1882",
+        "path": "ChiLit/winning.txt"
+      },
+      {
+        "shorttitle": "tombrown",
+        "title": "Tom Brown’s Schooldays",
+        "author": "T. Hughes",
+        "date": "1857",
+        "path": "ChiLit/tombrown.txt"
+      },
+      {
+        "shorttitle": "mopsa",
+        "title": "Mopsa the Fairy",
+        "author": "J. Ingelow",
+        "date": "1869",
+        "path": "ChiLit/mopsa.txt"
+      },
+      {
+        "shorttitle": "woodmagic",
+        "title": "Wood Magic, a Fable",
+        "author": "R. Jefferies",
+        "date": "1881",
+        "path": "ChiLit/woodmagic.txt"
+      },
+      {
+        "shorttitle": "howwhy",
+        "title": "Madam How and Lady Why; Or, First Lessons in Earth Lore for Children",
+        "author": "C. Kingsley",
+        "date": "1870",
+        "path": "ChiLit/howwhy.txt"
+      },
+      {
+        "shorttitle": "stalky",
+        "title": "Stalky and Co",
+        "author": "R. Kipling",
+        "date": "1899",
+        "path": "ChiLit/stalky.txt"
+      },
+      {
+        "shorttitle": "prigio",
+        "title": "Prince Prigio",
+        "author": "A. Lang",
+        "date": "1889",
+        "path": "ChiLit/prigio.txt"
+      },
+      {
+        "shorttitle": "canada",
+        "title": "The Settlers in Canada",
+        "author": "F. Marryat",
+        "date": "1844",
+        "path": "ChiLit/canada.txt"
+      },
+      {
+        "shorttitle": "masterman",
+        "title": "Masterman Ready; Or, The Wreck of the “Pacific”",
+        "author": "F. Marryat",
+        "date": "1841",
+        "path": "ChiLit/masterman.txt"
+      },
       {
         "shorttitle": "settlers",
         "title": "The Settlers at Home",
@@ -348,6 +173,13 @@
         "author": "H. Martineau",
         "date": "1841",
         "path": "ChiLit/peasant.txt"
+      },
+      {
+        "shorttitle": "fiord",
+        "title": "Feats on the Fiord",
+        "author": "H. Martineau",
+        "date": "1841",
+        "path": "ChiLit/fiord.txt"
       },
       {
         "shorttitle": "crofton",
@@ -504,6 +336,20 @@
         "path": "ChiLit/stiria.txt"
       },
       {
+        "shorttitle": "alice",
+        "title": "Alice's Adventures in Wonderland",
+        "author": "Lewis Carroll",
+        "date": "1865",
+        "path": "ChiLit/alice.txt"
+      },
+      {
+        "shorttitle": "coral",
+        "title": "The Coral Island: A Tale of the Pacific Ocean",
+        "author": "R. M. Ballantyne",
+        "date": "1858",
+        "path": "ChiLit/coral.txt"
+      },
+      {
         "shorttitle": "duke",
         "title": "The Little Duke: Richard the Fearless",
         "author": "Charlotte M. Yonge",
@@ -511,11 +357,60 @@
         "path": "ChiLit/duke.txt"
       },
       {
+        "shorttitle": "water",
+        "title": "The Water-Babies",
+        "author": "Charles Kingsley",
+        "date": "1863",
+        "path": "ChiLit/water.txt"
+      },
+      {
         "shorttitle": "holiday",
         "title": "Holiday House: A Series of Tales",
         "author": "Catherine Sinclair",
         "date": "1839",
         "path": "ChiLit/holiday.txt"
+      },
+      {
+        "shorttitle": "forest",
+        "title": "The Children of the New Forest",
+        "author": "Frederick Marryat",
+        "date": "1847",
+        "path": "ChiLit/forest.txt"
+      },
+      {
+        "shorttitle": "wind",
+        "title": "At the Back of the North Wind",
+        "author": "George MacDonald",
+        "date": "1871",
+        "path": "ChiLit/wind.txt"
+      },
+      {
+        "shorttitle": "glass",
+        "title": "Through the Looking-Glass",
+        "author": "Lewis Carroll",
+        "date": "1871",
+        "path": "ChiLit/glass.txt"
+      },
+      {
+        "shorttitle": "princess",
+        "title": "The Princess and the Goblin",
+        "author": "George MacDonald",
+        "date": "1872",
+        "path": "ChiLit/princess.txt"
+      },
+      {
+        "shorttitle": "vice",
+        "title": "Vice Versa; or, A Lesson to Fathers",
+        "author": "F. Anstey",
+        "date": "1882",
+        "path": "ChiLit/vice.txt"
+      },
+      {
+        "shorttitle": "willows",
+        "title": "The Wind in the Willows",
+        "author": "Kenneth Grahame",
+        "date": "1908",
+        "path": "ChiLit/willows.txt"
       },
       {
         "shorttitle": "prince",
@@ -574,6 +469,20 @@
         "path": "ChiLit/jemima.txt"
       },
       {
+        "shorttitle": "jungle",
+        "title": "The Jungle Book",
+        "author": "Rudyard Kipling",
+        "date": "1894",
+        "path": "ChiLit/jungle.txt"
+      },
+      {
+        "shorttitle": "pan",
+        "title": "Peter Pan",
+        "author": "J. M. Barrie",
+        "date": "1911",
+        "path": "ChiLit/pan.txt"
+      },
+      {
         "shorttitle": "flopsy",
         "title": "The Tale of the Flopsy Bunnies",
         "author": "Beatrix Potter",
@@ -586,6 +495,13 @@
         "author": "E. Nesbit",
         "date": "1905",
         "path": "ChiLit/railway.txt"
+      },
+      {
+        "shorttitle": "secret",
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "date": "1911",
+        "path": "ChiLit/secret.txt"
       }
     ],
     "ArTs": [
