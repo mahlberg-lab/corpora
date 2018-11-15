@@ -198,6 +198,29 @@ Example entry:
         keywords = {{ChiLit}}        <<===  corpus id
     }
 \end{verbatim}
+If you are adding a new corpus, you will also have to create a \texttt{@book} entry for the corpus.
+The important fields in the bib entries are:
+\begin{itemize}
+    \item The \texttt{shorttitle} field must match the corpus id used in book \texttt{keywords}
+    \item The \texttt{title} field must be present.
+    \item The \texttt{number} field must be present, and is used to order the corpora in CLiC.
+    \item The \texttt{keyword} field must contain the keyword \texttt{corpus}.
+\end{itemize}
+Example entry:
+\begin{verbatim}
+    @book{cermakova_childrens_2017,
+        location = {University of Birmingham, {UK}},
+        title = {Children's Literature},
+        series = {{CCR} Corpus},
+        shorttitle = {{ChiLit}},
+        number = {3},
+        publisher = {Centre for Corpus Research},
+        author = {Čermáková, A. and Mahlberg, M. and Wiegand, V.},
+        date = {2017},
+        keywords = {corpus}
+    }
+\end{verbatim}
+
 \subsection{Adding a new text to a corpus} \label{se:add_file}
 \begin{enumerate}
     \item Clean the text as described in Section~\ref{se:cleaning}.
@@ -212,6 +235,7 @@ Example entry:
 \subsection{Adding a new corpus}
 \begin{enumerate}
     \item Edit the \texttt{scripts/bib2json.R} script to include the new corpus.
+    \item Add an entry to the \texttt{.bib} file for the corpus; see Section~\ref{se:bib_file}.
     \item For each new corpus file
         \begin{enumerate}
             \item Clean the text as described in Section~\ref{se:cleaning}.
