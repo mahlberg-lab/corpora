@@ -2,9 +2,8 @@ library(jsonlite)
 library(RefManageR)
 
 corpora <- data.frame(
-    "id" = c("ChiLit", "ArTs"),
-    "title" = c("Children's Literature", "Additional Requested Texts"),
-    "description" = c("From work by Anna Čermáková.", "Additional requested texts with more set titles from A-Level and GCSE exam specifications."),
+    "id" = c("DNov", "19C", "ChiLit", "ArTs"),
+    "title" = c("Dickens's Novels", "19th Century Reference Corpus", "Children's Literature", "Additional Requested Texts"),
     stringsAsFactors = FALSE
 )
 

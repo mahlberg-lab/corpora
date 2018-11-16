@@ -1,17 +1,335 @@
 {
   "corpora": [
     {
+      "id": "DNov",
+      "title": "Dickens's Novels"
+    },
+    {
+      "id": "19C",
+      "title": "19th Century Reference Corpus"
+    },
+    {
       "id": "ChiLit",
-      "title": "Children's Literature",
-      "description": "From work by Anna Čermáková."
+      "title": "Children's Literature"
     },
     {
       "id": "ArTs",
-      "title": "Additional Requested Texts",
-      "description": "Additional requested texts with more set titles from A-Level and GCSE exam specifications."
+      "title": "Additional Requested Texts"
     }
   ],
   "content": {
+    "DNov": [
+      {
+        "shorttitle": "{PP}",
+        "title": "The Pickwick Papers",
+        "author": "Charles Dickens",
+        "date": "1837",
+        "path": "DNov/{PP}.txt"
+      },
+      {
+        "shorttitle": "{OT}",
+        "title": "Oliver Twist",
+        "author": "Charles Dickens",
+        "date": "1839",
+        "path": "DNov/{OT}.txt"
+      },
+      {
+        "shorttitle": "{NN}",
+        "title": "Nicholas Nickleby",
+        "author": "Charles Dickens",
+        "date": "1839",
+        "path": "DNov/{NN}.txt"
+      },
+      {
+        "shorttitle": "{OCS}",
+        "title": "The Old Curiosity Shop",
+        "author": "Charles Dickens",
+        "date": "1841",
+        "path": "DNov/{OCS}.txt"
+      },
+      {
+        "shorttitle": "{BR}",
+        "title": "Barnaby Rudge: A Tale of the Riots of 'Eighty",
+        "author": "Charles Dickens",
+        "date": "1841",
+        "path": "DNov/{BR}.txt"
+      },
+      {
+        "shorttitle": "{MC}",
+        "title": "Martin Chuzzlewit",
+        "author": "Charles Dickens",
+        "date": "1843",
+        "path": "DNov/{MC}.txt"
+      },
+      {
+        "shorttitle": "{DS}",
+        "title": "Dombey and Son",
+        "author": "Charles Dickens",
+        "date": "1846",
+        "path": "DNov/{DS}.txt"
+      },
+      {
+        "shorttitle": "{DC}",
+        "title": "David Copperfield",
+        "author": "Charles Dickens",
+        "date": "1849",
+        "path": "DNov/{DC}.txt"
+      },
+      {
+        "shorttitle": "{BH}",
+        "title": "Bleak House",
+        "author": "Charles Dickens",
+        "date": "1852",
+        "path": "DNov/{BH}.txt"
+      },
+      {
+        "shorttitle": "{HT}",
+        "title": "Hard Times",
+        "author": "Charles Dickens",
+        "date": "1845",
+        "path": "DNov/{HT}.txt"
+      },
+      {
+        "shorttitle": "{LD}",
+        "title": "Little Dorrit",
+        "author": "Charles Dickens",
+        "date": "1855",
+        "path": "DNov/{LD}.txt"
+      },
+      {
+        "shorttitle": "{TTC}",
+        "title": "A Tale of Two Cities",
+        "author": "Charles Dickens",
+        "date": "1859",
+        "path": "DNov/{TTC}.txt"
+      },
+      {
+        "shorttitle": "{GE}",
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "date": "1861",
+        "path": "DNov/{GE}.txt"
+      },
+      {
+        "shorttitle": "{OMF}",
+        "title": "Our Mutual Friend",
+        "author": "Charles Dickens",
+        "date": "1865",
+        "path": "DNov/{OMF}.txt"
+      },
+      {
+        "shorttitle": "{ED}",
+        "title": "The Mystery of Edwin Drood",
+        "author": "Charles Dickens",
+        "date": "1870",
+        "path": "DNov/{ED}.txt"
+      }
+    ],
+    "19C": [
+      {
+        "shorttitle": "{AgnesG}",
+        "title": "Agnes Grey",
+        "author": "Anne Brontë",
+        "date": "1847-12",
+        "path": "19C/{AgnesG}.txt"
+      },
+      {
+        "shorttitle": "alli",
+        "title": "The Small House at Allington",
+        "author": "Anthony Trollope",
+        "date": "1862-09",
+        "path": "19C/alli.txt"
+      },
+      {
+        "shorttitle": "Antoni",
+        "title": "Antonina, or the Fall of Rome",
+        "author": "Wilkie Collins",
+        "date": "1850-02",
+        "path": "19C/Antoni.txt"
+      },
+      {
+        "shorttitle": "arma",
+        "title": "Armadale",
+        "author": "Wilkie Collins",
+        "date": "1864-11",
+        "path": "19C/arma.txt"
+      },
+      {
+        "shorttitle": "{LadyAud}",
+        "title": "Lady Audley's Secret",
+        "author": "M. E. Braddon",
+        "date": "1862-01",
+        "path": "19C/{LadyAud}.txt"
+      },
+      {
+        "shorttitle": "basker",
+        "title": "The Hound of the Baskervilles",
+        "author": "Arthur Conan Doyle",
+        "date": "1901-08",
+        "path": "19C/basker.txt"
+      },
+      {
+        "shorttitle": "cran",
+        "title": "Cranford",
+        "author": "Elizabeth Cleghorn Gaskell",
+        "date": "1851-12",
+        "path": "19C/cran.txt"
+      },
+      {
+        "shorttitle": "Deronda",
+        "title": "Daniel Deronda",
+        "author": "George Eliot",
+        "date": "1876",
+        "path": "19C/Deronda.txt"
+      },
+      {
+        "shorttitle": "dorian",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "date": "1890-07",
+        "path": "19C/dorian.txt"
+      },
+      {
+        "shorttitle": "dracula",
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "date": "1897-05",
+        "path": "19C/dracula.txt"
+      },
+      {
+        "shorttitle": "emma",
+        "title": "Emma",
+        "author": "Jane Austen",
+        "date": "1815-12",
+        "path": "19C/emma.txt"
+      },
+      {
+        "shorttitle": "frank",
+        "title": "Frankenstein",
+        "author": "Mary Wollstonecraft Shelley",
+        "date": "1818",
+        "path": "19C/frank.txt"
+      },
+      {
+        "shorttitle": "jane",
+        "title": "Jane Eyre",
+        "author": "Charlotte Brontë",
+        "date": "1847-10",
+        "path": "19C/jane.txt"
+      },
+      {
+        "shorttitle": "Jekyll",
+        "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+        "author": "Robert Louis Stevenson",
+        "date": "1886-01",
+        "path": "19C/Jekyll.txt"
+      },
+      {
+        "shorttitle": "Jude",
+        "title": "Jude the Obscure",
+        "author": "Thomas Hardy",
+        "date": "1896",
+        "path": "19C/Jude.txt"
+      },
+      {
+        "shorttitle": "mary",
+        "title": "Mary Barton",
+        "author": "Elizabeth Cleghorn Gaskell",
+        "date": "1848",
+        "path": "19C/mary.txt"
+      },
+      {
+        "shorttitle": "mill",
+        "title": "The Mill on the Floss",
+        "author": "George Eliot",
+        "date": "1860",
+        "path": "19C/mill.txt"
+      },
+      {
+        "shorttitle": "native",
+        "title": "The Return of the Native",
+        "author": "Thomas Hardy",
+        "date": "1878-01",
+        "path": "19C/native.txt"
+      },
+      {
+        "shorttitle": "{NorthS}",
+        "title": "North and South",
+        "author": "Elizabeth Cleghorn Gaskell",
+        "date": "1855",
+        "path": "19C/{NorthS}.txt"
+      },
+      {
+        "shorttitle": "persuasion",
+        "title": "Persuasion",
+        "author": "Jane Austen",
+        "date": "1818",
+        "path": "19C/persuasion.txt"
+      },
+      {
+        "shorttitle": "Pomp",
+        "title": "The Last Days of Pompeii",
+        "author": "Edward Bulwer-Lytton",
+        "date": "1834",
+        "path": "19C/Pomp.txt"
+      },
+      {
+        "shorttitle": "pride",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "date": "1813-01",
+        "path": "19C/pride.txt"
+      },
+      {
+        "shorttitle": "Prof",
+        "title": "The Professor",
+        "author": "Charlotte Brontë",
+        "date": "1857",
+        "path": "19C/Prof.txt"
+      },
+      {
+        "shorttitle": "sybil",
+        "title": "Sybil, or the two nations",
+        "author": "Benjamin Disraeli",
+        "date": "1845",
+        "path": "19C/sybil.txt"
+      },
+      {
+        "shorttitle": "Tess",
+        "title": "Tess of the d'Urbervilles",
+        "author": "Thomas Hardy",
+        "date": "1892",
+        "path": "19C/Tess.txt"
+      },
+      {
+        "shorttitle": "vanity",
+        "title": "Vanity Fair",
+        "author": "William Makepeace Thackeray",
+        "date": "1847",
+        "path": "19C/vanity.txt"
+      },
+      {
+        "shorttitle": "{VivianG}",
+        "title": "Vivian Grey",
+        "author": "Benjamin Disraeli",
+        "date": "1826",
+        "path": "19C/{VivianG}.txt"
+      },
+      {
+        "shorttitle": "wwhite",
+        "title": "The Woman in White",
+        "author": "Wilkie Collins",
+        "date": "1859-11",
+        "path": "19C/wwhite.txt"
+      },
+      {
+        "shorttitle": "wh",
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "date": "1847-12",
+        "path": "19C/wh.txt"
+      }
+    ],
     "ChiLit": [
       {
         "shorttitle": "brass",
