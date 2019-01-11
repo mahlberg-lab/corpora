@@ -3,7 +3,7 @@ Charles Dickens
 
 
 
-CHAPTER I. --THE DAWN
+CHAPTER I. THE DAWN
 
 An ancient English Cathedral Tower? How can the ancient English Cathedral tower be here! The well-known massive gray square tower of its old Cathedral? How can that be here! There is no spike of rusty iron in the air, between the eye and it, from any point of the real prospect. What is the spike that intervenes, and who has set it up? Maybe it is set up by the Sultan's orders for the impaling of a horde of Turkish robbers, one by one. It is so, for cymbals clash, and the Sultan goes by to his palace in long procession. Ten thousand scimitars flash in the sunlight, and thrice ten thousand dancing-girls strew flowers. Then, follow white elephants caparisoned in countless gorgeous colours, and infinite in number and attendants. Still the Cathedral Tower rises in the background, where it cannot be, and still no writhing figure is on the grim spike. Stay! Is the spike so low a thing as the rusty spike on the top of a post of an old bedstead that has tumbled all awry? Some vague period of drowsy laughter must be devoted to the consideration of this possibility. 
 
@@ -47,7 +47,7 @@ That same afternoon, the massive gray square tower of an old Cathedral rises bef
 
 
 
-CHAPTER II. --A DEAN, AND A CHAPTER ALSO
+CHAPTER II. A DEAN, AND A CHAPTER ALSO
 
 Whosoever has observed that sedate and clerical bird, the rook, may perhaps have noticed that when he wings his way homeward towards nightfall, in a sedate and clerical company, two rooks will suddenly detach themselves from the rest, will retrace their flight for some distance, and will there poise and linger; conveying to mere men the fancy that it is of some occult importance to the body politic, that this artful couple should pretend to have renounced connection with it. 
 
@@ -333,7 +333,7 @@ Mr. Jasper dissolves his attitude, and they go out together.
 
 
 
-CHAPTER III. --THE NUNS' HOUSE
+CHAPTER III. THE NUNS' HOUSE
 
 For sufficient reasons, which this narrative will itself unfold as it advances, a fictitious name must be bestowed upon the old Cathedral town. Let it stand in these pages as Cloisterham. It was once possibly known to the Druids by another name, and certainly to the Romans by another, and to the Saxons by another, and to the Normans by another; and a name more or less in the course of many centuries can be of little moment to its dusty chronicles. 
 
@@ -617,7 +617,7 @@ For certain, neither of them sees a happy Present, as the gate opens and closes,
 
 
 
-CHAPTER IV. --MR. SAPSEA
+CHAPTER IV. MR. SAPSEA
 
 Accepting the Jackass as the type of self-sufficient stupidity and conceit--a custom, perhaps, like some few other customs, more conventional than fair--then the purest jackass in Cloisterham is Mr. Thomas Sapsea, Auctioneer. 
 
@@ -777,7 +777,7 @@ Mr. Sapsea then proposes a hit at backgammon, which, seasoned with his own impro
 
 
 
-CHAPTER V. --MR. DURDLES AND FRIEND
+CHAPTER V. MR. DURDLES AND FRIEND
 
 John Jasper, on his way home through the Close, is brought to a stand-still by the spectacle of Stony Durdles, dinner-bundle and all, leaning his back against the iron railing of the burial-ground enclosing it from the old cloister-arches; and a hideous small boy in rags flinging stones at him as a well-defined mark in the moonlight. Sometimes the stones hit him, and sometimes they miss him, but Durdles seems indifferent to either fortune. The hideous small boy, on the contrary, whenever he hits Durdles, blows a whistle of triumph through a jagged gap, convenient for the purpose, in the front of his mouth, where half his teeth are wanting; and whenever he misses him, yelps out 'Mulled agin!' and tries to atone for the failure by taking a more correct and vicious aim. 
 
@@ -915,7 +915,7 @@ His nephew lies asleep, calm and untroubled. John Jasper stands looking down upo
 
 
 
-CHAPTER VI. --PHILANTHROPY IN MINOR CANON CORNER
+CHAPTER VI. PHILANTHROPY IN MINOR CANON CORNER
 
 The Reverend Septimus Crisparkle (Septimus, because six little brother Crisparkles before him went out, one by one, as they were born, like six weak little rushlights, as they were lighted), having broken the thin morning ice near Cloisterham Weir with his amiable head, much to the invigoration of his frame, was now assisting his circulation by boxing at a looking-glass with great science and prowess. A fresh and healthy portrait the looking- glass presented of the Reverend Septimus, feinting and dodging with the utmost artfulness, and hitting out from the shoulder with the utmost straightness, while his radiant features teemed with innocence, and soft-hearted benevolence beamed from his boxing- gloves. 
 
@@ -1057,7 +1057,7 @@ But the gush of philanthropy that burst forth when the departure of Mr. Honeythu
 
 
 
-CHAPTER VII. --MORE CONFIDENCES THAN ONE
+CHAPTER VII. MORE CONFIDENCES THAN ONE
 
 'I know very little of that gentleman, sir,' said Neville to the Minor Canon as they turned back. 
 
@@ -1275,7 +1275,7 @@ The lustrous gipsy-face drooped over the clinging arms and bosom, and the wild b
 
 
 
-CHAPTER VIII. --DAGGERS DRAWN
+CHAPTER VIII. DAGGERS DRAWN
 
 The two young men, having seen the damsels, their charges, enter the courtyard of the Nuns' House, and finding themselves coldly stared at by the brazen door-plate, as if the battered old beau with the glass in his eye were insolent, look at one another, look along the perspective of the moonlit street, and slowly walk away together. 
 
@@ -1503,7 +1503,7 @@ Mr. Crisparkle goes in, with the hat that has so easily, so almost imperceptibly
 
 
 
-CHAPTER IX. --BIRDS IN THE BUSH
+CHAPTER IX. BIRDS IN THE BUSH
 
 Rosa, having no relation that she knew of in the world, had, from the seventh year of her age, known no home but the Nuns' House, and no mother but Miss Twinkleton. Her remembrance of her own mother was of a pretty little creature like herself (not much older than herself it seemed to her), who had been brought home in her father's arms, drowned. The fatal accident had happened at a party of pleasure. Every fold and colour in the pretty summer dress, and even the long wet hair, with scattered petals of ruined flowers still clinging to it, as the dead young figure, in its sad, sad beauty lay upon the bed, were fixed indelibly in Rosa's recollection. So were the wild despair and the subsequent bowed- down grief of her poor young father, who died broken-hearted on the first anniversary of that hard day. 
 
@@ -1741,7 +1741,7 @@ Mr. Grewgious touched himself on the breast, and said: 'I mean us. Therefore, le
 
 
 
-CHAPTER X. --SMOOTHING THE WAY
+CHAPTER X. SMOOTHING THE WAY
 
 It has been often enough remarked that women have a curious power of divining the characters of men, which would seem to be innate and instinctive; seeing that it is arrived at through no patient process of reasoning, that it can give no satisfactory or sufficient account of itself, and that it pronounces in the most confident manner even against accumulated observation on the part of the other sex. But it has not been quite so often remarked that this power (fallible, like every other human attribute) is for the most part absolutely incapable of self-revision; and that when it has delivered an adverse opinion which by all human lights is subsequently proved to have failed, it is undistinguishable from prejudice, in respect of its determination not to be corrected. Nay, the very possibility of contradiction or disproof, however remote, communicates to this feminine judgment from the first, in nine cases out of ten, the weakness attendant on the testimony of an interested witness; so personally and strongly does the fair diviner connect herself with her divination. 
 
@@ -1985,7 +1985,7 @@ On the third day after this conversation, he called on Mr. Crisparkle with the f
 
 
 
-CHAPTER XI. --A PICTURE AND A RING
+CHAPTER XI. A PICTURE AND A RING
 
 Behind the most ancient part of Holborn, London, where certain gabled houses some centuries of age still stand looking on the public way, as if disconsolately looking for the Old Bourne that has long run dry, is a little nook composed of two irregular quadrangles, called Staple Inn. It is one of those nooks, the turning into which out of the clashing street, imparts to the relieved pedestrian the sensation of having put cotton in his ears, and velvet soles on his boots. It is one of those nooks where a few smoky sparrows twitter in smoky trees, as though they called to one another, 'Let us play at country,' and where a few feet of garden-mould and a few yards of gravel enable them to do that refreshing violence to their tiny understandings. Moreover, it is one of those nooks which are legal nooks; and it contains a little Hall, with a little lantern in its roof: to what obstructive purposes devoted, and at whose expense, this history knoweth not. 
 
@@ -2253,7 +2253,7 @@ With that, he extinguished his light, pulled up the bedclothes around him, and w
 
 
 
-CHAPTER XII. --A NIGHT WITH DURDLES
+CHAPTER XII. A NIGHT WITH DURDLES
 
 When Mr. Sapsea has nothing better to do, towards evening, and finds the contemplation of his own profundity becoming a little monotonous in spite of the vastness of the subject, he often takes an airing in the Cathedral Close and thereabout. He likes to pass the churchyard with a swelling air of proprietorship, and to encourage in his breast a sort of benignant-landlord feeling, in that he has been bountiful towards that meritorious tenant, Mrs. Sapsea, and has publicly given her a prize. He likes to see a stray face or two looking in through the railings, and perhaps reading his inscription. Should he meet a stranger coming from the churchyard with a quick step, he is morally convinced that the stranger is 'with a blush retiring,' as monumentally directed. 
 
@@ -2513,7 +2513,7 @@ Deputy, with another sharp whistle, at once expressing his relief, and his comme
 
 
 
-CHAPTER XIII. --BOTH AT THEIR BEST
+CHAPTER XIII. BOTH AT THEIR BEST
 
 Miss Twinkleton's establishment was about to undergo a serene hush. The Christmas recess was at hand. What had once, and at no remote period, been called, even by the erudite Miss Twinkleton herself, 'the half;' but what was now called, as being more elegant, and more strictly collegiate, 'the term,' would expire to-morrow. A noticeable relaxation of discipline had for some few days pervaded the Nuns' House. Club suppers had occurred in the bedrooms, and a dressed tongue had been carved with a pair of scissors, and handed round with the curling tongs. Portions of marmalade had likewise been distributed on a service of plates constructed of curlpaper; and cowslip wine had been quaffed from the small squat measuring glass in which little Rickitts (a junior of weakly constitution) took her steel drops daily. The housemaids had been bribed with various fragments of riband, and sundry pairs of shoes more or less down at heel, to make no mention of crumbs in the beds; the airiest costumes had been worn on these festive occasions; and the daring Miss Ferdinand had even surprised the company with a sprightly solo on the comb-and-curlpaper, until suffocated in her own pillow by two flowing-haired executioners. 
 
@@ -2687,7 +2687,7 @@ She pulled hurriedly at the handle of the hoarse old bell, and the gate soon ope
 
 
 
-CHAPTER XIV. --WHEN SHALL THESE THREE MEET AGAIN?
+CHAPTER XIV. WHEN SHALL THESE THREE MEET AGAIN?
 
 Christmas Eve in Cloisterham. A few strange faces in the streets; a few other faces, half strange and half familiar, once the faces of Cloisterham children, now the faces of men and women who come back from the outer world at long intervals to find the city wonderfully shrunken in size, as if it had not washed by any means well in the meanwhile. To these, the striking of the Cathedral clock, and the cawing of the rooks from the Cathedral tower, are like voices of their nursery time. To such as these, it has happened in their dying hours afar off, that they have imagined their chamber-floor to be strewn with the autumnal leaves fallen from the elm-trees in the Close: so have the rustling sounds and fresh scents of their earliest impressions revived when the circle of their lives was very nearly traced, and the beginning and the end were drawing close together. 
 
@@ -2967,7 +2967,7 @@ There is no more looking up at the tower, now. All the assembled eyes are turned
 
 
 
-CHAPTER XV. --IMPEACHED
+CHAPTER XV. IMPEACHED
 
 Neville Landless had started so early and walked at so good a pace, that when the church-bells began to ring in Cloisterham for morning service, he was eight miles away. As he wanted his breakfast by that time, having set forth on a crust of bread, he stopped at the next roadside tavern to refresh. 
 
@@ -3149,7 +3149,7 @@ Not changing his action even then, he opened and shut the palms of his hands as 
 
 
 
-CHAPTER XVI. --DEVOTED
+CHAPTER XVI. DEVOTED
 
 When John Jasper recovered from his fit or swoon, he found himself being tended by Mr. and Mrs. Tope, whom his visitor had summoned for the purpose. His visitor, wooden of aspect, sat stiffly in a chair, with his hands upon his knees, watching his recovery. 
 
@@ -3289,7 +3289,7 @@ It was not until then that John Jasper silently resumed his place in the choir. 
 
 
 
-CHAPTER XVII. --PHILANTHROPY, PROFESSIONAL AND UNPROFESSIONAL
+CHAPTER XVII. PHILANTHROPY, PROFESSIONAL AND UNPROFESSIONAL
 
 Full half a year had come and gone, and Mr. Crisparkle sat in a waiting-room in the London chief offices of the Haven of Philanthropy, until he could have audience of Mr. Honeythunder. 
 
@@ -3585,7 +3585,7 @@ Mr. Grewgious, his bedroom window-blind held aside with his hand, happened at th
 
 
 
-CHAPTER XVIII. --A SETTLER IN CLOISTERHAM
+CHAPTER XVIII. A SETTLER IN CLOISTERHAM
 
 At about this time a stranger appeared in Cloisterham; a white- haired personage, with black eyebrows. Being buttoned up in a tightish blue surtout, with a buff waistcoat and gray trousers, he had something of a military air, but he announced himself at the Crozier (the orthodox hotel, where he put up with a portmanteau) as an idle dog who lived upon his means; and he farther announced that he had a mind to take a lodging in the picturesque old city for a month or two, with a view of settling down there altogether. Both announcements were made in the coffee-room of the Crozier, to all whom it might or might not concern, by the stranger as he stood with his back to the empty fireplace, waiting for his fried sole, veal cutlet, and pint of sherry. And the waiter (business being chronically slack at the Crozier) represented all whom it might or might not concern, and absorbed the whole of the information. 
 
@@ -3785,7 +3785,7 @@ Said Mr. Datchery to himself that night, as he looked at his white hair in the g
 
 
 
-CHAPTER XIX. --SHADOW ON THE SUN-DIAL
+CHAPTER XIX. SHADOW ON THE SUN-DIAL
 
 Again Miss Twinkleton has delivered her valedictory address, with the accompaniments of white-wine and pound-cake, and again the young ladies have departed to their several homes. Helena Landless has left the Nuns' House to attend her brother's fortunes, and pretty Rosa is alone. 
 
@@ -3941,7 +3941,7 @@ The handmaid coming out to open the gate for him, he quietly pulls off his hat a
 
 
 
-CHAPTER XX. --A FLIGHT
+CHAPTER XX. A FLIGHT
 
 Rosa no sooner came to herself than the whole of the late interview was before her. It even seemed as if it had pursued her into her insensibility, and she had not had a moment's unconsciousness of it. What to do, she was at a frightened loss to know: the only one clear thought in her mind was, that she must fly from this terrible man. 
 
@@ -4129,7 +4129,7 @@ Rosa's room was airy, clean, comfortable, almost gay. The Unlimited had laid in 
 
 
 
-CHAPTER XXI. --A RECOGNITION
+CHAPTER XXI. A RECOGNITION
 
 Nothing occurred in the night to flutter the tired dove; and the dove arose refreshed. With Mr. Grewgious, when the clock struck ten in the morning, came Mr. Crisparkle, who had come at one plunge out of the river at Cloisterham. 
 
@@ -4269,7 +4269,7 @@ This a little confused Rosebud, and may account for her never afterwards quite k
 
 
 
-CHAPTER XXII. --A GRITTY STATE OF THINGS COMES ON
+CHAPTER XXII. A GRITTY STATE OF THINGS COMES ON
 
 Mr. Tartar's chambers were the neatest, the cleanest, and the best- ordered chambers ever seen under the sun, moon, and stars. The floors were scrubbed to that extent, that you might have supposed the London blacks emancipated for ever, and gone out of the land for good. Every inch of brass-work in Mr. Tartar's possession was polished and burnished, till it shone like a brazen mirror. No speck, nor spot, nor spatter soiled the purity of any of Mr. Tartar's household gods, large, small, or middle-sized. His sitting-room was like the admiral's cabin, his bath-room was like a dairy, his sleeping-chamber, fitted all about with lockers and drawers, was like a seedsman's shop; and his nicely-balanced cot just stirred in the midst, as if it breathed. Everything belonging to Mr. Tartar had quarters of its own assigned to it: his maps and charts had their quarters; his books had theirs; his brushes had theirs; his boots had theirs; his clothes had theirs; his case- bottles had theirs; his telescopes and other instruments had theirs. Everything was readily accessible. Shelf, bracket, locker, hook, and drawer were equally within reach, and were equally contrived with a view to avoiding waste of room, and providing some snug inches of stowage for something that would have exactly fitted nowhere else. His gleaming little service of plate was so arranged upon his sideboard as that a slack salt-spoon would have instantly betrayed itself; his toilet implements were so arranged upon his dressing-table as that a toothpick of slovenly deportment could have been reported at a glance. So with the curiosities he had brought home from various voyages. Stuffed, dried, repolished, or otherwise preserved, according to their kind; birds, fishes, reptiles, arms, articles of dress, shells, seaweeds, grasses, or memorials of coral reef; each was displayed in its especial place, and each could have been displayed in no better place. Paint and varnish seemed to be kept somewhere out of sight, in constant readiness to obliterate stray finger-marks wherever any might become perceptible in Mr. Tartar's chambers. No man-of-war was ever kept more spick and span from careless touch. On this bright summer day, a neat awning was rigged over Mr. Tartar's flower-garden as only a sailor can rig it, and there was a sea- going air upon the whole effect, so delightfully complete, that the flower-garden might have appertained to stern-windows afloat, and the whole concern might have bowled away gallantly with all on board, if Mr. Tartar had only clapped to his lips the speaking- trumpet that was slung in a corner, and given hoarse orders to heave the anchor up, look alive there, men, and get all sail upon her! 
 
@@ -4561,7 +4561,7 @@ As the days crept on and nothing happened, the neighbours began to say that the 
 
 
 
-CHAPTER XXIII. --THE DAWN AGAIN
+CHAPTER XXIII. THE DAWN AGAIN
 
 Although Mr. Crisparkle and John Jasper met daily under the Cathedral roof, nothing at any time passed between them having reference to Edwin Drood, after the time, more than half a year gone by, when Jasper mutely showed the Minor Canon the conclusion and the resolution entered in his Diary. It is not likely that they ever met, though so often, without the thoughts of each reverting to the subject. It is not likely that they ever met, though so often, without a sensation on the part of each that the other was a perplexing secret to him. Jasper as the denouncer and pursuer of Neville Landless, and Mr. Crisparkle as his consistent advocate and protector, must at least have stood sufficiently in opposition to have speculated with keen interest on the steadiness and next direction of the other's designs. But neither ever broached the theme. 
 

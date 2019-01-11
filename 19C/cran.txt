@@ -3,7 +3,7 @@ Elizabeth Cleghorn Gaskell
 
 
 
-CHAPTER I. --OUR SOCIETY
+CHAPTER I. OUR SOCIETY
 
 In the first place, Cranford is in possession of the Amazons; all the holders of houses above a certain rent are women. If a married couple come to settle in the town, somehow the gentleman disappears; he is either fairly frightened to death by being the only man in the Cranford evening parties, or he is accounted for by being with his regiment, his ship, or closely engaged in business all the week in the great neighbouring commercial town of Drumble, distant only twenty miles on a railroad. In short, whatever does become of the gentlemen, they are not at Cranford. What could they do if they were there? The surgeon has his round of thirty miles, and sleeps at Cranford; but every man cannot be a surgeon. For keeping the trim gardens full of choice flowers without a weed to speck them; for frightening away little boys who look wistfully at the said flowers through the railings; for rushing out at the geese that occasionally venture in to the gardens if the gates are left open; for deciding all questions of literature and politics without troubling themselves with unnecessary reasons or arguments; for obtaining clear and correct knowledge of everybody's affairs in the parish; for keeping their neat maid-servants in admirable order; for kindness (somewhat dictatorial) to the poor, and real tender good offices to each other whenever they are in distress, the ladies of Cranford are quite sufficient. "A man," as one of them observed to me once, "is SO in the way in the house!" Although the ladies of Cranford know all each other's proceedings, they are exceedingly indifferent to each other's opinions. Indeed, as each has her own individuality, not to say eccentricity, pretty strongly developed, nothing is so easy as verbal retaliation; but, somehow, good-will reigns among them to a considerable degree. 
 
@@ -89,7 +89,7 @@ It is said--I won't vouch for the fact--that Captain Brown was heard to say, sot
 
 
 
-CHAPTER II. --THE CAPTAIN
+CHAPTER II. THE CAPTAIN
 
 It was impossible to live a month at Cranford and not know the daily habits of each resident; and long before my visit was ended I knew much concerning the whole Brown trio. There was nothing new to be discovered respecting their poverty; for they had spoken simply and openly about that from the very first. They made no mystery of the necessity for their being economical. All that remained to be discovered was the Captain's infinite kindness of heart, and the various modes in which, unconsciously to himself, he manifested it. Some little anecdotes were talked about for some time after they occurred. As we did not read much, and as all the ladies were pretty well suited with servants, there was a dearth of subjects for conversation. We therefore discussed the circumstance of the Captain taking a poor old woman's dinner out of her hands one very slippery Sunday. He had met her returning from the bakehouse as he came from church, and noticed her precarious footing; and, with the grave dignity with which he did everything, he relieved her of her burden, and steered along the street by her side, carrying her baked mutton and potatoes safely home. This was thought very eccentric; and it was rather expected that he would pay a round of calls, on the Monday morning, to explain and apologise to the Cranford sense of propriety: but he did no such thing: and then it was decided that he was ashamed, and was keeping out of sight. In a kindly pity for him, we began to say, "After all, the Sunday morning's occurrence showed great goodness of heart," and it was resolved that he should be comforted on his next appearance amongst us; but, lo! he came down upon us, untouched by any sense of shame, speaking loud and bass as ever, his head thrown back, his wig as jaunty and well-curled as usual, and we were obliged to conclude he had forgotten all about Sunday. 
 
@@ -209,7 +209,7 @@ The last time I ever saw poor Miss Jenkyns was many years after this. Mrs Gordon
 
 
 
-CHAPTER III. --A LOVE AFFAIR OF LONG AGO
+CHAPTER III. A LOVE AFFAIR OF LONG AGO
 
 I thought that probably my connection with Cranford would cease after Miss Jenkyns's death; at least, that it would have to be kept up by correspondence, which bears much the same relation to personal intercourse that the books of dried plants I sometimes see ( "Hortus Siccus," I think they call the thing) do to the living and fresh flowers in the lines and meadows. I was pleasantly surprised, therefore, by receiving a letter from Miss Pole (who had always come in for a supplementary week after my annual visit to Miss Jenkyns) proposing that I should go and stay with her; and then, in a couple of days after my acceptance, came a note from Miss Matty, in which, in a rather circuitous and very humble manner, she told me how much pleasure I should confer if I could spend a week or two with her, either before or after I had been at Miss Pole's; "for," she said, "since my dear sister's death I am well aware I have no attractions to offer; it is only to the kindness of my friends that I can owe their company." 
 
@@ -283,7 +283,7 @@ However, he kept talking to us all the time we were in the shop; and then waving
 
 
 
-CHAPTER IV. --A VISIT TO AN OLD BACHELOR
+CHAPTER IV. A VISIT TO AN OLD BACHELOR
 
 A few days after, a note came from Mr Holbrook, asking us-- impartially asking both of us--in a formal, old-fashioned style, to spend a day at his house--a long June day--for it was June now. He named that he had also invited his cousin, Miss Pole; so that we might join in a fly, which could be put up at his house. 
 
@@ -451,7 +451,7 @@ Though Miss Matty was startled, she submitted to Fate and Love.
 
 
 
-CHAPTER V. --OLD LETTERS
+CHAPTER V. OLD LETTERS
 
 I have often noticed that almost every one has his own individual small economies--careful habits of saving fractions of pennies in some one peculiar direction--any disturbance of which annoys him more than spending shillings or pounds on some real extravagance. An old gentleman of my acquaintance, who took the intelligence of the failure of a Joint-Stock Bank, in which some of his money was invested, with stoical mildness, worried his family all through a long summer's day because one of them had torn (instead of cutting) out the written leaves of his now useless bank-book; of course, the corresponding pages at the other end came out as well, and this little unnecessary waste of paper (his private economy) chafed him more than all the loss of his money. Envelopes fretted his soul terribly when they first came in; the only way in which he could reconcile himself to such waste of his cherished article was by patiently turning inside out all that were sent to him, and so making them serve again. Even now, though tamed by age, I see him casting wistful glances at his daughters when they send a whole inside of a half-sheet of note paper, with the three lines of acceptance to an invitation, written on only one of the sides. I am not above owning that I have this human weakness myself. String is my foible. My pockets get full of little hanks of it, picked up and twisted together, ready for uses that never come. I am seriously annoyed if any one cuts the string of a parcel instead of patiently and faithfully undoing it fold by fold. How people can bring themselves to use india-rubber rings, which are a sort of deification of string, as lightly as they do, I cannot imagine. To me an india-rubber ring is a precious treasure. I have one which is not new--one that I picked up off the floor nearly six years ago. I have really tried to use it, but my heart failed me, and I could not commit the extravagance. 
 
@@ -501,7 +501,7 @@ Miss Matty could not speak for crying, after she had read this note. She gave it
 
 
 
-CHAPTER VI. --POOR PETER
+CHAPTER VI. POOR PETER
 
 Poor Peter's career lay before him rather pleasantly mapped out by kind friends, but Bonus Bernardus non videt omnia, in this map too. He was to win honours at the Shrewsbury School, and carry them thick to Cambridge, and after that, a living awaited him, the gift of his godfather, Sir Peter Arley. Poor Peter! his lot in life was very different to what his friends had hoped and planned. Miss Matty told me all about it, and I think it was a relief when she had done so. 
 
@@ -601,7 +601,7 @@ We sat in silence, pondering on the full meaning of those sad, sad words. At len
 
 
 
-CHAPTER VII. --VISITING
+CHAPTER VII. VISITING
 
 One morning, as Miss Matty and I sat at our work--it was before twelve o'clock, and Miss Matty had not changed the cap with yellow ribbons that had been Miss Jenkyns's best, and which Miss Matty was now wearing out in private, putting on the one made in imitation of Mrs Jamieson's at all times when she expected to be seen--Martha came up, and asked if Miss Betty Barker might speak to her mistress. Miss Matty assented, and quickly disappeared to change the yellow ribbons, while Miss Barker came upstairs; but, as she had forgotten her spectacles, and was rather flurried by the unusual time of the visit, I was not surprised to see her return with one cap on the top of the other. She was quite unconscious of it herself, and looked at us, with bland satisfaction. Nor do I think Miss Barker perceived it; for, putting aside the little circumstance that she was not so young as she had been, she was very much absorbed in her errand, which she delivered herself of with an oppressive modesty that found vent in endless apologies. 
 
@@ -683,7 +683,7 @@ Not long after this the maids and the lanterns were announced. Mrs Jamieson had 
 
 
 
-CHAPTER VIII. --"YOUR LADYSHIP"
+CHAPTER VIII. "YOUR LADYSHIP"
 
 Early the next morning--directly after twelve--Miss Pole made her appearance at Miss Matty's. Some very trifling piece of business was alleged as a reason for the call; but there was evidently something behind. At last out it came. 
 
@@ -811,7 +811,7 @@ In our pattens we picked our way home with extra care that night, so refined and
 
 
 
-CHAPTER IX. --SIGNOR BRUNONI
+CHAPTER IX. SIGNOR BRUNONI
 
 Soon after the events of which I gave an account in my last paper, I was summoned home by my father's illness; and for a time I forgot, in anxiety about him, to wonder how my dear friends at Cranford were getting on, or how Lady Glenmire could reconcile herself to the dulness of the long visit which she was still paying to her sister-in-law, Mrs Jamieson. When my father grew a little stronger I accompanied him to the seaside, so that altogether I seemed banished from Cranford, and was deprived of the opportunity of hearing any chance intelligence of the dear little town for the greater part of that year. 
 
@@ -869,7 +869,7 @@ I have never named Mr Hayter, the rector, because I, as a well-to- do and happy 
 
 
 
-CHAPTER X. --THE PANIC
+CHAPTER X. THE PANIC
 
 I think a series of circumstances dated from Signor Brunoni's visit to Cranford, which seemed at the time connected in our minds with him, though I don't know that he had anything really to do with them. All at once all sorts of uncomfortable rumours got afloat in the town. There were one or two robberies--real bona fide robberies; men had up before the magistrates and committed for trial--and that seemed to make us all afraid of being robbed; and for a long time, at Miss Matty's, I know, we used to make a regular expedition all round the kitchens and cellars every night, Miss Matty leading the way, armed with the poker, I following with the hearth-brush, and Martha carrying the shovel and fire-irons with which to sound the alarm; and by the accidental hitting together of them she often frightened us so much that we bolted ourselves up, all three together, in the back-kitchen, or store-room, or wherever we happened to be, till, when our affright was over, we recollected ourselves and set out afresh with double valiance. By day we heard strange stories from the shopkeepers and cottagers, of carts that went about in the dead of night, drawn by horses shod with felt, and guarded by men in dark clothes, going round the town, no doubt in search of some unwatched house or some unfastened door. 
 
@@ -957,7 +957,7 @@ The two men grunted acquiescence and took up the chair, and went along the cause
 
 
 
-CHAPTER XI. --SAMUEL BROWN
+CHAPTER XI. SAMUEL BROWN
 
 The next morning I met Lady Glenmire and Miss Pole setting out on a long walk to find some old woman who was famous in the neighbourhood for her skill in knitting woollen stockings. Miss Pole said to me, with a smile half-kindly and half-contemptuous upon her countenance, "I have been just telling Lady Glenmire of our poor friend Mrs Forrester, and her terror of ghosts. It comes from living so much alone, and listening to the bug-a-boo stories of that Jenny of hers." She was so calm and so much above superstitious fears herself that I was almost ashamed to say how glad I had been of her Headingley Causeway proposition the night before, and turned off the conversation to something else. 
 
@@ -1013,7 +1013,7 @@ But an idea had flashed through my head; could the Aga Jenkyns be the lost Peter
 
 
 
-CHAPTER XII. --ENGAGED TO BE MARRIED
+CHAPTER XII. ENGAGED TO BE MARRIED
 
 Was the "poor Peter" of Cranford the Aga Jenkyns of Chunderabaddad, or was he not? As somebody says, that was the question. 
 
@@ -1067,7 +1067,7 @@ I must say a word or two here about myself. I have spoken of my father's old fri
 
 
 
-CHAPTER XIII. --STOPPED PAYMENT
+CHAPTER XIII. STOPPED PAYMENT
 
 The very Tuesday morning on which Mr Johnson was going to show the fashions, the post-woman brought two letters to the house. I say the post-woman, but I should say the postman's wife. He was a lame shoemaker, a very clean, honest man, much respected in the town; but he never brought the letters round except on unusual occasions, such as Christmas Day or Good Friday; and on those days the letters, which should have been delivered at eight in the morning, did not make their appearance until two or three in the afternoon, for every one liked poor Thomas, and gave him a welcome on these festive occasions. He used to say, "He was welly stawed wi' eating, for there were three or four houses where nowt would serve 'em but he must share in their breakfast;" and by the time he had done his last breakfast, he came to some other friend who was beginning dinner; but come what might in the way of temptation, Tom was always sober, civil, and smiling; and, as Miss Jenkyns used to say, it was a lesson in patience, that she doubted not would call out that precious quality in some minds, where, but for Thomas, it might have lain dormant and undiscovered. Patience was certainly very dormant in Miss Jenkyns's mind. She was always expecting letters, and always drumming on the table till the post-woman had called or gone past. On Christmas Day and Good Friday she drummed from breakfast till church, from church-time till two o'clock-- unless when the fire wanted stirring, when she invariably knocked down the fire-irons, and scolded Miss Matty for it. But equally certain was the hearty welcome and the good dinner for Thomas; Miss Jenkyns standing over him like a bold dragoon, questioning him as to his children--what they were doing--what school they went to; upbraiding him if another was likely to make its appearance, but sending even the little babies the shilling and the mince-pie which was her gift to all the children, with half-a-crown in addition for both father and mother. The post was not half of so much consequence to dear Miss Matty; but not for the world would she have diminished Thomas's welcome and his dole, though I could see that she felt rather shy over the ceremony, which had been regarded by Miss Jenkyns as a glorious opportunity for giving advice and benefiting her fellow-creatures. Miss Matty would steal the money all in a lump into his hand, as if she were ashamed of herself. Miss Jenkyns gave him each individual coin separate, with a "There! that's for yourself; that's for Jenny," etc. Miss Matty would even beckon Martha out of the kitchen while he ate his food: and once, to my knowledge, winked at its rapid disappearance into a blue cotton pocket-handkerchief. Miss Jenkyns almost scolded him if he did not leave a clean plate, however heaped it might have been, and gave an injunction with every mouthful. 
 
@@ -1171,7 +1171,7 @@ Miss Matty smiled at me through her tears, and she would fain have had me see on
 
 
 
-CHAPTER XIV. --FRIENDS IN NEED
+CHAPTER XIV. FRIENDS IN NEED
 
 It was an example to me, and I fancy it might be to many others, to see how immediately Miss Matty set about the retrenchment which she knew to be right under her altered circumstances. While she went down to speak to Martha, and break the intelligence to her, I stole out with my letter to the Aga Jenkyns, and went to the signor's lodgings to obtain the exact address. I bound the signora to secrecy; and indeed her military manners had a degree of shortness and reserve in them which made her always say as little as possible, except when under the pressure of strong excitement. Moreover (which made my secret doubly sure), the signor was now so far recovered as to be looking forward to travelling and conjuring again in the space of a few days, when he, his wife, and little Phoebe would leave Cranford. Indeed, I found him looking over a great black and red placard, in which the Signor Brunoni's accomplishments were set forth, and to which only the name of the town where he would next display them was wanting. He and his wife were so much absorbed in deciding where the red letters would come in with most effect (it might have been the Rubric for that matter), that it was some time before I could get my question asked privately, and not before I had given several decisions, the which I questioned afterwards with equal wisdom of sincerity as soon as the signor threw in his doubts and reasons on the important subject. At last I got the address, spelt by sound, and very queer it looked. I dropped it in the post on my way home, and then for a minute I stood looking at the wooden pane with a gaping slit which divided me from the letter but a moment ago in my hand. It was gone from me like life, never to be recalled. It would get tossed about on the sea, and stained with sea-waves perhaps, and be carried among palm-trees, and scented with all tropical fragrance; the little piece of paper, but an hour ago so familiar and commonplace, had set out on its race to the strange wild countries beyond the Ganges! But I could not afford to lose much time on this speculation. I hastened home, that Miss Matty might not miss me. Martha opened the door to me, her face swollen with crying. As soon as she saw me she burst out afresh, and taking hold of my arm she pulled me in, and banged the door to, in order to ask me if indeed it was all true that Miss Matty had been saying. 
 
@@ -1297,7 +1297,7 @@ But she was patient and content with all our arrangements. She knew, she said, t
 
 
 
-CHAPTER XV. --A HAPPY RETURN
+CHAPTER XV. A HAPPY RETURN
 
 Before I left Miss Matty at Cranford everything had been comfortably arranged for her. Even Mrs Jamieson's approval of her selling tea had been gained. That oracle had taken a few days to consider whether by so doing Miss Matty would forfeit her right to the privileges of society in Cranford. I think she had some little idea of mortifying Lady Glenmire by the decision she gave at last; which was to this effect: that whereas a married woman takes her husband's rank by the strict laws of precedence, an unmarried woman retains the station her father occupied. So Cranford was allowed to visit Miss Matty; and, whether allowed or not, it intended to visit Lady Glenmire. 
 
@@ -1361,7 +1361,7 @@ I don't believe Mr Peter came home from India as rich as a nabob; he even consid
 
 
 
-CHAPTER XVI. --PEACE TO CRANFORD
+CHAPTER XVI. PEACE TO CRANFORD
 
 It was not surprising that Mr Peter became such a favourite at Cranford. The ladies vied with each other who should admire him most; and no wonder, for their quiet lives were astonishingly stirred up by the arrival from India--especially as the person arrived told more wonderful stories than Sindbad the Sailor; and, as Miss Pole said, was quite as good as an Arabian Night any evening. For my own part, I had vibrated all my life between Drumble and Cranford, and I thought it was quite possible that all Mr Peter's stories might be true, although wonderful; but when I found that, if we swallowed an anecdote of tolerable magnitude one week, we had the dose considerably increased the next, I began to have my doubts; especially as I noticed that when his sister was present the accounts of Indian life were comparatively tame; not that she knew more than we did, perhaps less. I noticed also that when the rector came to call, Mr Peter talked in a different way about the countries he had been in. But I don't think the ladies in Cranford would have considered him such a wonderful traveller if they had only heard him talk in the quiet way he did to him. They liked him the better, indeed, for being what they called "so very Oriental." 
 
