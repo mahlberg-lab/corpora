@@ -1,20 +1,7 @@
-﻿                           [Emigrants]
+﻿AMERICAN NOTES FOR GENERAL CIRCULATION
+CHARLES DICKENS
+                           [Emigrants]
 
-
-
-
-
-                              AMERICAN NOTES
-                                   FOR
-                           GENERAL CIRCULATION
-                                   AND
-                         PICTURES FROM ITALY
-
-
-                                    BY
-                             CHARLES DICKENS
-
-                                * * * * *
 
                            I DEDICATE THIS BOOK
                                     TO
@@ -29,12 +16,8 @@
                            HUMOUREDLY, AND IN A
                                KIND SPIRIT.
 
-                                * * * * *
 
-
-
-
-PREFACE TO THE FIRST CHEAP EDITION OF “AMERICAN NOTES”
+PREFACE. PREFACE TO THE FIRST CHEAP EDITION OF “AMERICAN NOTES”
 
 
 IT is nearly eight years since this book was first published.  I present
@@ -73,7 +56,7 @@ LONDON, _June_ 22, 1850.
 
 
 
-PREFACE TO THE “CHARLES DICKENS” EDITION OF “AMERICAN NOTES”
+PREFACE. PREFACE TO THE “CHARLES DICKENS” EDITION OF “AMERICAN NOTES”
 
 
 MY readers have opportunities of judging for themselves whether the
@@ -101,8 +84,7 @@ is merely to do a very foolish thing: which is always a very easy one.
 
 
 
-CHAPTER I
-GOING AWAY
+CHAPTER I. GOING AWAY
 
 
 I SHALL never forget the one-fourth serious and three-fourths comical
@@ -395,8 +377,7 @@ water.
 
 
 
-CHAPTER II
-THE PASSAGE OUT
+CHAPTER II. THE PASSAGE OUT
 
 
 WE all dined together that day; and a rather formidable party we were: no
@@ -944,8 +925,7 @@ the reader would believe.
 
 
 
-CHAPTER III
-BOSTON
+CHAPTER III. BOSTON
 
 
 _In_ all the public establishments of America, the utmost courtesy
@@ -2382,8 +2362,7 @@ in the firm belief that it was a shower-bath.
 
 
 
-CHAPTER IV
-AN AMERICAN RAILROAD.  LOWELL AND ITS FACTORY SYSTEM
+CHAPTER IV. AN AMERICAN RAILROAD.  LOWELL AND ITS FACTORY SYSTEM
 
 
 BEFORE leaving Boston, I devoted one day to an excursion to Lowell.  I
@@ -2713,8 +2692,7 @@ showered about us like a storm of fiery snow.
 
 
 
-CHAPTER V
-WORCESTER.  THE CONNECTICUT RIVER.  HARTFORD.  NEW HAVEN.  TO NEW YORK
+CHAPTER V. WORCESTER.  THE CONNECTICUT RIVER.  HARTFORD.  NEW HAVEN.  TO NEW YORK
 
 
 LEAVING Boston on the afternoon of Saturday the fifth of February, we
@@ -3077,8 +3055,7 @@ again to welcome other comers, and speed before them to the busy port.
 
 
 
-CHAPTER VI
-NEW YORK
+CHAPTER VI. NEW YORK
 
 
 THE beautiful metropolis of America is by no means so clean a city as
@@ -3788,8 +3765,7 @@ closes up the vista of our lives in age.
 
 
 
-CHAPTER VII
-PHILADELPHIA, AND ITS SOLITARY PRISON
+CHAPTER VII. PHILADELPHIA, AND ITS SOLITARY PRISON
 
 
 THE journey from New York to Philadelphia, is made by railroad, and two
@@ -4389,8 +4365,7 @@ his legs would carry him, and never once looked back.
 
 
 
-CHAPTER VIII
-WASHINGTON.  THE LEGISLATURE.  AND THE PRESIDENT’S HOUSE
+CHAPTER VIII. WASHINGTON.  THE LEGISLATURE.  AND THE PRESIDENT’S HOUSE
 
 
 WE left Philadelphia by steamboat, at six o’clock one very cold morning,
@@ -5009,8 +4984,7 @@ company, in a new chapter.
 
 
 
-CHAPTER IX
-A NIGHT STEAMER ON THE POTOMAC RIVER.  VIRGINIA ROAD, AND A BLACK DRIVER.
+CHAPTER IX. A NIGHT STEAMER ON THE POTOMAC RIVER.  VIRGINIA ROAD, AND A BLACK DRIVER.
 RICHMOND.  BALTIMORE.  THE HARRISBURG MAIL, AND A GLIMPSE OF THE CITY.  A
 CANAL BOAT
 
@@ -5688,8 +5662,7 @@ journey.
 
 
 
-CHAPTER X
-SOME FURTHER ACCOUNT OF THE CANAL BOAT, ITS DOMESTIC ECONOMY, AND ITS
+CHAPTER X. SOME FURTHER ACCOUNT OF THE CANAL BOAT, ITS DOMESTIC ECONOMY, AND ITS
 PASSENGERS.  JOURNEY TO PITTSBURG ACROSS THE ALLEGHANY MOUNTAINS.
 PITTSBURG
 
@@ -6087,8 +6060,7 @@ noon that day.
 
 
 
-CHAPTER XI
-FROM PITTSBURG TO CINCINNATI IN A WESTERN STEAMBOAT.  CINCINNATI
+CHAPTER XI. FROM PITTSBURG TO CINCINNATI IN A WESTERN STEAMBOAT.  CINCINNATI
 
 
 THE Messenger was one among a crowd of high-pressure steamboats,
@@ -6423,8 +6395,7 @@ log huts upon the river’s shore.
 
 
 
-CHAPTER XII
-FROM CINCINNATI TO LOUISVILLE IN ANOTHER WESTERN STEAMBOAT; AND FROM
+CHAPTER XII. FROM CINCINNATI TO LOUISVILLE IN ANOTHER WESTERN STEAMBOAT; AND FROM
 LOUISVILLE TO ST. LOUIS IN ANOTHER.  ST. LOUIS
 
 
@@ -6863,8 +6834,7 @@ it moves, I will describe the jaunt in another chapter.
 
 
 
-CHAPTER XIII
-A JAUNT TO THE LOOKING-GLASS PRAIRIE AND BACK
+CHAPTER XIII. A JAUNT TO THE LOOKING-GLASS PRAIRIE AND BACK
 
 
 I MAY premise that the word Prairie is variously pronounced _paraaer_,
@@ -7183,8 +7153,7 @@ community.
 
 
 
-CHAPTER XIV
-RETURN TO CINCINNATI.  A STAGE-COACH RIDE FROM THAT CITY TO COLUMBUS, AND
+CHAPTER XIV. RETURN TO CINCINNATI.  A STAGE-COACH RIDE FROM THAT CITY TO COLUMBUS, AND
 THENCE TO SANDUSKY.  SO, BY LAKE ERIE, TO THE FALLS OF NIAGARA
 
 
@@ -7844,8 +7813,7 @@ rushing on Creation at the word of God.
 
 
 
-CHAPTER XV
-IN CANADA; TORONTO; KINGSTON; MONTREAL; QUEBEC; ST.  JOHN’S.  IN THE
+CHAPTER XV. IN CANADA; TORONTO; KINGSTON; MONTREAL; QUEBEC; ST.  JOHN’S.  IN THE
 UNITED STATES AGAIN; LEBANON; THE SHAKER VILLAGE; WEST POINT
 
 
@@ -8543,8 +8511,7 @@ Zee.
 
 
 
-CHAPTER XVI
-THE PASSAGE HOME
+CHAPTER XVI. THE PASSAGE HOME
 
 
 I NEVER had so much interest before, and very likely I shall never have
@@ -8844,8 +8811,7 @@ all that makes it dear; no tongue can tell, or pen of mine describe.
 
 
 
-CHAPTER XVII
-SLAVERY
+CHAPTER XVII. SLAVERY
 
 
 THE upholders of slavery in America—of the atrocities of which system, I
@@ -9507,8 +9473,7 @@ other.’
 
 
 
-CHAPTER XVIII
-CONCLUDING REMARKS
+CHAPTER XVIII. CONCLUDING REMARKS
 
 
 THERE are many passages in this book, where I have been at some pains to
@@ -9897,5 +9862,3 @@ America.
                                                           CHARLES DICKENS.
 
 _May_, 1868.
-
-                                * * * * *

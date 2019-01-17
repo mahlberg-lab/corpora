@@ -1,23 +1,7 @@
-﻿The Time Machine
+﻿The Time Machine: An Invention
+H. G. Wells
 
-
-An Invention
-
-
-
-
-by H. G. Wells
-
-
-
-
-
-
-
- I
-
-
- Introduction
+CHAPTER I. Introduction
 
 The Time Traveller (for so it will be convenient to speak of him) was
 expounding a recondite matter to us. His pale grey eyes shone and
@@ -236,10 +220,7 @@ anecdote collapsed.
 
 
 
- II
-
-
- The Machine
+CHAPTER II. The Machine
 
 The thing the Time Traveller held in his hand was a glittering metallic
 framework, scarcely larger than a small clock, and very delicately
@@ -390,10 +371,7 @@ winked at me solemnly.
 
 
 
- III
-
-
- The Time Traveller Returns
+CHAPTER III. The Time Traveller Returns
 
 I think that at that time none of us quite believed in the Time
 Machine. The fact is, the Time Traveller was one of those men who are
@@ -589,10 +567,7 @@ face.
 
 
 
- IV
-
-
- Time Travelling
+CHAPTER IV. Time Travelling
 
 “I told some of you last Thursday of the principles of the Time
 Machine, and showed you the actual thing itself, incomplete in the
@@ -785,10 +760,7 @@ hands from the machine.
 
 
 
- V
-
-
- In the Golden Age
+CHAPTER V. In the Golden Age
 
 “In another moment we were standing face to face, I and this fragile
 thing out of futurity. He came straight up to me and laughed into my
@@ -946,10 +918,7 @@ people more indolent or more easily fatigued.
 
 
 
- VI
-
-
- The Sunset of Mankind
+CHAPTER VI. The Sunset of Mankind
 
 “A queer thing I soon discovered about my little hosts, and that was
 their lack of interest. They would come to me with eager cries of
@@ -1162,10 +1131,7 @@ enough—as most wrong theories are!
 
 
 
- VII
-
-
- A Sudden Shock
+CHAPTER VII. A Sudden Shock
 
 “As I stood there musing over this too perfect triumph of man, the full
 moon, yellow and gibbous, came up out of an overflow of silver light in
@@ -1371,10 +1337,7 @@ tethered me in a circle of a few miles round the point of my arrival.
 
 
 
- VIII
-
-
- Explanation
+CHAPTER VIII. Explanation
 
 “So far as I could see, all the world displayed the same exuberant
 richness as the Thames valley. From every hill I climbed I saw the same
@@ -1755,10 +1718,7 @@ clapping her hands, while I solemnly burnt a match.
 
 
 
- IX
-
-
- The Morlocks
+CHAPTER IX. The Morlocks
 
 “It may seem odd to you, but it was two days before I could follow up
 the new-found clue in what was manifestly the proper way. I felt a
@@ -1952,10 +1912,7 @@ Eloi. Then, for a time, I was insensible.
 
 
 
- X
-
-
- When Night Came
+CHAPTER X. When Night Came
 
 “Now, indeed, I seemed in a worse case than before. Hitherto, except
 during my night’s anguish at the loss of the Time Machine, I had felt a
@@ -2179,10 +2136,7 @@ dwelling.
 
 
 
- XI
-
-
- The Palace of Green Porcelain
+CHAPTER XI. The Palace of Green Porcelain
 
 “I found the Palace of Green Porcelain, when we approached it about
 noon, deserted and falling into ruin. Only ragged vestiges of glass
@@ -2403,10 +2357,7 @@ hoped to find my bar of iron not altogether inadequate for the work.
 
 
 
- XII
-
-
- In the Darkness
+CHAPTER XII. In the Darkness
 
 “We emerged from the Palace while the sun was still in part above the
 horizon. I was determined to reach the White Sphinx early the next
@@ -2636,10 +2587,7 @@ The box must have leaked before it was lost.
 
 
 
- XIII
-
-
- The Trap of the White Sphinx
+CHAPTER XIII. The Trap of the White Sphinx
 
 “About eight or nine in the morning I came to the same seat of yellow
 metal from which I had viewed the world upon the evening of my arrival.
@@ -2750,10 +2698,7 @@ myself in the same grey light and tumult I have already described.
 
 
 
- XIV
-
-
- The Further Vision
+CHAPTER XIV. The Further Vision
 
 “I have already told you of the sickness and confusion that comes with
 time travelling. And this time I was not seated properly in the saddle,
@@ -2925,10 +2870,7 @@ saddle.
 
 
 
- XV
-
-
- The Time Traveller’s Return
+CHAPTER XV. The Time Traveller’s Return
 
 “So I came back. For a long time I must have been insensible upon the
 machine. The blinking succession of the days and nights was resumed,
@@ -2978,10 +2920,7 @@ rest. I washed, and dined, and now I am telling you the story.
 
 
 
- XVI
-
-
- After the Story
+CHAPTER XVI. After the Story
 
 “I know,” he said, after a pause, “that all this will be absolutely
 incredible to you, but to me the one incredible thing is that I am here
@@ -3132,7 +3071,7 @@ now, he has never returned.
 
 
 
- Epilogue
+EPILOGUE.
 
 One cannot choose but wonder. Will he ever return? It may be that he
 swept back into the past, and fell among the blood-drinking, hairy
