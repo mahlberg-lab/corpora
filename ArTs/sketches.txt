@@ -24,7 +24,7 @@ there.
 
 
 
-PART. OUR PARISH CHAPTER I. THE BEADLE.  THE PARISH ENGINE.  THE SCHOOLMASTER
+PART 1. OUR PARISH CHAPTER I. THE BEADLE.  THE PARISH ENGINE.  THE SCHOOLMASTER
 
 
 How much is conveyed in those two short words—‘The Parish!’  And with how
@@ -206,7 +206,7 @@ and happy associate, in the person of the Pauper Schoolmaster.
 
 
 
-PART. OUR PARISH CHAPTER II. THE CURATE.  THE OLD LADY.  THE HALF-PAY CAPTAIN
+PART 1. OUR PARISH CHAPTER II. THE CURATE.  THE OLD LADY.  THE HALF-PAY CAPTAIN
 
 
 We commenced our last chapter with the beadle of our parish, because we
@@ -418,7 +418,7 @@ much at each feat of his handiwork when it is all over, as anybody else.
 
 
 
-PART. OUR PARISH CHAPTER III. THE FOUR SISTERS
+PART 1. OUR PARISH CHAPTER III. THE FOUR SISTERS
 
 
 The row of houses in which the old lady and her troublesome neighbour
@@ -594,7 +594,7 @@ matter was, before.
 
 
 
-PART. OUR PARISH CHAPTER IV. THE ELECTION FOR BEADLE
+PART 1. OUR PARISH CHAPTER IV. THE ELECTION FOR BEADLE
 
 
 A great event has recently occurred in our parish.  A contest of
@@ -842,7 +842,7 @@ the cause of the parishioners triumphed.
 
 
 
-PART. OUR PARISH CHAPTER V. THE BROKER’S MAN
+PART 1. OUR PARISH CHAPTER V. THE BROKER’S MAN
 
 
 The excitement of the late election has subsided, and our parish being
@@ -1162,7 +1162,7 @@ lost.’
 
 
 
-PART. OUR PARISH CHAPTER VI. THE LADIES’ SOCIETIES
+PART 1. OUR PARISH CHAPTER VI. THE LADIES’ SOCIETIES
 
 
 Our Parish is very prolific in ladies’ charitable institutions.  In
@@ -1367,7 +1367,7 @@ examination is going fast to decay.
 
 
 
-PART. OUR PARISH CHAPTER VII. OUR NEXT-DOOR NEIGHBOUR
+PART 1. OUR PARISH CHAPTER VII. OUR NEXT-DOOR NEIGHBOUR
 
 
 We are very fond of speculating as we walk through a street, on the
@@ -1638,7 +1638,7 @@ The boy was dead.
 
 
 
-PART. SCENES CHAPTER I. THE STREETS—MORNING
+PART 2. SCENES CHAPTER I. THE STREETS—MORNING
 
 
 The appearance presented by the streets of London an hour before sunrise,
@@ -1833,7 +1833,7 @@ industrious; and we come to the heat, bustle, and activity of NOON.
 
 
 
-PART. SCENES CHAPTER II. THE STREETS—NIGHT
+PART 2. SCENES CHAPTER II. THE STREETS—NIGHT
 
 
 But the streets of London, to be beheld in the very height of their
@@ -2033,7 +2033,7 @@ no means pleasing, we make our bow, and drop the curtain.
 
 
 
-PART. SCENES CHAPTER III. SHOPS AND THEIR TENANTS
+PART 2. SCENES CHAPTER III. SHOPS AND THEIR TENANTS
 
 
 What inexhaustible food for speculation, do the streets of London afford!
@@ -2189,7 +2189,7 @@ at the front door, and out at the back one.
 
 
 
-PART. SCENES CHAPTER IV. SCOTLAND-YARD
+PART 2. SCENES CHAPTER IV. SCOTLAND-YARD
 
 
 Scotland-yard is a small—a very small-tract of land, bounded on one side
@@ -2355,7 +2355,7 @@ any one of the landmarks we have mentioned in describing it.
 
 
 
-PART. SCENES CHAPTER V. SEVEN DIALS
+PART 2. SCENES CHAPTER V. SEVEN DIALS
 
 
 We have always been of opinion that if Tom King and the Frenchman had not
@@ -2526,7 +2526,7 @@ general—an assault is the consequence, and a police-officer the result.
 
 
 
-PART. SCENES CHAPTER VI. MEDITATIONS IN MONMOUTH-STREET
+PART 2. SCENES CHAPTER VI. MEDITATIONS IN MONMOUTH-STREET
 
 
 We have always entertained a particular attachment towards
@@ -2779,7 +2779,7 @@ immersed in the deepest obscurity of the adjacent ‘Dials.’
 
 
 
-PART. SCENES CHAPTER VII. HACKNEY-COACH STANDS
+PART 2. SCENES CHAPTER VII. HACKNEY-COACH STANDS
 
 
 We maintain that hackney-coaches, properly so called, belong solely to
@@ -2936,7 +2936,7 @@ until at last it comes to—_a stand_!
 
 
 
-PART. SCENES CHAPTER VIII. DOCTORS’ COMMONS
+PART 2. SCENES CHAPTER VIII. DOCTORS’ COMMONS
 
 
 Walking without any definite object through St. Paul’s Churchyard, a
@@ -3144,7 +3144,7 @@ them in Doctors’ Commons!
 
 
 
-PART. SCENES CHAPTER IX. LONDON RECREATIONS
+PART 2. SCENES CHAPTER IX. LONDON RECREATIONS
 
 
 The wish of persons in the humbler classes of life, to ape the manners
@@ -3328,7 +3328,7 @@ their gains.
 
 
 
-PART. SCENES CHAPTER X. THE RIVER
+PART 2. SCENES CHAPTER X. THE RIVER
 
 
 ‘Are you fond of the water?’ is a question very frequently asked, in hot
@@ -3571,7 +3571,7 @@ afternoon.
 
 
 
-PART. SCENES CHAPTER XI. ASTLEY’S
+PART 2. SCENES CHAPTER XI. ASTLEY’S
 
 
 We never see any very large, staring, black Roman capitals, in a book, or
@@ -3809,7 +3809,7 @@ cannot—we will not—believe it.
 
 
 
-PART. SCENES CHAPTER XII. GREENWICH FAIR
+PART 2. SCENES CHAPTER XII. GREENWICH FAIR
 
 
 If the Parks be ‘the lungs of London,’ we wonder what Greenwich Fair is—a
@@ -4112,7 +4112,7 @@ and a very imperfect recollection of how it was they did _not_ get home.
 
 
 
-PART. SCENES CHAPTER XIII. PRIVATE THEATRES
+PART 2. SCENES CHAPTER XIII. PRIVATE THEATRES
 
 
     ‘RICHARD THE THIRD.—DUKE OF GLO’STER 2_l._; EARL OF RICHMOND, 1_l_;
@@ -4350,7 +4350,7 @@ The bell rings—the tragedy (!) opens—and our description closes.
 
 
 
-PART. SCENES CHAPTER XIV. VAUXHALL-GARDENS BY DAY
+PART 2. SCENES CHAPTER XIV. VAUXHALL-GARDENS BY DAY
 
 
 There was a time when if a man ventured to wonder how Vauxhall-gardens
@@ -4555,7 +4555,7 @@ answer the purpose equally well.
 
 
 
-PART. SCENES CHAPTER XV. EARLY COACHES
+PART 2. SCENES CHAPTER XV. EARLY COACHES
 
 
 We have often wondered how many months’ incessant travelling in a
@@ -4747,7 +4747,7 @@ conclusion of our paper.
 
 
 
-PART. SCENES CHAPTER XVI. OMNIBUSES
+PART 2. SCENES CHAPTER XVI. OMNIBUSES
 
 
 It is very generally allowed that public conveyances afford an extensive
@@ -4907,7 +4907,7 @@ ourselves.
 
 
 
-PART. SCENES CHAPTER XVII. THE LAST CAB-DRIVER, AND THE FIRST OMNIBUS CAD
+PART 2. SCENES CHAPTER XVII. THE LAST CAB-DRIVER, AND THE FIRST OMNIBUS CAD
 
 
 Of all the cabriolet-drivers whom we have ever had the honour and
@@ -5275,7 +5275,7 @@ their occupation.
 
 
 
-PART. SCENES CHAPTER XVIII. A PARLIAMENTARY SKETCH
+PART 2. SCENES CHAPTER XVIII. A PARLIAMENTARY SKETCH
 
 
 We hope our readers will not be alarmed at this rather ominous title.  We
@@ -5708,7 +5708,7 @@ rump-steaks.
 
 
 
-PART. SCENES CHAPTER XIX. PUBLIC DINNERS
+PART 2. SCENES CHAPTER XIX. PUBLIC DINNERS
 
 
 All public dinners in London, from the Lord Mayor’s annual banquet at
@@ -5921,7 +5921,7 @@ the estimable motives of those who support them.
 
 
 
-PART. SCENES CHAPTER XX. THE FIRST OF MAY
+PART 2. SCENES CHAPTER XX. THE FIRST OF MAY
 
 
     ‘Now ladies, up in the sky-parlour: only once a year, if you please!’
@@ -6202,7 +6202,7 @@ How has May-day decayed!
 
 
 
-PART. SCENES CHAPTER XXI. BROKERS’ AND MARINE-STORE SHOPS
+PART 2. SCENES CHAPTER XXI. BROKERS’ AND MARINE-STORE SHOPS
 
 
 When we affirm that brokers’ shops are strange places, and that if an
@@ -6366,7 +6366,7 @@ destitution of those whom they once adorned.
 
 
 
-PART. SCENES CHAPTER XXII. GIN-SHOPS
+PART 2. SCENES CHAPTER XXII. GIN-SHOPS
 
 
 It is a remarkable circumstance, that different trades appear to partake
@@ -6559,7 +6559,7 @@ that were.
 
 
 
-PART. SCENES CHAPTER XXIII. THE PAWNBROKER’S SHOP
+PART 2. SCENES CHAPTER XXIII. THE PAWNBROKER’S SHOP
 
 
 Of the numerous receptacles for misery and distress with which the
@@ -6830,7 +6830,7 @@ follow her example!  How many have done the same!
 
 
 
-PART. SCENES CHAPTER XXIV. CRIMINAL COURTS
+PART 2. SCENES CHAPTER XXIV. CRIMINAL COURTS
 
 
 We shall never forget the mingled feelings of awe and respect with which
@@ -6994,7 +6994,7 @@ succeeded in giving everybody as much trouble as possible.
 
 
 
-PART. SCENES CHAPTER XXV. A VISIT TO NEWGATE
+PART 2. SCENES CHAPTER XXV. A VISIT TO NEWGATE
 
 
 ‘The force of habit’ is a trite phrase in everybody’s mouth; and it is
@@ -7501,7 +7501,7 @@ two hours more will be dead.
 
 
 
-PART. CHARACTERS CHAPTER I. THOUGHTS ABOUT PEOPLE
+PART 3. CHARACTERS CHAPTER I. THOUGHTS ABOUT PEOPLE
 
 
 It is strange with how little notice, good, bad, or indifferent, a man
@@ -7670,7 +7670,7 @@ anywhere.
 
 
 
-PART. CHARACTERS CHAPTER II. A CHRISTMAS DINNER
+PART 3. CHARACTERS CHAPTER II. A CHRISTMAS DINNER
 
 
 Christmas time!  That man must be a misanthrope indeed, in whose breast
@@ -7848,7 +7848,7 @@ lived.
 
 
 
-PART. CHARACTERS CHAPTER III. THE NEW YEAR
+PART 3. CHARACTERS CHAPTER III. THE NEW YEAR
 
 
 Next to Christmas-day, the most pleasant annual epoch in existence is the
@@ -8038,7 +8038,7 @@ that glow within us now.
 
 
 
-PART. CHARACTERS CHAPTER IV. MISS EVANS AND THE EAGLE
+PART 3. CHARACTERS CHAPTER IV. MISS EVANS AND THE EAGLE
 
 
 Mr. Samuel Wilkins was a carpenter, a journeyman carpenter of small
@@ -8195,7 +8195,7 @@ and excitement.
 
 
 
-PART. CHARACTERS CHAPTER V. THE PARLOUR ORATOR
+PART 3. CHARACTERS CHAPTER V. THE PARLOUR ORATOR
 
 
 We had been lounging one evening, down Oxford-street, Holborn, Cheapside,
@@ -8400,7 +8400,7 @@ And that is the reason why we have written this paper.
 
 
 
-PART. CHARACTERS CHAPTER VI. THE HOSPITAL PATIENT
+PART 3. CHARACTERS CHAPTER VI. THE HOSPITAL PATIENT
 
 
 In our rambles through the streets of London after evening has set in, we
@@ -8551,7 +8551,7 @@ over her face.  It covered a corpse.
 
 
 
-PART. CHARACTERS CHAPTER VII. THE MISPLACED ATTACHMENT OF MR. JOHN DOUNCE
+PART 3. CHARACTERS CHAPTER VII. THE MISPLACED ATTACHMENT OF MR. JOHN DOUNCE
 
 
 If we had to make a classification of society, there is a particular kind
@@ -8767,7 +8767,7 @@ boys.
 
 
 
-PART. CHARACTERS CHAPTER VIII. THE MISTAKEN MILLINER.  A TALE OF AMBITION
+PART 3. CHARACTERS CHAPTER VIII. THE MISTAKEN MILLINER.  A TALE OF AMBITION
 
 
 Miss Amelia Martin was pale, tallish, thin, and two-and-thirty—what
@@ -8993,7 +8993,7 @@ possessed.
 
 
 
-PART. CHARACTERS CHAPTER IX. THE DANCING ACADEMY
+PART 3. CHARACTERS CHAPTER IX. THE DANCING ACADEMY
 
 
 Of all the dancing academies that ever were established, there never was
@@ -9214,7 +9214,7 @@ the wiser.
 
 
 
-PART. CHARACTERS CHAPTER X. SHABBY-GENTEEL PEOPLE
+PART 3. CHARACTERS CHAPTER X. SHABBY-GENTEEL PEOPLE
 
 
 There are certain descriptions of people who, oddly enough, appear to
@@ -9362,7 +9362,7 @@ people.
 
 
 
-PART. CHARACTERS CHAPTER XI. MAKING A NIGHT OF IT
+PART 3. CHARACTERS CHAPTER XI. MAKING A NIGHT OF IT
 
 
 Damon and Pythias were undoubtedly very good fellows in their way: the
@@ -9567,7 +9567,7 @@ it.’
 
 
 
-PART. CHARACTERS CHAPTER XII. THE PRISONERS’ VAN
+PART 3. CHARACTERS CHAPTER XII. THE PRISONERS’ VAN
 
 
 We were passing the corner of Bow-street, on our return from a lounging
@@ -9680,7 +9680,7 @@ misfortune; and we saw no more of the Prisoners’ Van.
 
 
 
-PART. TALES CHAPTER I. THE BOARDING-HOUSE
+PART 4. TALES CHAPTER I. THE BOARDING-HOUSE
 
 
 CHAPTER I.
@@ -11372,7 +11372,7 @@ quotations in inverted commas.
 
 
 
-PART. TALES CHAPTER II. MR. MINNS AND HIS COUSIN
+PART 4. TALES CHAPTER II. MR. MINNS AND HIS COUSIN
 
 
 Mr. Augustus Minns was a bachelor, of about forty as he said—of about
@@ -11821,7 +11821,7 @@ Budden, appears therein.
 
 
 
-PART. TALES CHAPTER III. SENTIMENT
+PART 4. TALES CHAPTER III. SENTIMENT
 
 
 The Miss Crumptons, or to quote the authority of the inscription on the
@@ -12329,7 +12329,7 @@ advantages resulting from their Finishing-School.
 
 
 
-PART. TALES CHAPTER IV. THE TUGGSES AT RAMSGATE
+PART 4. TALES CHAPTER IV. THE TUGGSES AT RAMSGATE
 
 
 Once upon a time there dwelt, in a narrow street on the Surrey side of
@@ -13277,7 +13277,7 @@ the Tuggses at Ramsgate.
 
 
 
-PART. TALES CHAPTER V. HORATIO SPARKINS
+PART 4. TALES CHAPTER V. HORATIO SPARKINS
 
 
 ‘Indeed, my love, he paid Teresa very great attention on the last
@@ -13980,7 +13980,7 @@ to anything _low_.
 
 
 
-PART. TALES CHAPTER VI. THE BLACK VEIL
+PART 4. TALES CHAPTER VI. THE BLACK VEIL
 
 
 One winter’s evening, towards the close of the year 1800, or within a
@@ -14445,7 +14445,7 @@ to his heart than that connected with The Black Veil.
 
 
 
-PART. TALES CHAPTER VII. THE STEAM EXCURSION
+PART 4. TALES CHAPTER VII. THE STEAM EXCURSION
 
 
 Mr. Percy Noakes was a law student, inhabiting a set of chambers on the
@@ -15375,7 +15375,7 @@ Mr. Percy Noakes is as light-hearted and careless as ever.
 
 
 
-PART. TALES CHAPTER VIII. THE GREAT WINGLEBURY DUEL
+PART 4. TALES CHAPTER VIII. THE GREAT WINGLEBURY DUEL
 
 
 The little town of Great Winglebury is exactly forty-two miles and
@@ -16131,7 +16131,7 @@ you just this account of The Great Winglebury Duel.
 
 
 
-PART. TALES CHAPTER IX. MRS. JOSEPH PORTER
+PART 4. TALES CHAPTER IX. MRS. JOSEPH PORTER
 
 
 Most extensive were the preparations at Rose Villa, Clapham Rise, in the
@@ -16536,7 +16536,7 @@ from the works of that immortal bard.
 
 
 
-PART. TALES CHAPTER X. A PASSAGE IN THE LIFE OF MR. WATKINS TOTTLE
+PART 4. TALES CHAPTER X. A PASSAGE IN THE LIFE OF MR. WATKINS TOTTLE
 
 
 CHAPTER. CHAPTER THE FIRST
@@ -18732,7 +18732,7 @@ not been taken down, was soon afterwards affixed in his parlour-window.
 
 
 
-PART. TALES CHAPTER XI. THE BLOOMSBURY CHRISTENING
+PART 4. TALES CHAPTER XI. THE BLOOMSBURY CHRISTENING
 
 
 Mr. Nicodemus Dumps, or, as his acquaintance called him, ‘long Dumps,’
@@ -19420,7 +19420,7 @@ with ‘the most miserable man in the world.’
 
 
 
-PART. TALES CHAPTER XII. THE DRUNKARD’S DEATH
+PART 4. TALES CHAPTER XII. THE DRUNKARD’S DEATH
 
 
 We will be bold to say, that there is scarcely a man in the constant
@@ -19886,7 +19886,7 @@ to the grave; and there it has long since mouldered away!
 
 
 
-PART. SKETCHES OF YOUNG GENTLEMEN
+PART 5. SKETCHES OF YOUNG GENTLEMEN
 
 
                            TO THE YOUNG LADIES
@@ -21575,7 +21575,7 @@ to be addressed.
 
 
 
-PART. SKETCHES OF YOUNG COUPLES
+PART 6. SKETCHES OF YOUNG COUPLES
 
 
 AN URGENT REMONSTRANCE, &c.
@@ -23362,7 +23362,7 @@ when men throw up their caps, and cry with loving shouts—
 
 
 
-PART. THE MUDFOG AND OTHER SKETCHES
+PART 7. THE MUDFOG AND OTHER SKETCHES
 
 
 PUBLIC LIFE OF MR. TULRUMBLE—ONCE MAYOR OF MUDFOG
