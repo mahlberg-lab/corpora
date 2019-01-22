@@ -3,39 +3,27 @@
 This document explains the procedure for cleaning and adding the corpora texts. For a list of included texts, please see [INDEX.pdf](INDEX.pdf).
 
 
-Cleaning of corpora texts {#se:cleaning}
-==============================
+## <a name="se:cleaning"></a>Cleaning of corpora texts
 
 The sources were the Gutenberg plain text UTF-8 files.
 
-1.  [\[lst:line\_endings\]]{#lst:line_endings label="lst:line_endings"}
-    Convert to unix line endings.
+1. <a name="lst:line_endings"></a> Convert to unix line endings.
 
-2.  [\[lst:non\_auth\]]{#lst:non_auth label="lst:non_auth"} Remove
-    non-authorial text.
+2. <a name="lst:non_auth"></a> Remove non-authorial text.
 
-3.  [\[lst:title\]]{#lst:title label="lst:title"} Reformat the book
-    title and author to make consistent across all texts.
+3. <a name="lst:title"></a> Reformat the book title and author to make consistent across all texts.
 
-4.  [\[lst:chapters\]]{#lst:chapters label="lst:chapters"} Reformat
-    chapter headings to make consistent across all texts.
+4. <a name="lst:chapters"></a> Reformat chapter headings to make consistent across all texts.
 
-5.  [\[lst:manual\]]{#lst:manual label="lst:manual"} Manual corrections
+5. <a name="lst:manual"></a> Manual corrections
 
-Steps [\[lst:non\_auth\]](#lst:non_auth){reference-type="ref"
-reference="lst:non_auth"},
-[\[lst:title\]](#lst:title){reference-type="ref" reference="lst:title"}
-and [\[lst:chapters\]](#lst:chapters){reference-type="ref"
-reference="lst:chapters"} were done manually.
+Steps [2](#lst:non_auth), [3](#lst:title) and [4](#lst:chapters) were done manually.
 
-Step [\[lst:line\_endings\]](#lst:line_endings){reference-type="ref"
-reference="lst:line_endings"} was achieved using the following command
+Step [1} was achieved using the following command
 
      for f in ChiLit/*.txt; do dos2unix -m $f; done 
 
-Some specifics of step
-[\[lst:non\_auth\]](#lst:non_auth){reference-type="ref"
-reference="lst:non_auth"}:
+Some specifics of step [2](#lst:non_auth):
 
 -   Tables of content are removed.
 
@@ -123,8 +111,7 @@ reference="lst:non_auth"}:
         IT was longer than the squire imagined ere we were ready for the sea,
         and none of our first plans--not even Dr. Livesey's, of keeping me
 
-Converting to 7-bit ASCII.
---------------------------
+## <a name="se:ASCII"></a>Converting to 7-bit ASCII.
 
 In addition, the Perl module `Text::Unidecode`[^1] can be used to unify
 the use of hyphens, apostrophes and quotes across the texts with the
@@ -137,11 +124,9 @@ as UTF-8. Note that this will also affect accents and other special
 characters; for example, Hôtel becomes Hotel, archæologist becomes
 archaeologist and £60,000 becomes PS60,000.
 
-Maintaining this corpora repository
-===================================
+## <a name="se:maintaining_repo"></a>Maintaining the corpora repository
 
-`.bib` file {#se:bib_file}
------------
+### <a name="se:bib_file"></a>`.bib` file
 
 We currently manage the bibliography in a shared zotero folder. The
 important fields in the bib entries are:
@@ -193,46 +178,38 @@ Example entry:
             keywords = {corpus}
         }
 
-Adding a new text to a corpus {#se:add_file}
------------------------------
+### Adding a new text to a corpus
 
 1.  Clean the text as described in
-    Section [2](#se:cleaning){reference-type="ref"
-    reference="se:cleaning"}.
+    Section [2](#se:cleaning).
 
 2.  Add entry to the `.bib` file; see
-    Section [3.1](#se:bib_file){reference-type="ref"
-    reference="se:bib_file"}.
+    Section [3.1](#se:bib_file).
 
 3.  Update repository tags; see
     Section [3.4](#se:tags){reference-type="ref" reference="se:tags"}.
 
-Adding a new corpus
--------------------
+### Adding a new corpus
 
 1.  Add an entry to the `.bib` file for the corpus; see
-    Section [3.1](#se:bib_file){reference-type="ref"
-    reference="se:bib_file"}.
+    Section [3.1](#se:bib_file).
 
 2.  For each new corpus file
 
     1.  Clean the text as described in
-        Section [2](#se:cleaning){reference-type="ref"
-        reference="se:cleaning"}.
+        Section [2](#se:cleaning).
 
     2.  Add entry to the `.bib` file; see
-        Section [3.1](#se:bib_file){reference-type="ref"
-        reference="se:bib_file"}.
+        Section [3.1](#se:bib_file).
 
 3.  Update repository tags; see
-    Section [3.4](#se:tags){reference-type="ref" reference="se:tags"}.
+    Section [3.4](#se:tags).
 
-Repository Tags {#se:tags}
----------------
+### <a name="se:tags"></a>Repository Tags
 
 TODO
 
-
+## References
 [^1]: <http://search.cpan.org/perldoc?Text::Unidecode>
 
 [^2]: <https://tools.ietf.org/html/rfc20>
