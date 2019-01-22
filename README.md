@@ -19,7 +19,7 @@ The sources were the Gutenberg plain text UTF-8 files.
 
 Steps [2](#lst:non_auth), [3](#lst:title) and [4](#lst:chapters) were done manually.
 
-Step [1} was achieved using the following command
+Step [1] was achieved using the following command
 
      for f in ChiLit/*.txt; do dos2unix -m $f; done 
 
@@ -178,7 +178,7 @@ Example entry:
             keywords = {corpus}
         }
 
-### Adding a new text to a corpus
+### Adding a new text to a corpus
 
 1.  Clean the text as described in
     Section [2](#se:cleaning).
@@ -205,11 +205,13 @@ Example entry:
 3.  Update repository tags; see
     Section [3.4](#se:tags).
 
-### <a name="se:tags"></a>Repository Tags
+
+### Repository Tags
 
 TODO
 
 ## References
+
 [^1]: <http://search.cpan.org/perldoc?Text::Unidecode>
 
 [^2]: <https://tools.ietf.org/html/rfc20>
