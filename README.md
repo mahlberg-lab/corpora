@@ -83,14 +83,14 @@ Steps [2](#lst:non_auth), [3](#lst:title) and [4](#lst:chapters) are done manual
 is included in main text. (This rule was formally introduced for the [expansion of the ArTs corpus, 2019-01](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L25366), although it was likely also followed implicitly for the previous corpora).
 
    When removing footnotes, delete both the in-text footnote indicator and the footnote itself.
-   In the following example from `sketches`, both the {161} in the text [was removed](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L7281)
+   In the following example from `sketches`, the {161} in the text [was removed](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L7281)
    
         On both sides of the gaol, is a small
         receiving-room, to which prisoners are conducted on their first
         reception, and whence they cannot be removed until they have been
         examined by the surgeon of the prison. {161}
     
-  [along with the footnote text](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L26670):
+   [along with the footnote text](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L26670):
    
         {161}  The regulations of the prison relative to the confinement of
         prisoners during the day, their sleeping at night, their taking their
