@@ -210,8 +210,6 @@ Example entry:
 
 TODO
 
-## References
-
 [^1]: <http://search.cpan.org/perldoc?Text::Unidecode>
 
 [^2]: <https://tools.ietf.org/html/rfc20>
