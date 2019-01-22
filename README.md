@@ -2,10 +2,23 @@
 
 This document explains the procedure for cleaning and adding the corpora texts. For a list of included texts, please see [INDEX.pdf](INDEX.pdf).
 
+## Source texts
+
+The sources are the Gutenberg plain text UTF-8 files. We save the initial, unchanged versions, as downloaded
+from [gutenberg.org](www.gutenberg.org) in a folder for the relevant corpus.
+
+This process has been followed for the two most recent CLiC corpora, ChiLit and Arts. The initial files are available from previous commits to this repository:
+
+- [initial versions of ChiLit files added 2017-09-10](https://github.com/birmingham-ccr/corpora/tree/a020b2a7153baf8849056be833861ecb3d77e7a1/ChiLit)
+- [initial versions of ArTs files added 2017-10-26](https://github.com/birmingham-ccr/corpora/tree/026a8436bf9ea3282d283a05725c0153e023d74c/Other) (this corpus was originally called "Other")
+- [initial versions of ArTs files added 2019-01-16](https://github.com/birmingham-ccr/corpora/commit/1018b422c709b08cb5dbb3fc066dad8d15c0b3fd#diff-b90e831a9520a85b9e7620aa1fac6591) (as part of the ArTs expansion)
+
+Also note that the initial file for `gulliver` is found in the initial downloads for ChiLit above; the book was later moved to the ArTs corpus.
 
 ## <a name="se:cleaning"></a>Cleaning of corpora texts
 
-The sources were the Gutenberg plain text UTF-8 files.
+After committing the initial files to the repository, we clean the texts according to the followings steps
+by directly editing the text files. 
 
 1. <a name="lst:line_endings"></a> Convert to unix line endings.
 
@@ -17,13 +30,16 @@ The sources were the Gutenberg plain text UTF-8 files.
 
 5. <a name="lst:manual"></a> Manual corrections
 
-Step [1] was achieved using the following command
+Each editing stages is committed and clearly documented with a commit message.
+Accordingly, it is possible to see the history of a single file, see for example the [history of willows.txt](https://github.com/birmingham-ccr/corpora/commits/master/ChiLit/willows.txt).
+
+Step [1] is achieved using the following command
 
      for f in ChiLit/*.txt; do dos2unix -m $f; done 
 
-Steps [2](#lst:non_auth), [3](#lst:title) and [4](#lst:chapters) were done manually.
+Steps [2](#lst:non_auth), [3](#lst:title) and [4](#lst:chapters) are done manually.
 
-Some specifics of step [2](#lst:non_auth):
+### Specifics of step [2](#lst:non_auth)
 
 -   Tables of content are removed.
 
@@ -54,9 +70,64 @@ Some specifics of step [2](#lst:non_auth):
 
          [Illustration: Chapter Seventeen] 
 
-         [Illustration: Page 91] 
+         [Illustration: Page 91]
+        
+    In the case of `sketches`, the line
+    
+          [Picture which cannot be reproduced]
 
-Specifics of Steps [3](#lst:title) and [4](#lst:chapters):
+    was removed during editing, because other editions suggested that the line was 
+    not part of the text but rather an editorial remark (see the [comment on the change](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#r32025083)).
+    
+-  **Footnotes** are removed if they are attached to the end of a text but left in if the footnote text
+is included in main text. (This rule was formally introduced for the [expansion of the ArTs corpus, 2019-01](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L25366), although it was likely also followed implicitly for the previous corpora).
+
+   When removing footnotes, delete both the in-text footnote indicator and the footnote itself.
+   In the following example from `sketches`, both the {161} in the text [was removed](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L7281)
+   
+        On both sides of the gaol, is a small
+        receiving-room, to which prisoners are conducted on their first
+        reception, and whence they cannot be removed until they have been
+        examined by the surgeon of the prison. {161}
+    
+  [along with the footnote text](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L26670):
+   
+        {161}  The regulations of the prison relative to the confinement of
+        prisoners during the day, their sleeping at night, their taking their
+        meals, and other matters of gaol economy, have been all altered-greatly
+        for the better—since this sketch was first published.  Even the
+        construction of the prison itself has been changed.
+        
+   Note this is just one of the [four footnotes removed in `sketches`](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-b90e831a9520a85b9e7620aa1fac6591L26663). 
+   Other books for which footnotes were removed include [`americannotes`](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-97c35dfce2b9f9b909ebb3f89ae43e2c), 
+   [`pictures`](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-dae9e8214d88284bc935c3a2b5ebce82) and [`uncommercial`](https://github.com/birmingham-ccr/corpora/commit/c72cc1809c22c3f45f2e3158df87545fdce58d28#diff-f573870f5118cfc91ff22ca3de87a75f).
+   
+   By contrast, an example of a footnote that was retained because it was fully included
+   in the main text is the following in [`timemachine`](https://github.com/birmingham-ccr/corpora/blob/ca01d2ae9731b7a43d469422b85deb0bc1c486f3/ArTs/timemachine.txt#L2231):
+   
+       “Suddenly Weena came very close to my side. So suddenly that she
+       startled me. Had it not been for her I do not think I should have
+       noticed that the floor of the gallery sloped at all. [Footnote: It may
+       be, of course, that the floor did not slope, but that the museum was
+       built into the side of a hill.—ED.]
+       
+   ChiLit also contains examples of retained footnotes, for example several in `rival`,
+   such as the following ([see location in text](https://github.com/birmingham-ccr/corpora/blob/ca01d2ae9731b7a43d469422b85deb0bc1c486f3/ChiLit/rival.txt#L2504))
+   
+       "By the mercy of Heaven, we met some Brazilian proas, which took us on
+       board, and the Diomede in tow; and, having favourable winds and a smooth
+       sea, we contrived to get the hulk into the King's dock at Rio de
+       Janeiro; where, being a fine new ship, she was found worth repairing and
+       refitting; and here we have been ever since, the Portuguese workmen
+       being very slow in their operations."[6]
+
+       [Footnote 6: Commodore Byron found some repairs necessary at Rio de
+       Janeiro.--"We had six Portuguese caulkers to assist our carpenters, who
+       were paid at the rate of 6s. per diem; though it is certain an English
+       caulker could do as much in one day as they did in three; but, though
+       slow and inactive, they perform their work very effectually."
+       
+### Specifics of Steps [3](#lst:title) and [4](#lst:chapters)
 
 -   The **book title** is put on the first line of the file, without any
     newlines.
@@ -163,8 +234,14 @@ Example entry:
         }
         
 Make sure that the entries don't inclue extraneous information. For example, when using the
-Zotero Chrome Add On to export a citation from gutenberg.org, Zotero tends to save licesing
+Zotero Chrome Add On to export a citation from gutenberg.org, Zotero tends to save licensing
 information. This should be deleted from the Zotero entry.
+
+For the `date` we try to establish the date of the first publication of the novel (or the work as
+a whole, in the case of serialised works), using external information, such as Wikipedia entries.
+We use this date of first publication rather than the date of the edition for the main historical context
+of the novel. Although we do not explicitly record the edition of the book transcribed by Project Gutenber,
+CLiC users can look for this information in the initial versions of the texts: initial versions of 
 
 If you are adding a new corpus, you will also have to create a `@book`
 entry for the corpus. The important fields in the bib entries are:
@@ -207,14 +284,16 @@ new entries can be added manually instead of rewriting the entire `.bib` file.
     Section [3.1](#se:bib_file).
 
 3.  Update repository tags; see
-    Section [3.4](#se:tags){reference-type="ref" reference="se:tags"}.
+    Section [3.4](#se:tags).
 
 ### Adding a new corpus
 
-1.  Add an entry to the `.bib` file for the corpus; see
+1.  Add a new folder to the corpus repository.
+
+2.  Add an entry to the `.bib` file for the corpus; see
     Section [3.1](#se:bib_file).
 
-2.  For each new corpus file
+3.  For each new corpus file
 
     1.  Clean the text as described in
         Section [2](#se:cleaning).
@@ -222,7 +301,7 @@ new entries can be added manually instead of rewriting the entire `.bib` file.
     2.  Add entry to the `.bib` file; see
         Section [3.1](#se:bib_file).
 
-3.  Update repository tags; see
+4.  Update repository tags; see
     Section [3.4](#se:tags).
 
 
