@@ -17,11 +17,11 @@ The sources were the Gutenberg plain text UTF-8 files.
 
 5. <a name="lst:manual"></a> Manual corrections
 
-Steps [2](#lst:non_auth), [3](#lst:title) and [4](#lst:chapters) were done manually.
-
 Step [1] was achieved using the following command
 
      for f in ChiLit/*.txt; do dos2unix -m $f; done 
+
+Steps [2](#lst:non_auth), [3](#lst:title) and [4](#lst:chapters) were done manually.
 
 Some specifics of step [2](#lst:non_auth):
 
@@ -56,9 +56,10 @@ Some specifics of step [2](#lst:non_auth):
 
          [Illustration: Page 91] 
 
+Specifics of Steps [3](#lst:title) and [4](#lst:chapters):
+
 -   The book title is put on the first line of the file, without any
     newlines.
-
 -   The book author is put on the second line of the file, without any
     newlines.
 
@@ -138,6 +139,11 @@ important fields in the bib entries are:
 
 -   The `title`, `author` and `date` fields must be present.
 
+-   The `editor` field is optional and refers to the people or group of people who
+transcribed/edited the text for publication on gutenberg.org. We add this manually based
+on any information in the initial text file from Project Gutenberg (not all text files contain
+this).
+
 Example entry:
 
         @book{grahame_wind_1908,
@@ -150,6 +156,10 @@ Example entry:
             date = {1908},
             keywords = {{ChiLit}}        <<===  corpus id
         }
+        
+Make sure that the entries don't inclue extraneous information. For example, when using the
+Zotero Chrome Add On to export a citation from gutenberg.org, Zotero tends to save licesing
+information. This should be deleted from the Zotero entry. Some
 
 If you are adding a new corpus, you will also have to create a `@book`
 entry for the corpus. The important fields in the bib entries are:
@@ -177,6 +187,11 @@ Example entry:
             date = {2017},
             keywords = {corpus}
         }
+
+In order to export the required bib style from Zotero, choose "BibLaTeX" (not BibTeX!)
+in Preferences -> Export. It appears that different versions of Zotero export different
+sequences of `.bib` entries; please check before you update the file. If the sequence differs,
+new entries can be added manually instead of rewriting the entire `.bib` file.
 
 ### Adding a new text to a corpus
 
