@@ -58,12 +58,17 @@ Some specifics of step [2](#lst:non_auth):
 
 Specifics of Steps [3](#lst:title) and [4](#lst:chapters):
 
--   The book title is put on the first line of the file, without any
+-   The **book title** is put on the first line of the file, without any
     newlines.
--   The book author is put on the second line of the file, without any
+-   The **book author** is put on the second line of the file, without any
     newlines.
+-   Both the **book title** and the **book author** should be in title case
+(*not* in all capitals! - that would confuse the CLiC client), for example
 
--   Chapter headings are formatted as follows: If the chapter heading
+          American Notes for General Circulation
+          Charles Dickens
+
+-   **Chapter headings** are formatted as follows: If the chapter heading
     begins with 'CHAPTER' or 'BOOK' it must be followed by a number or
     roman numerals and then a dot. The chapter or book number cannot be
     written in word form. The heading can optionaly be followed by a
@@ -159,7 +164,7 @@ Example entry:
         
 Make sure that the entries don't inclue extraneous information. For example, when using the
 Zotero Chrome Add On to export a citation from gutenberg.org, Zotero tends to save licesing
-information. This should be deleted from the Zotero entry. Some
+information. This should be deleted from the Zotero entry.
 
 If you are adding a new corpus, you will also have to create a `@book`
 entry for the corpus. The important fields in the bib entries are:
