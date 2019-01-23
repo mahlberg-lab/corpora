@@ -176,17 +176,58 @@ is included in main text. (This rule was formally introduced for the [expansion 
 
     In all cases there must be no space at the beginning of the line.
 
--   Part headings are on a line before the first chapter of that part,
-    in the same format. Blank lines are allowed between the part heading
-    and the chapter heading. The following example is from Treasure
-    Island
+-   **Part headings** are on a line before the first chapter of that part,
+    in the same format (i.e. "PART" has to be followed by a Roman or Arabic
+    numeral). Blank lines are allowed between the part heading and the chapter
+    heading. The following example is from `treasure`. 
+    
 
-        PART TWO. The Sea-cook
+        PART 2. The Sea-cook
+
+
+
 
         CHAPTER 7. I Go to Bristol
 
         IT was longer than the squire imagined ere we were ready for the sea,
         and none of our first plans--not even Dr. Livesey's, of keeping me
+        
+    In the CLiC dropdown menu, the part and chapter headings are joined together,
+    i.e. this `treasure` chapter is shown as "PART 2. The Sea-cook CHAPTER 7. I Go to Bristol".
+    Whereas `treasure` contains "PART" headings in the original text that only had to
+    be [reformatted](https://github.com/birmingham-ccr/corpora/commit/b3bf771a72a523554fbec011dfaf6e44d35b1ae8#diff-833d382b4e9e60c1c7f9182dd7ebd234), sometimes "PART" (and a number) has to be added
+    to the existing headings in order to represent the structure of the book correctly
+    in the CLiC dropdown menu. An example where the headings had to be adjusted accordingly 
+    is `sketches`. The table of contents in a [scanned copy of the book](https://archive.org/details/in.ernet.dli.2015.501383/page/n7)
+    illustrates its nested structure. This table of contents does not reproduce all levels;
+    for example, the chapters within "CHARACTERS" and "TALES" contain a further level of chapters.
+    As CLiC can only handle parts and chapters but no third level, we solved this issue by first adding
+    the numbered parts to the headings ("PART 4." in the following), joining it with the top
+    chapter level ("CHAPTER I. THE BOARDING-HOUSE") and therefore accounting for the extra chapter level (CHAPTER I.)
+    on level 2
+    
+    
+         PART 4. TALES CHAPTER I. THE BOARDING-HOUSE
+
+
+          CHAPTER I.
+          
+    These extra levels are not very frequent in `sketches`, but when they occur, they are not
+    necessarily numbered conventionally but e.g. "CHAPTER THE SECOND". In that instance, we added
+    only "CHAPTER" to count this as a chapter.
+    
+         The advertisement has again appeared in the morning papers.  Results must
+         be reserved for another chapter.
+
+
+         CHAPTER. CHAPTER THE SECOND.
+
+
+         ‘Well!’ said little Mrs. Tibbs to herself, as she sat in the front
+         parlour of the Coram-street mansion one morning, mending a piece of
+         stair-carpet off the first Landings;—‘Things have not turned out so
+         badly, either, and if I only get a favourable answer to the
+         advertisement, we shall be full again.’
 
 ## <a name="se:ASCII"></a>Converting to 7-bit ASCII.
 
