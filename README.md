@@ -132,7 +132,13 @@ is included in main text. (This rule was formally introduced for the [expansion 
 -   The **book title** is put on the first line of the file, without any
     newlines.
 -   The **book author** is put on the second line of the file, without any
-    newlines.
+    newlines. Check whether the CLiC corpora already contain other texts from this author
+    and ensure that the spelling of the name is consistent in the text to be added. 
+    If the presentation of the name differs slightly (e.g. a full name vs. initials of first name)
+    then CLiC will consider the two names as different authors and give them distinct author entries
+    in the dropdown menu. Sometimes Gutenberg texts also contain additional titles in front of a name
+    (e.g. "Baron", "Captain", "Earl"). We try to use the format that is/was most commonly used for the 
+    author. Most important is, though, to use one format consistently for the same author.
 -   Both the **book title** and the **book author** should be in title case
 (*not* in all capitals! - that would confuse the CLiC client), for example
 
