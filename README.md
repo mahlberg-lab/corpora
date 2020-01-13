@@ -235,18 +235,12 @@ is included in main text. (This rule was formally introduced for the [expansion 
          badly, either, and if I only get a favourable answer to the
          advertisement, we shall be full again.’
 
-## <a name="se:ASCII"></a>Converting to 7-bit ASCII.
+## <a name="se:ASCII"></a>Historical relevance: No longer converting to 7-bit ASCII
 
-In addition, the Perl module `Text::Unidecode`[^1] can be used to unify
-the use of hyphens, apostrophes and quotes across the texts with the
-following command
-
-     perl -C -MText::Unidecode -n -i -e'print unidecode($_)' */*.txt 
-
-7-bit ASCII[^2] is a subset of UTF-8[^3] and so the files may be treated
-as UTF-8. Note that this will also affect accents and other special
-characters; for example, Hôtel becomes Hotel, archæologist becomes
-archaeologist and £60,000 becomes PS60,000.
+Prior to CLiC 2.0 we used to convert the corpora texts to 7-bit ASCII in order to standardise quote marks etc. 
+However, the conversion to ASCII would mean that some valuable information is lost (e.g. whether a quote mark is opening
+or closing). With CLiC 2.0, we moved the ASCII-7 normalisation into the tokenisation process, which is how searching for "cafe" returns "café". We look for the tokenised (i.e. ASCII-7'ed) form of the query, but show the original text.
+So the curly quotes are preserved in corpora texts themselves.
 
 ## <a name="se:maintaining_repo"></a>Maintaining the corpora repository
 
