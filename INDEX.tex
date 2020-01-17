@@ -4,6 +4,8 @@
 \setlength{\parindent}{0pt}
 %% say no to serif
 \renewcommand*\familydefault{\sfdefault}
+%% allow arbitrary font sizes
+ \usepackage{lmodern}%
 \usepackage{amsmath}
 \usepackage[inner=2.5cm,outer=2.5cm,bottom=2.5cm,top=2.5cm]{geometry}
 
@@ -13,6 +15,7 @@
 %% bibliography
 \usepackage{nameref}
 \usepackage[british]{babel}
+\usepackage{csquotes}
 \usepackage[
     style=apa,
     backend=biber,
