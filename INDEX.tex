@@ -117,10 +117,12 @@
 \printbibliography[heading=none,keyword=AAW]
 
 \subsection{Updating INDEX.pdf} \label{se:update_index}
-The INDEX pdf is compiled with \texttt{latexmk}
+The INDEX pdf is compiled with \texttt{latexmk}. On Linux:
 \begin{verbatim}
 sudo apt install latexmk texlive-latex-extra texlive-bibtex-extra biber
 latexmk --outdir=./build --pdf INDEX.tex && cp build/INDEX.pdf .
 \end{verbatim}
+
+On Mac, use the TeX Live distribution of your preferred editor, e.g. Texmaker + MacTeX.
 
 \end{document}
