@@ -5,7 +5,7 @@ This document explains the procedure for cleaning and adding the corpora texts. 
 ## Source texts
 
 The sources are the Gutenberg plain text UTF-8 files. We save the initial, unchanged versions, as downloaded
-from [gutenberg.org](www.gutenberg.org) in a folder for the relevant corpus.
+from [gutenberg.org](https://gutenberg.org/) in a folder for the relevant corpus.
 
 This process has been followed for the two most recent CLiC corpora, ChiLit and Arts. The initial files are available from previous commits to this repository:
 
@@ -18,7 +18,7 @@ Also note that the initial file for `gulliver` is found in the initial downloads
 ## <a name="se:maintaining_repo"></a>Maintaining the corpora repository
 
 Texts added to the corpora repository should be prepared according to the notes in the
-[clictagger documentation](https://birmingham-ccr.github.io/clictagger/).
+[clictagger documentation](https://mahlberg-lab.github.io/clictagger/).
 
 ### <a name="se:bib_file"></a>`.bib` file
 
