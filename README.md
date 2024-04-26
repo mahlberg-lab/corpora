@@ -4,7 +4,7 @@ This document explains the procedure for cleaning and adding the corpora texts. 
 
 ## Source texts
 
-The sources are the Gutenberg plain text UTF-8 files. We save the initial, unchanged versions, as downloaded
+The sources of the English texts are the Gutenberg plain text UTF-8 files. We save the initial, unchanged versions, as downloaded
 from [gutenberg.org](https://gutenberg.org/) in a folder for the relevant corpus.
 
 This process has been followed for the two most recent CLiC corpora, ChiLit and Arts. The initial files are available from previous commits to this repository:
@@ -14,6 +14,8 @@ This process has been followed for the two most recent CLiC corpora, ChiLit and 
 - [initial versions of ArTs files added 2019-01-16](https://github.com/birmingham-ccr/corpora/commit/1018b422c709b08cb5dbb3fc066dad8d15c0b3fd#diff-b90e831a9520a85b9e7620aa1fac6591) (as part of the ArTs expansion)
 
 Also note that the initial file for `gulliver` is found in the initial downloads for ChiLit above; the book was later moved to the ArTs corpus.
+
+The texts of the German “Deutsche Romane des 19. Jahrhunderts” (DE19) corpus originate from the [ELTeC-deu](https://distantreading.github.io/ELTeC/deu/index.html) collection. After a selection process aimed at ensuring that DE19 is comparable to the English 19C corpus in terms of size and gender balance, we converted the ELTeC XML files into plain text files, retaining chapter boundaries. Unlike the English corpora, in German texts, chapter titles are preceded by `###`, with a corresponding chapter segmentation rule added to `clictagger` to avoid making the tagger too language-specific.
 
 ## <a name="se:maintaining_repo"></a>Maintaining the corpora repository
 
