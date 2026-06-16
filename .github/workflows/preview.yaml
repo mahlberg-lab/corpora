@@ -55,7 +55,7 @@ jobs:
         run: make -C clic/server
       - name: Generate HTML for every change
         run: |
-            echo "<html><body><h1>Files changed</h1>" > "index.html"
+            echo "<html><head><meta charset="UTF-8"></head><body><h1>Files changed</h1>" > "index.html"
             for f in ${{ steps.changed-files.outputs.changed_files }}; do
                 if [[ $f == *.txt ]]; then
                   echo "<br/><h2>${f}</h2>"
