@@ -1,0 +1,66 @@
+# https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.html
+# https://github.com/actions/checkout
+
+on:
+  push:
+    branches:
+      - '[0-9]+\.[0-9]+'
+  pull_request:
+  workflow_dispatch:
+
+name: html-preview
+
+jobs:
+  int-test:
+    runs-on: ${{ matrix.config.os }}
+    name: CLiC Integration Test ${{ matrix.config.os }}
+
+    strategy:
+      matrix:
+        config:
+          - { os: ubuntu-latest }
+
+    steps:
+      # https://stackoverflow.com/a/74268200
+      - uses: actions/checkout@v6
+        with:
+            fetch-depth: ${{ github.event_name == 'pull_request' && 2 || 0 }}
+      - name: Get changed files
+        id: changed-files
+        run: |
+            if ${{ github.event_name == 'pull_request' }}; then
+                echo "changed_files=$(git diff --name-only -r HEAD^1 HEAD | xargs)" >> $GITHUB_OUTPUT
+            else
+                echo "changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | xargs)" >> $GITHUB_OUTPUT
+            fi
+        # NB: Output in ${{ steps.changed-files.outputs.changed_files }}
+
+      - name: Check out CLiC
+        # NB: Checks out into GITHUB_WORKSPACE, e.g. /home/runner/work/clic/clic
+        uses: actions/checkout@v6
+          repository: 'mahlberg-lab/clic'
+          # TODO: Update once merged
+          ref: 'html-region-preview'
+          path: 'clic'
+      - name: Install prerequisites
+        run: sudo clic/prerequisites.sh
+      - name: Make server
+        run: make -C clic/server
+      - name: Generate HTML for every change
+        run: |
+            echo "<html><body><h1>Files changed</h1>" > "index.html"
+            for f in ${{ steps.changed-files.outputs.changed_files }}; do
+                if [[ $f == *.txt ]]; then
+                  echo "<br/><h2>${f}</h2>"
+                  clic/server/bin/region_preview --html "$f"
+                fi
+            done >> "index.html"
+            echo "</body></html>" >> "index.html"
+      - name: HTML Preview
+        id: html_preview
+        uses: pavi2410/html-preview-action@b58683c238478d5f8b5dacf4fe5e3f403afb449a
+        with:
+          html_file: index.html
+          site_root: dist
+          upload: auto
+          job_summary: true
