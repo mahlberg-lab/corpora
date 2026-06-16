@@ -12,13 +12,12 @@ name: html-preview
 
 jobs:
   int-test:
-    runs-on: ${{ matrix.config.os }}
-    name: CLiC Integration Test ${{ matrix.config.os }}
+    name: Generate HTML preview
+    runs-on: ubuntu-latest
 
-    strategy:
-      matrix:
-        config:
-          - { os: ubuntu-latest }
+    permissions:
+      pull-requests:
+        write
 
     steps:
       # https://stackoverflow.com/a/74268200
@@ -71,3 +70,14 @@ jobs:
           site_root: .
           upload: auto
           job_summary: true
+      - name: Comment preview URL on PR
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.pull_request.number,
+              body: `Click here to see tagged output of changed files: ${{ steps.html_preview.outputs.preview_url }}`
+            });
