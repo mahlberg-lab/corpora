@@ -77,4 +77,4 @@ jobs:
         with:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
-            ${{ steps.docs_preview.outputs.comment_body }}
+            ${{ steps.html_preview.outputs.comment_body }}
