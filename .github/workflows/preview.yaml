@@ -51,7 +51,7 @@ jobs:
       - name: Install prerequisites
         run: sudo clic/prerequisites.sh
       - name: Make server
-        run: make -C clic/server
+        run: make -C clic/server compile
       - name: Generate HTML for every change
         run: |
             echo "<html><head><meta charset="UTF-8"></head><body><h1>Files changed</h1>" > "index.html"
@@ -79,5 +79,5 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               issue_number: context.payload.pull_request.number,
-              body: `Click here to see tagged output of changed files: ${{ steps.html_preview.outputs.preview_url }}`
-            });
+              body: |
+                ${{ steps.html_preview.outputs.comment_body }}
