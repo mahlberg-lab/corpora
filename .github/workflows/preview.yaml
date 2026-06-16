@@ -38,10 +38,11 @@ jobs:
       - name: Check out CLiC
         # NB: Checks out into GITHUB_WORKSPACE, e.g. /home/runner/work/clic/clic
         uses: actions/checkout@v6
-          repository: 'mahlberg-lab/clic'
+        with:
+          repository: mahlberg-lab/clic
           # TODO: Update once merged
-          ref: 'html-region-preview'
-          path: 'clic'
+          ref: html-region-preview
+          path: clic
       - name: Install prerequisites
         run: sudo clic/prerequisites.sh
       - name: Make server
