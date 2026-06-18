@@ -51,15 +51,19 @@ jobs:
         run: |
             # For each changed file...
             git diff --name-only "${{ steps.diff_range.outputs.diff_range }}" -- '*/*.txt' | while read -r f ; do
-                # Output diff, showing only new lines (NB: A new file is all new lines)
-                # NB: This breaks access to .regions.txt. Problematic?
-                mkdir -p "$(dirname "new/${f}")"
-                git diff -U10 --no-indent-heuristic --color=never --output-indicator-new=" " \
-                    "${{ steps.diff_range.outputs.diff_range }}" -- "${f}" \
-                    | awk '/^ / { print substr($_, 2) } /^@/ { print "\n                       . . . .\n" }' \
-                    | tail -n+4 \
-                    > "new/${f}"
-                echo "new/${f}"
+                if [ -e "$(dirname "${f}")/$(basename "${f}" .txt).regions.csv" ]; then
+                  # Can't output a diff if using regions.csv
+                  echo "${f}"
+                else
+                  # Output diff, showing only new lines (NB: A new file is all new lines)
+                  mkdir -p "$(dirname "new/${f}")"
+                  git diff -U10 --no-indent-heuristic --color=never --output-indicator-new=" " \
+                      "${{ steps.diff_range.outputs.diff_range }}" -- "${f}" \
+                      | awk '/^ / { print substr($_, 2) } /^@/ { print "\n                       . . . . unchanged text . . . .\n" }' \
+                      | tail -n+4 \
+                      > "new/${f}"
+                  echo "new/${f}"
+                fi
             done | xargs clictagger --html index.html
       # https://github.com/pavi2410/html-preview-action
       - name: HTML Preview
