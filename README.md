@@ -17,11 +17,6 @@ Also note that the initial file for `gulliver` is found in the initial downloads
 
 The texts of the German “Deutsche Romane des 19. Jahrhunderts” (DE19) corpus originate from the [ELTeC-deu](https://distantreading.github.io/ELTeC/deu/index.html) collection. After a selection process aimed at ensuring that DE19 is comparable to the English 19C corpus in terms of size and gender balance, we converted the ELTeC XML files into plain text files, retaining chapter boundaries. Unlike the English corpora, in German texts, chapter titles are preceded by `###`, with a corresponding chapter segmentation rule added to `clictagger` to avoid making the tagger too language-specific.
 
-## <a name="se:maintaining_repo"></a>Maintaining the corpora repository
-
-Texts added to the corpora repository should be prepared according to the notes in the
-[clictagger documentation](https://mahlberg-lab.github.io/clictagger/).
-
 ### <a name="se:corpus_bib_file"></a>`corpus.bib` files
 
 Within each corpus directory, there is a ``corpus.bib`` file describing metadata about the file.
@@ -84,8 +79,8 @@ Example entry:
 
 ### Adding a new text to a corpus
 
-1.  Clean the text as described in
-    Section [2](#se:cleaning).
+1.  Texts should be prepared according to the notes in the
+    [clictagger documentation](https://mahlberg-lab.github.io/clictagger/text-cleaning/).
 
 2.  Add entry to the relevant `corpus.bib` file; see
     Section [3.1](#se:corpus_bib_file).
