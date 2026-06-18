@@ -22,10 +22,10 @@ The texts of the German “Deutsche Romane des 19. Jahrhunderts” (DE19) corpus
 Texts added to the corpora repository should be prepared according to the notes in the
 [clictagger documentation](https://mahlberg-lab.github.io/clictagger/).
 
-### <a name="se:bib_file"></a>`.bib` file
+### <a name="se:corpus_bib_file"></a>`corpus.bib` files
 
-We currently manage the bibliography in a shared zotero folder. The
-important fields in the bib entries are:
+Within each corpus directory, there is a ``corpus.bib`` file describing metadata about the file.
+The important fields in the bib entries are:
 
 -   The `shorttitle` field must match the filename of the relevant text
     file in the corpus folder.
@@ -35,9 +35,9 @@ important fields in the bib entries are:
 -   The `title`, `author` and `date` fields must be present.
 
 -   The `editor` field is optional and refers to the people or group of people who
-transcribed/edited the text for publication on gutenberg.org. We add this manually based
-on any information in the initial text file from Project Gutenberg (not all text files contain
-this).
+    transcribed/edited the text for publication on gutenberg.org. We add this manually based
+    on any information in the initial text file from Project Gutenberg (not all text files contain
+    this).
 
 Example entry:
 
@@ -51,19 +51,12 @@ Example entry:
             date = {1908},
             keywords = {{ChiLit}}        <<===  corpus id
         }
-        
-Make sure that the entries don't inclue extraneous information. For example, when using the
-Zotero Chrome Add On to export a citation from gutenberg.org, Zotero tends to save licensing
-information. This should be deleted from the Zotero entry.
 
-For the `date` we try to establish the date of the first publication of the novel (or the work as
-a whole, in the case of serialised works), using external information, such as Wikipedia entries.
-We use this date of first publication rather than the date of the edition for the main historical context
-of the novel. Although we do not explicitly record the edition of the book transcribed by Project Gutenber,
-CLiC users can look for this information in the initial versions of the texts: initial versions of 
+### <a name="se:corpora_bib_file"></a>`corpora.bib` file
 
 If you are adding a new corpus, you will also have to create a `@book`
-entry for the corpus. The important fields in the bib entries are:
+entry for the corpus in ``corpora.bib``.
+The important fields in the bib entries are:
 
 -   The `shorttitle` field must match the corpus id used in book
     `keywords`
@@ -89,44 +82,28 @@ Example entry:
             keywords = {corpus}
         }
 
-In order to export the required bib style from Zotero, choose "BibLaTeX" (not BibTeX!)
-in Preferences -> Export. It appears that different versions of Zotero export different
-sequences of `.bib` entries; please check before you update the file. If the sequence differs,
-new entries can be added manually instead of rewriting the entire `.bib` file.
-
 ### Adding a new text to a corpus
 
 1.  Clean the text as described in
     Section [2](#se:cleaning).
 
-2.  Add entry to the `.bib` file; see
-    Section [3.1](#se:bib_file).
-
-3.  Update repository tags; see
-    Section [3.4](#se:tags).
+2.  Add entry to the relevant `corpus.bib` file; see
+    Section [3.1](#se:corpus_bib_file).
 
 ### Adding a new corpus
 
 1.  Add a new folder to the corpus repository.
 
-2.  Add an entry to the `.bib` file for the corpus; see
-    Section [3.1](#se:bib_file).
+2.  Add an entry to the `corpora.bib` file for the corpus; see
+    Section [3.1](#se:corpora_bib_file).
 
-3.  For each new corpus file
+3.  Then add each text as above.
 
-    1.  Clean the text as described in
-        Section [2](#se:cleaning).
+### Merging
 
-    2.  Add entry to the `.bib` file; see
-        Section [3.1](#se:bib_file).
+Once finished, [open a pull request on GitHub to merge your work](https://github.com/mahlberg-lab/corpora/compare).
 
-4.  Update repository tags; see
-    Section [3.4](#se:tags).
-
-
-### Repository Tags
-
-TODO
+A preview will be generated showing the tagging for all changed files.
 
 [^1]: <http://search.cpan.org/perldoc?Text::Unidecode>
 
