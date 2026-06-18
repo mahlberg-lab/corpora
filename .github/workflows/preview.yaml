@@ -45,8 +45,8 @@ jobs:
           cache: 'pip'
           cache-dependency-path: |
             clictagger/setup.py
-      - name: Install clicagger
-        run: pip install -e clictagger
+      - name: Install clictagger from checked out source
+        run: pip install ./clictagger
       - name: Generate HTML for all changes
         run: |
             # For each changed file...
