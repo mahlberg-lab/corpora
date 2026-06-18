@@ -37,23 +37,18 @@ jobs:
         # NB: Checks out into GITHUB_WORKSPACE, e.g. /home/runner/work/clic/clic
         uses: actions/checkout@v6
         with:
-          repository: mahlberg-lab/clic
-          # TODO: Update once merged
-          ref: html-region-preview
-          path: clic
+          repository: mahlberg-lab/clictagger
+          path: clictagger
       - uses: actions/setup-python@v6
         with:
           python-version: '3.13'
           cache: 'pip'
           cache-dependency-path: |
-            clic/server/requirements.txt
-      - name: Install prerequisites
-        run: sudo clic/prerequisites.sh
-      - name: Make server
-        run: make -C clic/server compile
+            clictagger/setup.py
+      - name: Install clicagger
+        run: pip install -e clictagger
       - name: Generate HTML for all changes
         run: |
-            echo "<html><head><meta charset="UTF-8"></head><body><h1>Files changed</h1>" > "index.html"
             # For each changed file...
             git diff --name-only "${{ steps.diff_range.outputs.diff_range }}" -- '*/*.txt' | while read -r f ; do
                 # Output diff, showing only new lines (NB: A new file is all new lines)
@@ -64,11 +59,8 @@ jobs:
                     | awk '/^ / { print substr($_, 2) } /^@/ { print "\n                       . . . .\n" }' \
                     | tail -n+4 \
                     > "new/${f}"
-                # Show regions for these changed parts
-                echo "<br/><h2>${f}</h2>"
-                clic/server/bin/region_preview --html "new/$f"
-            done >> "index.html"
-            echo "</body></html>" >> "index.html"
+                echo "new/${f}"
+            done | xargs clictagger --html index.html
       # https://github.com/pavi2410/html-preview-action
       - name: HTML Preview
         id: html_preview
