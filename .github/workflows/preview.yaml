@@ -1,0 +1,83 @@
+# https://github.github.io/actions-cheat-sheet/actions-cheat-sheet.html
+# https://github.com/actions/checkout
+
+on:
+  push:
+    branches:
+      - 'master'
+  pull_request:
+  workflow_dispatch:
+
+name: html-preview
+
+jobs:
+  int-test:
+    name: Generate HTML preview
+    runs-on: ubuntu-latest
+
+    permissions:
+      pull-requests:
+        write
+
+    steps:
+      # https://stackoverflow.com/a/74268200
+      - uses: actions/checkout@v6
+        with:
+            fetch-depth: ${{ github.event_name == 'pull_request' && 2 || 0 }}
+      - name: Get diff range to compare
+        id: diff_range
+        run: |
+            if ${{ github.event_name == 'pull_request' }}; then
+                echo "diff_range=HEAD^1..HEAD" >> $GITHUB_OUTPUT
+            else
+                echo "diff_range=${{ github.event.before }}..${{ github.event.after }}" >> $GITHUB_OUTPUT
+            fi
+
+      - name: Check out clictagger
+        uses: actions/checkout@v6
+        with:
+          repository: mahlberg-lab/clictagger
+          path: clictagger
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+          cache-dependency-path: |
+            clictagger/setup.py
+      - name: Install clictagger from checked out source
+        run: pip install ./clictagger
+      - name: Generate HTML for all changes
+        run: |
+            # For each changed file...
+            git diff --name-only "${{ steps.diff_range.outputs.diff_range }}" -- '*/*.txt' | while read -r f ; do
+                if [ -e "$(dirname "${f}")/$(basename "${f}" .txt).regions.csv" ]; then
+                  # Can't output a diff if using regions.csv, diff whole thing
+                  echo "${f}"
+                else
+                  # Output diff, showing only new lines (NB: A new file is all new lines)
+                  mkdir -p "$(dirname "new/${f}")"
+                  git diff -U10 --no-indent-heuristic --color=never --output-indicator-new=" " \
+                      "${{ steps.diff_range.outputs.diff_range }}" -- "${f}" \
+                      | awk '/^ / { print substr($_, 2) } /^@/ { print "\n                       . . . . unchanged text . . . .\n" }' \
+                      | tail -n+4 \
+                      > "new/${f}"
+                  # Tell clictagger to diff truncated file
+                  echo "new/${f}"
+                fi
+            done | xargs clictagger --html index.html
+      # https://github.com/pavi2410/html-preview-action
+      - name: HTML Preview
+        id: html_preview
+        uses: pavi2410/html-preview-action@b58683c238478d5f8b5dacf4fe5e3f403afb449a
+        with:
+          html_file: index.html
+          site_root: .
+          upload: auto
+          job_summary: true
+      - name: Comment preview artifact on PR
+        if: github.event_name == 'pull_request'
+        uses: peter-evans/create-or-update-comment@a111a2c3bacd7be7898ee22d0d71d9aec2bb972c
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body: |
+            [Preview of these changes with CLiC tags](${{ steps.html_preview.outputs.artifact_url }})
