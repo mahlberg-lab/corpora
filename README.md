@@ -1,6 +1,6 @@
 # Corpora: A collection of reformatted texts for use with CCR tools.
 
-This document explains the procedure for cleaning and adding the corpora texts. For a list of included texts, please see [INDEX.pdf](INDEX.pdf).
+This document explains the procedure for cleaning and adding the corpora texts.
 
 ## Source texts
 
