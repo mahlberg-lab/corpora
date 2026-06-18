@@ -1,6 +1,6 @@
-# Corpora: A collection of reformatted texts for use with CCR tools.
+# Corpora: A collection of reformatted texts for use with CLiC
 
-This document explains the procedure for cleaning and adding the corpora texts.
+This repository contains the source texts used in [CLiC web application](https://clic-fiction.com/).
 
 ## Source texts
 
@@ -9,9 +9,9 @@ from [gutenberg.org](https://gutenberg.org/) in a folder for the relevant corpus
 
 This process has been followed for the two most recent CLiC corpora, ChiLit and Arts. The initial files are available from previous commits to this repository:
 
-- [initial versions of ChiLit files added 2017-09-10](https://github.com/birmingham-ccr/corpora/tree/a020b2a7153baf8849056be833861ecb3d77e7a1/ChiLit)
-- [initial versions of ArTs files added 2017-10-26](https://github.com/birmingham-ccr/corpora/tree/026a8436bf9ea3282d283a05725c0153e023d74c/Other) (this corpus was originally called "Other")
-- [initial versions of ArTs files added 2019-01-16](https://github.com/birmingham-ccr/corpora/commit/1018b422c709b08cb5dbb3fc066dad8d15c0b3fd#diff-b90e831a9520a85b9e7620aa1fac6591) (as part of the ArTs expansion)
+- [initial versions of ChiLit files added 2017-09-10](https://github.com/mahlberg-lab/corpora/tree/a020b2a7153baf8849056be833861ecb3d77e7a1/ChiLit)
+- [initial versions of ArTs files added 2017-10-26](https://github.com/mahlberg-lab/corpora/tree/026a8436bf9ea3282d283a05725c0153e023d74c/Other) (this corpus was originally called "Other")
+- [initial versions of ArTs files added 2019-01-16](https://github.com/mahlberg-lab/corpora/commit/1018b422c709b08cb5dbb3fc066dad8d15c0b3fd#diff-b90e831a9520a85b9e7620aa1fac6591) (as part of the ArTs expansion)
 
 Also note that the initial file for `gulliver` is found in the initial downloads for ChiLit above; the book was later moved to the ArTs corpus.
 
