@@ -11,14 +11,13 @@ on:
 name: html-preview
 
 jobs:
-  int-test:
-    name: Generate HTML preview
+  enumerate:
+    name: Enumerate changed files
     runs-on: ubuntu-latest
-
-    permissions:
-      pull-requests:
-        write
-
+    outputs:
+      files: ${{ steps.list.outputs.files }}
+      diff_before: ${{ steps.diff_range.outputs.diff_before }}
+      diff_after: ${{ steps.diff_range.outputs.diff_after }}
     steps:
       # https://stackoverflow.com/a/74268200
       - uses: actions/checkout@v6
@@ -28,11 +27,37 @@ jobs:
         id: diff_range
         run: |
             if ${{ github.event_name == 'pull_request' }}; then
-                echo "diff_range=HEAD^1..HEAD" >> $GITHUB_OUTPUT
+                echo "diff_before=HEAD^1" >> $GITHUB_OUTPUT
+                echo "diff_after=HEAD" >> $GITHUB_OUTPUT
             else
-                echo "diff_range=${{ github.event.before }}..${{ github.event.after }}" >> $GITHUB_OUTPUT
+                echo "diff_before=${{ github.event.before }}" >> $GITHUB_OUTPUT
+                echo "diff_after=${{ github.event.after }}" >> $GITHUB_OUTPUT
             fi
+      - name: List changed files as JSON matrix
+        id: list
+        run: |
+            files=$(git diff --name-only "${{ steps.diff_range.outputs.diff_before }}..${{ steps.diff_range.outputs.diff_after }}" -- '*/*.txt' \
+                | jq -R -s -c 'split("\n") | map(select(length > 0)) | map({txt: ., regions: (. | sub("\\.txt$"; ".regions.csv"))})')
+            echo "files=${files}" >> $GITHUB_OUTPUT
 
+  preview:
+    name: Preview
+    needs: enumerate
+    if: needs.enumerate.outputs.files != '[]'
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        entry: ${{ fromJSON(needs.enumerate.outputs.files) }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+            ref: ${{ needs.enumerate.outputs.diff_after }}
+            fetch-depth: 0
+            sparse-checkout: |
+                ${{ matrix.entry.txt }}
+                ${{ matrix.entry.regions }}
+            sparse-checkout-cone-mode: false
       - name: Check out clictagger
         uses: actions/checkout@v6
         with:
@@ -46,25 +71,9 @@ jobs:
             clictagger/setup.py
       - name: Install clictagger from checked out source
         run: pip install ./clictagger
-      - name: Generate HTML for all changes
+      - name: Generate HTML for ${{ matrix.entry.txt }}
         run: |
-            # For each changed file...
-            git diff --name-only "${{ steps.diff_range.outputs.diff_range }}" -- '*/*.txt' | while read -r f ; do
-                if [ -e "$(dirname "${f}")/$(basename "${f}" .txt).regions.csv" ]; then
-                  # Can't output a diff if using regions.csv, diff whole thing
-                  echo "${f}"
-                else
-                  # Output diff, showing only new lines (NB: A new file is all new lines)
-                  mkdir -p "$(dirname "new/${f}")"
-                  git diff -U10 --no-indent-heuristic --color=never --output-indicator-new=" " \
-                      "${{ steps.diff_range.outputs.diff_range }}" -- "${f}" \
-                      | awk '/^ / { print substr($_, 2) } /^@/ { print "\n                       . . . . unchanged text . . . .\n" }' \
-                      | tail -n+4 \
-                      > "new/${f}"
-                  # Tell clictagger to diff truncated file
-                  echo "new/${f}"
-                fi
-            done | xargs clictagger --html index.html
+            clictagger --compare-to "${{ needs.enumerate.outputs.diff_before }}" --html index.html "${{ matrix.entry.txt }}"
       # https://github.com/pavi2410/html-preview-action
       - name: HTML Preview
         id: html_preview
@@ -74,10 +83,46 @@ jobs:
           site_root: .
           upload: auto
           job_summary: true
-      - name: Comment preview artifact on PR
-        if: github.event_name == 'pull_request'
+      - name: Save link entry
+        run: |
+            mkdir -p links
+            printf -- '- [%s](%s)\n' \
+                '${{ matrix.entry.txt }}' \
+                '${{ steps.html_preview.outputs.artifact_url }}' \
+                > "links/${{ strategy.job-index }}.md"
+      - name: Upload link entry
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview-link-${{ strategy.job-index }}
+          path: links/${{ strategy.job-index }}.md
+
+  comment:
+    name: Comment preview links on PR
+    needs: [enumerate, preview]
+    if: github.event_name == 'pull_request' && needs.enumerate.outputs.files != '[]'
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests:
+        write
+    steps:
+      - name: Download link entries
+        uses: actions/download-artifact@v4
+        with:
+          pattern: preview-link-*
+          path: links
+          merge-multiple: true
+      - name: Assemble comment body
+        id: body
+        run: |
+            {
+                echo 'body<<COMMENT_EOF'
+                echo 'Preview of these changes with CLiC tags:'
+                echo ''
+                cat links/*.md | sort
+                echo 'COMMENT_EOF'
+            } >> $GITHUB_OUTPUT
+      - name: Comment preview links on PR
         uses: peter-evans/create-or-update-comment@a111a2c3bacd7be7898ee22d0d71d9aec2bb972c
         with:
           issue-number: ${{ github.event.pull_request.number }}
-          body: |
-            [Preview of these changes with CLiC tags](${{ steps.html_preview.outputs.artifact_url }})
+          body: ${{ steps.body.outputs.body }}
