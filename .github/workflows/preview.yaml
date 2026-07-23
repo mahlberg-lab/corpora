@@ -73,7 +73,11 @@ jobs:
         run: pip install ./clictagger
       - name: Generate HTML for ${{ matrix.entry.txt }}
         run: |
-            clictagger --compare-to "${{ needs.enumerate.outputs.diff_before }}" --html index.html "${{ matrix.entry.txt }}"
+            if git cat-file -e '${{ needs.enumerate.outputs.diff_before }}:${{ matrix.entry.txt }}' 2>/dev/null; then
+                clictagger --compare-to '${{ needs.enumerate.outputs.diff_before }}' --html index.html '${{ matrix.entry.txt }}'
+            else
+                clictagger --html index.html '${{ matrix.entry.txt }}'
+            fi
       # https://github.com/pavi2410/html-preview-action
       - name: HTML Preview
         id: html_preview
