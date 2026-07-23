@@ -27,8 +27,8 @@ jobs:
         id: diff_range
         run: |
             if ${{ github.event_name == 'pull_request' }}; then
-                echo "diff_before=HEAD^1" >> $GITHUB_OUTPUT
-                echo "diff_after=HEAD" >> $GITHUB_OUTPUT
+                echo "diff_before=$(git rev-parse HEAD^1)" >> $GITHUB_OUTPUT
+                echo "diff_after=$(git rev-parse HEAD)" >> $GITHUB_OUTPUT
             else
                 echo "diff_before=${{ github.event.before }}" >> $GITHUB_OUTPUT
                 echo "diff_after=${{ github.event.after }}" >> $GITHUB_OUTPUT
