@@ -21,12 +21,13 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     environment: production
-    if: ${{ secrets.SSH_KEY != '' && vars.KNOWN_HOSTS != '' && vars.SSH_HOST != '' }}
     steps:   
     - name: Install SSH key
+      if: ${{ vars.KNOWN_HOSTS != '' }}
       uses: shimataro/ssh-key-action@87a8f067114a8ce263df83e9ed5c849953548bc3
       with:
         key: ${{ secrets.SSH_KEY }}
         known_hosts: ${{ vars.KNOWN_HOSTS }}
     - name: Run update script
+      if: ${{ vars.SSH_HOST != '' }}
       run: ssh ${{ vars.SSH_HOST }}
