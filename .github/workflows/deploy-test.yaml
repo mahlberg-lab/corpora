@@ -1,0 +1,33 @@
+name: Deploy to clic server (test)
+
+# Configure environment with
+# Secrets:
+# * SSH_KEY: ssh-keygen -t ed25519
+# Variables:
+# * SSH_PUBKEY: (public key half)
+# * SSH_HOST: user@host
+# * KNOWN_HOSTS: ssh-keyscan (host)
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+concurrency:
+  group: deploy-clic-test
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment: test
+    if: ${{ secrets.SSH_KEY != '' && vars.KNOWN_HOSTS != '' && vars.SSH_HOST != '' }}
+    steps:   
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@87a8f067114a8ce263df83e9ed5c849953548bc3
+      with:
+        key: ${{ secrets.SSH_KEY }}
+        known_hosts: ${{ vars.KNOWN_HOSTS }}
+    - name: Run update script
+      run: ssh ${{ vars.SSH_HOST }}
