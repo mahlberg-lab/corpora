@@ -9,8 +9,6 @@ name: Deploy to clic server (production)
 # * KNOWN_HOSTS: ssh-keyscan (host)
 
 on:
-  push:
-    branches:
   workflow_dispatch:
 
 concurrency:
