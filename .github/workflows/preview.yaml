@@ -94,39 +94,11 @@ jobs:
                 '${{ matrix.entry.txt }}' \
                 '${{ steps.html_preview.outputs.artifact_url }}' \
                 > "links/${{ strategy.job-index }}.md"
+            # Stash the PR number so the workflow_run follow-up can find it.
+            # (identical for every matrix job, merge-multiple dedupes it)
+            echo '${{ github.event.pull_request.number }}' > links/pr-number.txt
       - name: Upload link entry
         uses: actions/upload-artifact@v4
         with:
           name: preview-link-${{ strategy.job-index }}
-          path: links/${{ strategy.job-index }}.md
-
-  comment:
-    name: Comment preview links on PR
-    needs: [enumerate, preview]
-    if: github.event_name == 'pull_request' && needs.enumerate.outputs.files != '[]'
-    runs-on: ubuntu-latest
-    permissions:
-      pull-requests:
-        write
-    steps:
-      - name: Download link entries
-        uses: actions/download-artifact@v4
-        with:
-          pattern: preview-link-*
-          path: links
-          merge-multiple: true
-      - name: Assemble comment body
-        id: body
-        run: |
-            {
-                echo 'body<<COMMENT_EOF'
-                echo 'Preview of these changes with CLiC tags:'
-                echo ''
-                cat links/*.md | sort
-                echo 'COMMENT_EOF'
-            } >> $GITHUB_OUTPUT
-      - name: Comment preview links on PR
-        uses: peter-evans/create-or-update-comment@a111a2c3bacd7be7898ee22d0d71d9aec2bb972c
-        with:
-          issue-number: ${{ github.event.pull_request.number }}
-          body: ${{ steps.body.outputs.body }}
+          path: links/
