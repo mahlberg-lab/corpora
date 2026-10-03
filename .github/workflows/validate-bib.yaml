@@ -1,0 +1,57 @@
+# Check corpora.bib can be parsed by CLiC's import code
+#
+# Kept separate from html-preview, so a failure here doesn't stop
+# html-preview-comment posting preview links.
+
+on:
+  push:
+    branches:
+      - 'master'
+  pull_request:
+  workflow_dispatch:
+
+name: validate-bib
+
+jobs:
+  validate-bib:
+    name: Validate corpora.bib
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+            sparse-checkout: |
+                corpora.bib
+            sparse-checkout-cone-mode: false
+      # Only the python sources are needed, not a full CLiC install
+      - name: Check out CLiC
+        uses: actions/checkout@v6
+        with:
+          repository: mahlberg-lab/clic
+          path: clic
+          sparse-checkout: |
+              server/clic
+              server/requirements.txt
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.13'
+      - name: Install bib parsing dependencies
+        run: pip install $(grep -E '^(pybtex|pylatexenc)==' clic/server/requirements.txt)
+      - name: Parse corpora.bib
+        env:
+          PYTHONPATH: clic/server
+        run: |
+            python - <<'EOF'
+            import sys
+            from clic.migrate.corpora_repo import parse_corpora_bib
+
+            ok = True
+            for c in parse_corpora_bib('.'):
+                if 'name' not in c:
+                    # Books keyword-ed with a corpus that has no entry of its own
+                    print("::error file=corpora.bib::No corpus entry for books: %s" % ", ".join(c['contents']))
+                    ok = False
+                    continue
+                print(c['title'])
+            sys.exit(0 if ok else 1)
+            EOF
